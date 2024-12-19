@@ -1,0 +1,4786 @@
+﻿
+*** START OF THE PROJECT GUTENBERG EBOOK 74889 ***
+
+language: Finnish
+
+
+
+
+LAHONNEITA PUURISTEJÄ
+
+Kirj.
+
+Viktor Rákosi
+
+
+Unkarin kielestä tekijän luvalla suomentanut
+
+Ilona Jalava
+
+
+
+
+
+Porvoossa,
+Werner Söderström,
+1901.
+
+
+
+
+SISÄLLYS:
+
+Viktor Rákosi.
+Lahonneita puuristejä.
+Sztrecsnón punaiset kukat.
+Tsaari.
+Tsherkessiläisen kapteenin kertomukset.
+Keisari 1849.
+Zsadony ja Kamasz.
+Haaveksittu tapaus.
+Legioonalainen.
+Juutalaispoika.
+Kolmannen pataljoonan ryssä.
+Gyönk'in kansalliskaartilaiset.
+János sankari.
+Preszákan varjot.
+Kaksi tapausta.
+
+
+
+
+VIKTOR RÁKOSI.
+
+
+Viktor Rákosi on yksi Unkarin etevimpiä kirjailijoita, on syntynyt
+Syyskuun 20 p:nä 1860 Zalan komitaatissa Balaton (Platten)-järven
+pohjoispuolella, jossa hänen isänsä oli maatilanhoitaja. Kahden
+vuoden iällä hän, isän jouduttua taloudelliseen ahdinkoon,
+lähetettiin vanhemman veljensä Bélan luo, joka oli kunnanlääkärinä
+Siebenbürgenissä. Siellä hän tutustui Székelyien, erään magyarien
+vanhimman ja älykkäimmän kansanheimon elämään ja tapoihin,
+joihin suuresti mieltyi ja joita hän myöhemmin kuvaili useissa
+kertomuksissaan. V. 1871 hän tuli Piaristien kymnaasiin Budapestiin,
+jossa hänen toinen vanhempi veljensä Jenö, tämäkin etevä kirjailija
+ja runoilija, oli sanomalehdentoimittajana. Siellä hän perusti
+oppilasten kesken kirjallisen seuran, jonka jäsenet kyhäsivät etenkin
+näytelmäkappaleita ja näitä itse näyttelivät. Kahdeksantoista vuoden
+iällä yliopistoon päästyään, hän oli pakoitettu itse hankkimaan
+leipänsä ja rupesi sen vuoksi erään sanomalehden palvelukseen, joka
+lehti kumminkin pian lakkasi ilmestymästä. Oltuansa vielä erään
+toisenkin sanomalehden toimituksessa, hän 1881 tuli aputoimittajaksi
+veljensä silloin perustamaan _Budapesti Hirlap'iin_, joka vähitellen
+saavutti yleisön suosiota ja kannatusta siihen määrin, että se nykyään
+on Unkarin enimmin levinnyt ja tuettu valtiollinen päivälehti. Tämän
+lehden toimituksessa on Viktor Rákosi siitä asti pysynyt, kirjoittaen
+siihen (ja vielä muihinkin lehtiin, aikakauskirjoihin ja kalentereihin)
+jos jotakin, mutta varsinkin kaunokirjallisia kertomuksia ja jutteluja
+("causerie'oita") salanimellä _Sipulus_, joka Unkarissa on tullut
+maan kuuluksi. Lehtensä toimissa hän on monta kertaa matkustanut
+Itävallassa, Saksassa, Ranskassa, Italiassa, Tanskassa, Balkanin
+niemimaalla y.m.
+
+Rákosi on erikseen julkaissut suuren joukon novelleja ja romaaneja,
+joista mainittakoon: _Päivänpaistetta, Yllyttäjiä, Maalais-Hamlet,
+Sipuluksen kertoelmia, Salapesiä, Talvinen tarina, Gyalu, Zuboly ja
+heidän toverinsa, Barnabaan orjuus ja muita kertomuksia, Vaienneet
+kellot_. Niistä on osa käännetty saksan, ranskan, italian, tanskan,
+venäjän, puolan, tshekin ja kroatin kielelle.
+
+Unkarin vapaussodan puolenvuosisadan muistojuhlaksi 1898 Rákosi,
+yhdessä László Beöthyn kanssa, kirjoitti _Kultahäät_ nimisen
+isänmaallisen draaman, jossa mainitun sodan kuuluisimpia tapauksia ja
+henkilöitä esitellään väririkkaissa ja vaikuttavissa kuvaelmissa. Tämä
+näytelmä saavutti sellaisen menestyksen, että sitä eräässä Budapestin
+teatterissa annettiin 100 kertaa perätysten, ja sittemmin se on
+joutunut kaikkien unkarilaisten teatterien pysyväiseen ohjelmistoon. —
+Pari huvinäytelmääkin Rákosi on kirjoittanut.
+
+Yhdessä Mauri Jókain kanssa Rákosi on toimittanut kuvilla varustetun
+_Unkarin vapaussodan historian_.
+
+Viktor Rákosin kirjailijaluonteen omituisin ja -alkuperäisin ilmiö
+on se raitis huumori eli leikillisyys, jolla hän kuvailee nykyajan
+jokapäiväistä elämää ja sen eriskummaisuuksia. Hänen huumorilliset
+kertomuksensa, jotka uhkuvat sukkelia kokkapuheita ja sanasutkauksia
+sekä hyvänsävyisää ivaa ovatkin yleisesti suosittuja.
+
+Suurimman suosion Rákosin teoksista lienee kuitenkin saavuttanut se,
+joka nyt esiintyy suomenkielisessä asussa. _Korhadt Fakeresztek,_
+Lahonneita puuristejä, ilmestyi painosta 1899. Sen tarkoituksena on,
+tekijän omain sanain mukaan, Unkarin viimeisen kansallisen eepoksen,
+s.o. 1848-49 vuosien vapaussodan unhotetuille henkilöille pystyttää
+vaatimaton muistomerkki.
+
+Tuo sota syttyi, kuten tunnettu, sen johdosta, että Itävalta tahtoi
+riistää Unkarilta sen perustuslaillisen hallitusmuodon, minkä
+näiden molempien valtakuntien yhteinen hallitsija 1848 vuoden
+vallankumousliikkeiden takia oli ollut pakotettu jälkimmäiselle
+maalle myöntämään. Itävallan hallitus kiihotti sitä varten ensin
+kapinaan Unkarissa asuvia ei-magyarilaisia kansallisuuksia, varsinkin
+kroatilaisia ja valakkilaisia, joista jälkimmäiset harjoittivat julmia
+hirmutekoja, ja lähetti sittemmin unkarilaisia vastaan, jotka olivat
+tarttuneet aseisin perustuslakejaan ja vapauttaan puolustaaksensa,
+itävaltalaisia sotajoukkoja ruhtinas Windischgrätz'in johdolla.
+Unkarilaiset kärsivät alussa, ennenkuin ehtivät saada puolustusvoimansa
+järjestetyiksi ja harjoitetuiksi, tappioita ja heidän täytyi peräytyä,
+mutta kenraali Arthur Görgein tultua, keväällä 1849, Unkarin armeijan
+ylipäälliköksi, he voittivat itävaltalaiset useissa loistavissa
+tappeluissa, m.m. Branyiszkón, Tápió-Bicsken, Vác'in ja Isaszeg'in
+luona. Vaan silloin tulivat venäläiset itävaltalaisten avuksi ja kahden
+suurvallan yhdistynyttä ylivoimaa vastaan unkarilaisten oli mahdoton
+ajan pitkään puoliaan pitää, jonka vuoksi Görgei sotajoukkonsa kanssa
+Elokuun 13 p:nä 1849 Világos'in luona heitti aseet venäläisille.
+
+Tämän vapaussodan aikuisia tapauksia tekijä kuvailee näissä
+kertomuksissaan.
+
+Helsingissä, Elokuulla 1901.
+
+_Antti Jalava_.
+
+
+
+
+Lahonneita puuristejä.
+
+
+Laajalti olen kulkenut maailmaa. Olen seisonut San Genaron temppelin
+alttaanilla, ihaillut hurmaavaa Napolia ja sen sinistä merenlahtea,
+jota ympäröi sammumaton Vesuvio, Sorrenton tummanvihreät öljypuumetsät,
+Castellamaren ja Posilippon punavalkeat talot. Olen kuunnellut Pyhän
+Pietarin kirkon katolta kellojen kuuluttavan ylösnousemusta ikuisen
+kaupungin asukkaille. Mont-Martren huipulta olen kummastellut maailman
+pääkaupungin kuumeentapaista hyörinää. Norjan vuonoilla olen kuunnellut
+pohjatuulen ulvontaa, joka ehkä siksi on tuskallisempi tuolla kaukana,
+kun terävät kalliot myrskyn runkoa runtelevat...
+
+Ja kuitenkaan, kuitenkaan... Kun palasin rauhalliseen kotiini, eivät
+hiipineet yöllisiin uniini Napolin kauneudet, Rooman suuret muistot,
+Pariisin ihanuudet eikä Norjan jylhät maisemat. Valveilla ollessani
+usein loihdin muistooni takaisin ne päivät, jotka siellä olin
+viettänyt. Mutta uneni veivät minut muualle.
+
+Vuosia sitä ennen olin matkustanut Hargittan suuren székely-alpin
+kautta. Metsä seisoi täydessä loistossaan, taivas oli pilvetön ja
+kiitolliset linnut ylistivät Luojaa kauneimmilla lauluillaan. Ja kun
+hitaasti kapusimme ylöspäin, huomaan yhtäkkiä hautakummun, jossa on
+lahonnut puuristi. Sitten tulee näkyviin toinen hautakumpu, kolmas
+hauta... neljäs hauta... risteineen tai ilman sitä... Ajajani nosti
+lakkiaan.
+
+— Mitä hautoja nämä ovat?
+
+— Honvéd-hautoja. [_Honvéd_ (isänmaanpuolustaja) on Unkarin kansallisen
+sotaväen nimi. Suoment. muist.]
+
+— Ketkä niitten alle on haudattu?
+
+— Kuka tietäisi sanoa heidän nimensä? Siitä on jo kulunut neljäkymmentä
+vuotta, hyvä herra. He kaatuivat vapaussodassa. Jumala suokoon rauhaa
+heidän tomulleen.
+
+— Amen.
+
+Äänettöminä kuljimme eteenpäin, metsäkukkien peittämät haudat jäivät
+taaksemme.
+
+... Ja kun saavuin Branyiszkón huipulle, näin siellä taas metsäkukkien
+peittämiä, hyljättyjä, maahan vajonneita hautoja lahonneine, kaatuneine
+puuristeineen... Ajomies nosti lakkiaan ja tehden ristinmerkin rukoili
+tuntemattomien kuolleitten puolesta...
+
+Äänettöminä kuljimme eteenpäin, metsäkukkien peittämät haudat jäivät
+taaksemme.
+
+Valveilla ollessani jäivät ne mielestänikin, mutta unissani ne
+ilmestyivät taas, enkä minä silloin harhaillut bulevardeilla, korsoilla
+ja gallerioissa, vaan hyljätyillä hautausmailla ja poljettuin hautain
+keskellä.
+
+... Eräänä kuutamoisena kevätiltana matkustin talonpoikaisrattailla
+Nagy-Kátasta Pánd'iin. Venyin oljilla puolinukuksissa, kun ajaja
+pysähti.
+
+— Missä ollaan?
+
+— Tápión sillan luona.
+
+... Me seisoimme Tápió-Bicken tappelutantereella. Kuun keltainen
+loiste valaisi kenttää kahdelta puolen. Ja kun kohotin päätäni, näkyi
+keltaisessa loisteessa taas lahonneita puuristejä, maahan vajonneita
+hautoja... yksi... kymmenen... Ja kun nousin pystyyn ja katsoin
+ympärilleni, näin kaikkialla, oikealla ja vasemmalla, edessäni ja
+takanani nimettömien kuolleitten ristejä sadottain, tuhansittain
+toistensa vieressä... ikäänkuin olisi näköpiiri silmieni edessä
+laajentunut... minä näin loppumattomiin... koko maa avautui eteeni...
+ja jyrkiltä vuorilta, hiljaisista laaksoista, metsistä, purojen ja
+vesiputousten partailta nimettömät puuristit ojensivat minua kohden
+kuivat, mustat käsivartensa...
+
+Ja silloin minä ymmärsin, mitä nuo puuristit puhuivat.
+
+Tuntemattomat urhot, nimettömät marttyyrit, pienet, unohdetut
+kohottavat minua kohden kuivat, luiset käsivartensa.
+
+Ne, jotka tuhansittain kaatuivat kentälle ja jäljettömissä haudoissaan
+nukkuvat ikuista untaan.
+
+Ne, jotka hävisivät ilman pienintäkään kunnian ja maineen toivoa...
+joita odotti ainoastaan kärsimys ja kuolema... mutta jotka pelastivat
+kansan kunnian.
+
+Ne, joitten luista kohosivat sotapäällikköjen ja valtiomiesten
+suuruutta kertovat muistomerkit ja joitten kuuluisuudesta tietää ehkä
+ainoastaan iltatuuli, kun se heidän haudoillaan puhjenneitten kukkien
+kanssa kuiskien leikkii.
+
+Ja silloin nousin, paljastin pääni ja kohottaen kaksi sormeani kalpeaa
+kuutamoa kohden tein sen lupauksen että mitä kykyä Jumala minulle on
+antanut, sitä olen käyttävä _pystyttääkseni viimeisen kansallisen
+eepoksen pienille henkilöille vaatimattoman muistomerkin_.
+
+Niin syntyi tämä kirja.
+
+Siinä on todenperäisiä tapauksia, pölyisistä asiakirjoista, sen
+aikuisista kellastuneista kirjeistä, vielä elävien aikalaisten
+suullisista kertomuksista poimittuja. Siinä on haaveellisia juttuja,
+joilla halusin kuvata silloisten ihmisten huimaa luontoa... Muutamissa
+kertomuksissa olen kuvaillut omia rohkeita unelmiani... Siellä
+täällä helähtää iloisemmat kielet jokapäiväisen leirielämän ja
+hilpeämielisten, yksinkertaisten sotilaspoikien, kansalliskaartilaisten
+ajatustavan kuvaamiseksi...
+
+Sydämestäni se lähti. Ottakaa se vastaan sydämiinne.
+
+
+
+
+Sztrecsnón punaiset kukat.
+
+
+I.
+
+Joskus valtaa ihmisen joku suuri suru. Kun katselen lasteni iloisiin
+silmiin ja kuuntelen heidän yksinkertaista laverrustaan, juohtuu
+mieleeni, että elämä on niin kaunis ja niin lyhyt. Synnymme maailmaan,
+kömmimme vähäisen ulos sen lämpimään lekottelemaan, sitten palaamme
+heti takaisin olemattomuuteen. Kun kuutamoyönä näen myöhästyneitten
+lintujen kiitävän kuunvalossa, juohtuu aina mieleeni ihmisen elämä.
+Sekin on samanlainen. Tulemme pimeydestä, silmänräpäyksen näymme
+valossa, sitten taas nielaisee pimeys. Mistä tulimme, mihin menemme:
+näitä kahta salaisuutta emme voi selittää.
+
+Mutta minulla on väsyneitä ja ikäviä hetkiä, jolloin elämä tuntuu
+pitkältä ja toivoisin että minäkin jo olisin tuossa pitkässä mustassa
+saatossa, joka alati kulkee hautausmaata kohden ja josta ei ikinä
+loppua tule. Jolloin olen kyllästynyt läähättävin rinnoin ja kalpein
+kasvoin sinne tänne juokseviin ihmisiin. Kyllästynyt tähän kylmään
+kivikaupunkiin, sen sairaloiseen komeuteen ja ikuiseen, huumaavaan
+meluun.
+
+Silloin katoan täältä, eikä kukaan tiedä, mihin olen joutunut.
+Asetun Lagostan kallioiselle rannalle ja tuijotan ihaillen Adrian
+siniseen syvyyteen. Taikka piilen kangastavalle tasangolle pieneen
+valkoiseen taloon ja syön tummaihoisten talonpoikain kanssa yhdestä
+vadista tähtisen taivaan alla. Taikka nousen Karpaatein korkeimmille
+kukkuloille ja kuuntelen metsän huminaa, koskien kohinaa ja kotkain
+kimeätä huutoa.
+
+Ja näiltä paikoilta tuon kotiin vanhoja, unohdettuja kertomuksia. En
+koskaan tiedä, meren kohinastako ne ilmestyivät, humisevat puutko niitä
+minulle tarinoivat vai vanhat paimenetko niitä kuutamoyönä korviini
+kuiskasivat.
+
+Tämänkin kertomuksen olen siten kuullut, tahi ehkä uneksinut?
+
+
+
+II.
+
+Kuljeskelin Karpaateilla. Olin noussut korkeita vuoria, enkä
+päiväkausiin ollut nähnyt ihmisasunnoita.
+
+Ja eräänä päivänä saavuimme vuoren huipulle, jonka yli kulki syvä tie,
+ja oppaani, vanha Szepes'in porvari Kristian Zimmer, virkkoi osoittaen
+alas laaksoon:
+
+— Katsokaa, hyvä herra, tuolla on Puola. Tässä seisomme Unkarin rajalla.
+
+Kauvan harhaili katseeni etäisyydessä, vihdoin se väsyi ja palasi
+läheisyyteen. Silloin huomasin hämmästyen, että huippu, jolla
+seisoimme, _kasvoi pelkkiä punaisia kukkia_.
+
+— Katsokaa, vanhus, tällaista en ole ennen nähnyt, tällä vuorella
+kasvaa ainoastaan punaisia kukkia.
+
+— Se on varmaa, että täällä ei ole ainoatakaan valkeata, sinistä tai
+keltaista kortta.
+
+— Ja te ette tätä kummastele?
+
+— En.
+
+— Te tiesitte sen?
+
+— Tiesin. Ja tekö ette olisi koskaan kuullut kertomusta Sztrecsnón
+punaisista kukista?
+
+— En. Onko niistä joku kertomus?
+
+— On.
+
+Vanhus piirteli maahan pitkällä sauvallaan, sitten, ikäänkuin itsekseen
+jupisten, jatkoi:
+
+— Te herrat, jotka asutte suurissa kivitaloissa toinen toisenne päällä,
+ette tunne maata. Te luulette, ettei sillä ole järkeä... On kuin onkin.
+Maa tietää, mitä tekee. Kylässämme hautausmaa on jaettu kahteen osaan.
+Toiseen osaan haudataan ainoastaan lapsia... Tämä osa kasvaa keväisin
+ainoastaan valkeita kukkia. Niin kaunis on silloin hautausmaa, on kuin
+puhtaan lumen peitossa... Ja koko kesän pysyy se samanlaisena. Siksi
+kun siihen sataa lunta. Ja talvellakin se on kuin täynnä valkeita
+kukkia. Puhtaat, viattomat sielut uinailevat meillä ijäti valkean
+käärinliinan alla. Kun minä olin pieni lapsi, kasvoi Sztrecsnón
+huippukin kaikenvärisiä kukkia, vaan nyt se ei voi muunvärisiä kasvaa
+kuin punaisia, sillä paljon verta on tälle vuorelle vuotanut.
+
+— Enemmän, enemmän!
+
+Minä asetuin hänen eteensä, katseeni kiintyi häneen ja hän jatkoi
+verkkaisella, katkonaisella äänellä kertomustaan.
+
+
+
+III.
+
+Sztrecsnón huippua vartioitsi kapteeni János Szeredai
+seitsemälläkymmenelläkahdella honvédilla ja parilla sadalla huonosti
+varustetulla kansalliskaartilaisella. [Kansalliskaartilaisiksi
+sanottiin isänmaan puolustukseksi aseisiin tarttuneita kansalaisia.
+Suoment. muist.]
+
+Kaksi ratsumiestä oli heidän mukanaan, ne lähetti Szeredai Puolan
+laaksoihin, että pian toisivat tiedon, jos sieltä joku vaara lähestyy.
+
+Silloin jo odotettiin venäläisten hyökkäystä maahan.
+
+Eräänä aamuna tulivat nuo kaksi ratsumiestä täyttä laukkaa ajaen ja
+ilmoittivat Szeredaille, että ääretön joukko venäläisiä tulvaili
+laaksoihin ja alkoi hitaasti nousta ylös vuorelle.
+
+Aamusumun lävitse tunkeutui kaukainen torventoitotus ja kova töminä
+ylös huipulle.
+
+Jo tulevat.
+
+Szeredai kokosi kansalliskaartilaiset ja puhui heille näin:
+
+— Hyvät ystävät, täten käsken teitä, menkää kotiinne, takokaa
+viikatteenne jälleen käyriksi, pankaa pois kirveenne, piiloittakaa
+pyssynne. Teillä on vaimo, lapsia, minä en voi pitää teitä täällä.
+Käännös, lähtekää!
+
+Kansalliskaartilaiset lähtivät. Kapteeni piti vain erään vanhan
+talonpojan luonaan. Sitten puhallutti hän hätätorvea ja puhui rintaman
+edessä:
+
+— Pojat! Meitä on tässä seitsemänkymmentäkolme ja tuolta alhaalta
+sumusta lähestyy meitä satatuhatta venäläistä. Mutta meidän täytyy
+asettua tätä sotajoukkoa vastaan, jottei sen päälliköt ilmoittaisi
+ylpeälle tsaarille, että se ilman miekan iskua pääsi Unkarin rajan
+yli. Meidän täytyy heitä vastustaa... meidän täytyy heille näyttää,
+että ainoastaan sillä tavalla saattoivat tunkea isänmaamme alueelle,
+että teurastivat meidät kaikki. Saakoot nähdä että he näitten vuorten
+toisella puolella tulevat tekemisiin sellaisen kansan kanssa, joka
+tietää kuolla vapautensa eteen.
+
+... Tuo pieni joukko nuoria poikia kuluneissa vaatteissa kiinnitti
+palavan katseensa kapteeniin.
+
+— Pojat! Isänmaamme on hukassa. Sellaisella ylivoimalla tullaan
+päällemme, että meidän täytyy menehtyä.
+
+Aina iloinen Balázs Farkas, ruskeaihoinen ylioppilas Sárospatak'ista,
+iski kärsimättömästi pyssyllään maahan ja huudahti:
+
+— Herra kapteeni, älä koristele. Pojat! Elämmekö ilman isänmaata vai
+kuolemmeko isänmaan eteen?
+
+— Kuolkaamme isänmaan eteen, — huusi pieni joukko.
+
+— Pojat! — jatkoi kapteeni liikutettuna, — vaikka te olette vanhoja
+sotilaita, olette te kuitenkin nuorukaisia. Koko elämä on teille vielä
+avoinna... joka tahtoo mennä, sen minä heti lasken... Useimmilla teistä
+on vielä vanha äiti, isä kotona, monella morsian, sisarukset. Joka
+tahtoo, voi lähteä. Ei ketään syytetä pelkuruudesta, olettehan sadassa
+tappelussa näyttäneet olevanne urhoja.
+
+Ei kukaan liikahtanut.
+
+— Pojat! — lausui Szeredai, — sanokaa sitten jäähyväiset rakkahillenne.
+Tämän vanhan talonpojan olen pitänyt täällä, jotta hän veisi kirjeenne.
+Ja seitsemän-kahdeksantoista vuotiaat ylioppilaat istuutuivat ja
+kirjoittivat rensseliensä päälle asetetulle paperille viimeiset
+kirjeensä. Tuo ruskeaihoinen poika kirjoitti kiireesti Sárospatak'in
+kollegion osoitteella, että nyt valmistautuu kuolemaan isänmaan
+eteen Juhana Szeredai seitsemänkymmenen kahden kumppaninsa kanssa.
+Sitten kirjoitti hän siihen jokaisen nimen, pani päivämäärän ja sulki
+kirjeen. Vaan vielä jäi häneltä aikaa viiden-kuuden muunkin kirjeen
+kirjoittamiseen raskaskätisten talonpoikaishonvédien puolesta ja
+niin kauniisti hän kirjoitti, että rakkaat vanhempani älkööt itkekö,
+sillä isänmaani tähden minä kaaduin, mutta älkää unohtako, että olin
+kuuliainen, hyvä poika ja rukoilkaa edestäni.
+
+Mutta Szeredai nousi vuoren huipulle ja tarkasti kaukoputkella
+laaksoja... Nyt hajosivat tuolta viimeiset sumupilvet... kirkas aurinko
+kultasi koko laakson ja — tuolla alhaalla seisoi kiiltävissä aseissa
+tuhannen tuhansia sotamiehiä.
+
+Honvédien hätätorvi pysähdytti heidät, he valmistautuivat hyökkäykseen.
+
+— Oletteko valmiit?
+
+— Olemme.
+
+— Marton!
+
+Vanha talonpoika, joka yhtämittaa pyyhki silmiään, astui esiin. Pojat
+panivat kirjeensä hänen isoon nahkalaukkuunsa.
+
+— No nyt, Marton, kiireesti pois, ykskaks, etteivät tallaisi teitä
+jalkoihinsa.
+
+— Enkö minäkin voisi jäädä tänne, herra kapteeni? — kysyi hän
+hiljaisella äänellä.
+
+— Ette — vastasi Szeredai lyhyesti, veti hänet syrjään ja antoi hänelle
+yhteensidotun hiussuortuvan, kellonsa, sormuksensa sekä kirjeen, — nämä
+antakaa vaimolleni. Pois, joutuun!
+
+Vanhus lähti pää kumarassa alas vuorelta ja katosi metsään.
+
+— Varuillanne! Ne liikkuvat! — huusi vartija huipulla.
+
+Jokainen tarttui uskolliseen pyssyynsä ja tarkasti sitä huolellisesti.
+Sitten tuli patruunataskun vuorot monenko venäläisen kuolema
+siinä piilee? Sillä aikaa kun huipulle asetetut rummuttajat ja
+torventoitottajat kaikin voimin hälyttivät honvédeja, hiipi pieni
+joukko sille syvälle tielle, joka vei Puolan rajalle päin ja jonka suu
+oli rovitettu kivillä ja suurilla pölkyillä.
+
+Yht'äkkiä jyrisivät alempana olevilla kummuilla venäläisten mörssärit
+ja pommit räjähtelivät Sztrecsnón kukkulalla. Hälytys vaikeni. Molemmat
+rummuttajat melkein vierien saapuivat sotajoukkoon.
+
+— Entä torventoitottajat? — kysyi Szeredai.
+
+— Kuolivat — vastasi toinen rummuttaja ja näytti pyssyllään ylöspäin.
+
+Katsottiin sinne. Toiseen toitottajaan oli juoksussa iskenyt kuolettava
+sirpale ja hän suistui eteenpäin, niin että pää jäi tiensyrjään
+riippumaan, katsoen alas turmatovereihinsa. Kuolema oli muuttanut
+hänen kasvonsa, avoimesta suusta tippui veri, silmät tuijottivat
+selkoselällään honvédeihin, ikäänkuin tarkastaakseen uskaltavatko hekin
+kuolla niin kuin hän.
+
+Pojat katsoivat kalpeina toisiaan.
+
+— Varuillanne! — huusi Sárospatak'in ylioppilas, joka oli kiivennyt
+ylös tiensyrjään, — jalkaväki tulee tiellä.
+
+Jokainen asettui paikalleen rovitukseen.
+
+Ja pommien räjähtäessä ylhäällä kummulla kuului heidän edessään
+repäiseviä hurraahuutoja ja yht'äkkiä nähtiin sadottain harmaatakkisia
+sotamiehiä rientävän heitä päin.
+
+— Laukaiskaa! — huusi Szeredai. Laukauksen jälkeen peitti heidät paksu
+savu.
+
+— Ladatkaa, laukaiskaa! — komensi Szeredai. Uusi pamaus. Hurraahuudot
+vaikenivat. Mutta kanuunain jyrinä ja pommien viuhina kuuluivat yhä.
+
+Sárospatak'in ylioppilas makasi jo ylhäällä kukkulalla vatsoillaan ja
+huusi sieltä alas laaksoon:
+
+— Venäläiset peräytyvät juosten, eläkööt unkarilaiset! Upseerit
+pysäyttivät heidät, järjestävät heitä. He tuovat mukanaan kanuunoita,
+muut kanuunansakin tähtäävät tännepäin. Varokaa... Kirottu koira...
+
+Nuori ylioppilas vieri verisenä heidän keskelleen.
+
+— Pyssyni! — puhui hän koristen. — Joku kartessin sirpale sattui
+vasempaan käsivarteeni, vaan sen minä annan heille takaisin...
+Pyssyni...
+
+Szeredai tarkasti häntä. Hänen vasen olkapäänsä oli läpiammuttu. Hänet
+vietiin syrjään. Ylioppilas jatkoi korahdellen:
+
+— He tulevat... Älkää huoliko minusta... pyssyni... antakaa vettä,
+vettä...
+
+Rummuttaja antoi hänelle juoda ja pesi hänen kasvonsa.
+
+— Varuillanne! — huusi rovitukselta vartija. Honvédjoukko ampui kaksi
+yhteislaukausta.
+
+Yht'äkkiä rovitus tärähti, melkeinpä meni pirstaleiksi, samassa kaksi
+pommia lensi räjähtäen heidän päänsä yli. Venäläiset olivat asettaneet
+kanuunansa heitä vastaan ja pommia heittävät mörssäritkin oli suunnattu
+rovitusta kohden.
+
+Paksu savu peitti kapean tien. Szeredai tunnusteli itseään kiireestä
+kantapäähän. Hän ei ollut haavoittunut. Hänen jaloissaan koko joukko
+miehiä vaikeroiden kamppaili kuoleman kanssa. Kapteeni kiipesi
+ylöspäin paremmin nähdäkseen. Hälvenevän savun läpi näki hän, että
+venäläiset eivät hyökkää heitä vastaan, vaan ampuvat räjähtäviä kuulia
+rovitukseen... Vastapäätä olevat metsänaukeamat olivat harmaina
+sotamiehistä. Nämä tahtoivat kiertää heidät.
+
+— Joka elää, kiivetköön ylös kukkulalle! -huusi Szeredai alas, — sillä
+he tukehuttavat meidät sinne tielle. Tänne päin, pojat!
+
+Noin kolmekymmentä puolipyörtynyttä, ruudinsavun mustaamaa olentoa
+alkoi nyt kavuta ylöspäin. Takimmaisina laahasivat molemmat rummuttajat
+Sárospatak'in ylioppilasta, joka kuumeesta palavin silmin pyysi milloin
+pyssyä milloin vettä.
+
+Tuskin olivat he jättäneet solan, kun venäläisten kanuunat sytyttivät
+rikkiammutun rovituksen tuleen... ja tulen, räiskynän ja kanuunain
+jyrinän lävitse peloton joukko kauhulla kuuli tuonne alas jääneitten,
+pahasti haavoittuneitten honvédien tuskallisia vaikeroimisia, jotka
+vähitellen vaikenivat. Ne olivat joutuneet liekkien uhriksi!
+
+Huipulla seisoivat kuolon kamppailijat selin toisiinsa nojaten.
+
+Yht'äkkiä kaikuu yltympäri metsistä Venäjän keisarihymni, soittokunnat
+puhaltavat, upseerit karjuvat. Ja huipun alta, metsän rinteestä, joka
+taholta ilmestyy pajunettimetsä.
+
+Mahtava hurraahuuto tärisyttää ilmaa ja pajunettimetsä liikkuu nopeasti
+ylöspäin.
+
+He olivat tuskin kolmenkymmenen askeleen päässä.
+
+Silloin kultakypärinen, loistavasti puettu kenraali ratsastaa ulos
+joukosta ja viitaten miekallaan huutaa terävällä äänellä:
+
+— Stoj! Joukko pysähtyi.
+
+Upseerit lähestyvät kenraalia. Tämä osottaa tuota pivollista
+unkarilaisia. Eräs upseeri ratsastaa sinne.
+
+— Rendez-vous! (Antautukaa!)
+
+— Tähtäys, laukaus! — vastaa Szeredai.
+
+Unkarilaisten laukausta seuraa joka taholta korvia särkevä paukkina ja
+savun hälvettyä ei enää kukaan seiso huipulla. Venäläiset lähestyvät
+hitaasti.
+
+Kenraali menee ruumiitten luo.
+
+— Kaikki kuolleet? — kysyy hän ajutantilta.
+
+— Yksi elää, mutta sen vasen olkapää on rikki ammuttu. Vaan hänkin on
+tainnoksissa.
+
+— Kutsu lääkäri ja kohdeltakoon häntä kuin olisi hän meidän joukostamme.
+
+— Herra kenraali, saadaanko puhaltaa voittohymni?
+
+— Älkää puhaltako mitään, — lausui loistavasti puettu sotilas
+ajatuksiinsa vaipuneena — voitto on näitten äänettömien kuolleitten.
+Mutta komentakaa Tilsitin rykmentistä kaksisataa miestä kunniakkaasti
+hautaamaan heidät.
+
+Kenraali antoi merkin ja venäläisten joukot alkoivat marssia Unkariin.
+
+
+
+IV.
+
+Venäläisten sairashuoneessa Eperjes'issä kutsutti yksi haavoittuneista
+luokseen papin ja pormestarin. Haavoittunut oli Balázs Farkas,
+Sárospatak'in ylioppilas ja honvédi, jonka venäläiset olivat tuoneet
+muassaan ja hoitaneet hyvästi.
+
+— Oletteko kuulleet mitään Sztrecsnón tappelusta? — kysyi Farkas.
+
+— Olemme. Jo kotiinlasketut kansalliskaartilaiset kertoivat, että
+kapteeni Szeredai jäi sinne seitsemänkymmenenkahden honvédin kanssa.
+Sitten kertoi siitä eräs Marton-niminen vanha talonpoika, joka toi
+kirjeet. Mutta enimmin ovat venäläiset upseerit kertoneet.
+
+— Sitä tahdoin tietää. Jäikö kukaan turmatovereistani eloon?
+
+— Ei. Tilsitin rykmentin upseerit laskivat seitsemänkymmentäkaksi
+kuollutta.
+
+— Minä olen siis ainoa, joka jäi eloon?
+
+— Niin.
+
+— Hyvä. Nyt pyydän kunnianarvoisaa pastoria ja herra pormestaria
+kuuntelemaan ja panemaan muistiin, kuinka Juhana Szeredai ja hänen
+seitsemänkymmentäkaksi toveriaan lupasivat kuolla ja kuinka he pitivät
+lupauksensa.
+
+Ja nuo kaksi kunnianarvoisaa miestä kuuntelivat kyynelsilmin, kauhulla
+kalpean ylioppilaan hourailevaa kertomusta Sztrecsnón tappelusta.
+
+Illalla kutsuttiin heidät jälleen haavoittuneen luo. Hän oli
+kuolemaisillaan. Hän oli riuhtonut auki siteensä. Hänen verensä
+oli vuotanut tyhjiin, hänen musertunut olkapäänsä alkoi tulehtua.
+Katkonaisella äänellä hän puhui:
+
+— Minä olen tehnyt lupauksen. Minun täytyy seurata tovereitani. He
+odottavat. Minä olisin pelkuri. E... en... voi jäädä yk... si-sin.
+Jumala!...
+
+Hän kuoli.
+
+       *       *       *       *       *
+
+Siitä asti Sztrecsnón huippu kasvaa ainoastaan punaisia kukkia. Hyvä
+Jumala, jos kaikki tällaiset kertomukset pantaisiin muistoon, kasvaisi
+tässä maassa ehkä pelkkiä punaisia kukkia.
+
+
+
+
+Tsaari.
+
+1849.
+
+
+Talvipalatsin neljästäsadasta ikkunasta loisti tulet lumisena Huhtikuun
+yönä.
+
+Ulkona torilla paloi satakunta roviota loimuavine liekkeineen. Siellä
+lämmittelivät kuskit ja palvelijat, joitten herrasväet huvittelivat
+ylhäällä tsaarin luona.
+
+Palatsin porttien edessä seisoi liikkumattomana kaartin krenatöörin
+vahdit. Pelkkiä jättiläisiä. Ja pelkkiä vanhuksia. Härmä oli tehnyt
+heidän viiksensä, hiuksensa ja partansa lumivalkeiksi.
+
+Valkoista ja hiljaista oli joka taholla.
+
+Kylminä katsoivat taivaalta tuikkivat tähdet.
+
+Ja palatsissa pelkkää loistoa, valoa, lämpöä kaikki. Jättiläispeilit
+monistuttavat vierasten joukkoa. Miekan helinä, kannusten kilinä,
+vaatteiden kahina, hiljainen pakina täyttää ilman.
+
+Suureen kristallisaliin keskittyy elämä. Kymmenen jättiläiskruunua,
+kussakin kaksisataa vahakynttilää, luo siihen himmeää, miellyttävää
+valoaan.
+
+Jokaisen katse kääntyy tuon tuostakin kullalla koristettuun
+ebenholz-oveen päin: sieltä odotetaan tsaaria.
+
+Oven molemmat puoliskot lentävät äkkiä auki. Ylihovimestari astuu
+sisään, hänen perässään kaksi palvelevaa kamariherraa, sitten tulee
+näkyviin tsaarin kookas vartalo, kalpeat kasvot, hänen takanaan
+näkyy kaksitoista punaviittaista suomalaista henkivartijaa leveine
+miekkoineen.
+
+Kaikki vaikenevat. Ylimykset asettuvat riviin. Mutta tsaarin silmä on
+oikullinen. Se ei näe sitä ensiksi, jota hovitavan mukaan pitäisi nähdä.
+
+Suosikkiensa Olga-husaarien överstin hän viittaa ensiksi luokseen.
+
+— Kuinka voitte, pojat?
+
+— Huonosti, Sire.
+
+— Mikä teitä vaivaa?
+
+— Me laiskottelemme. Tahtoisimme tapella. Ei mitään ylenemistä, ei
+mitään kunniamerkkejä.
+
+— Minua miellyttää, kun husaarini janoovat mainetta.
+
+— Sire, sammuttakaa janomme!
+
+— Kärsivällisyyttä, poikani — ja tsaari kulki eteenpäin.
+
+Hän seisahtui kanslerin puolison eteen.
+
+— Ruhtinatar, kuinka jaksatte?
+
+— Hyvin, Sire, sillä näen että Te pidätte paljon Olga-husaareista.
+
+— Tosiaankin minä pidän heistä paljon.
+
+— Silloin Te pidätte pojastanikin.
+
+— Kuinka en pitäisi.
+
+— Miksette nimitä häntä kapteeniksi?
+
+— Ilman sotaa se ei käy päinsä, rouva hyvä.
+
+— Sire, pankaa toimeen pieni sota.
+
+— Hyvä rouva, puhukaa kanslerin kanssa, hän voi sen helpommin panna
+toimeen.
+
+Näin sanoen jätti tsaari hänet ja astui eteenpäin.
+
+Erääseen nurkkaan vetäytyi muuan itävaltalainen översti ja venäläinen
+kenraali.
+
+Itävaltalainen oli ruhtinas Lichtenstein, Wienin hovin erityiskuriiri,
+venäläinen ruhtinas Bolkonski, valtiokansleri.
+
+— Olkaa levollinen, ruhtinas — sanoi Bolkonski — tänään asia
+ratkaistaan.
+
+— Sitä toivon. Vaan kuinka?
+
+— Kaksi kuriiria odottaa viereisessä huoneessa. Toinen ilmoittaa
+että olemme hävittäneet turkomanien viimeisenkin pesän, toinen tuo
+Varsovasta sen tiedon että puolalaiset alkavat liikkua... Unkarin
+kapinan ensimäiset hyökyaallot tuntuvat jo. Sen lisäksi on huomattava
+että täällä kotonakin ollaan kovin veltostuneita, vähän verta täytyy
+meistä itsestämmekin laskea... Sievästä ulkonaisesta sodasta meille
+aina on elähytystä kymmeneksi- viideksitoista vuodeksi. Sitte vielä
+tavaranhankkijamme, joitten kanssa olemme niin läheisessä yhteydessä,
+käyvät sangen tyytymättömiksi... Afääri-kannalta katsoen... Anteeksi!
+
+Tsaari katsoi Bolkonskiin ja tämä kiirehti sinne.
+
+— No, millä sinä pilaat minulta tämän päivän iltani? — sanoi tsaari
+iloisesti.
+
+— Sire, suvaitkaa kuulustaa kahta kuriiria...
+
+— Mistä?
+
+— Toinen tuo ilmoituksen turkomanien metelistä, toinen unkarilaisten
+kapinasta.
+
+— Huonojako sanomia?
+
+— Toinen hyvä, toinen niin huono, että sen voi hyväksi tehdä.
+
+Bolkonski nyykäytti tuskin huomattavasti Lichtensteinille ja kiiruhti
+sitten tsaarin jälkeen.
+
+Viiden minuutin perästä ilmestyi eräs kaartin kapteeni ja kutsui
+tsaarin luokse vanhan kenraali Paskievitschin, joka unisena nojautui
+erästä pilaria vastaan.
+
+Hetken kuluttua palasi tsaari takaisin, ruhtinas Paskievitschin ja
+Bolkonskin seuraamana. Paskievitsch haki ajutanttinsa, löi häntä olalle
+ja he poistuivat. Bolkonski meni Lichtensteinin luo ja kuiskasi hänen
+korvaansa:
+
+— Suoritettu. Voitte matkustaa kotiin. Huomisaamuksi on asunnossanne
+tsaarin kirje keisarillenne.
+
+Tsaari astui kanslerin puolison luo:
+
+— Onnittelen Wladimir Bolkonskia kapteeniksi.
+
+— Kuinka, Sire? Tulisiko sota?
+
+— Tulee.
+
+— Missä? Turkomaneja vastaan?
+
+Se on jo lopussa, mutta samantapaista. Menemme auttamaan Itävaltaa
+kapinoitsijoita vastaan.
+
+Sitten puhui tsaari kymmenen minuuttia överstiruhtinas Lichtensteinin
+kanssa, joka sen jälkeen heti kiireesti poistui.
+
+Hänen Majesteettinsa suvaitsi alottaa tanssijaiset ruhtinatar
+Dolgorukijn kanssa.
+
+Päivä koittaa. Tsaari nukkuu makeasti valkeiden tyynyjensä keskellä.
+Yht'äkkiä herää hän etäiseen töminään. Oi, Luoja on varustanut tsaarit
+tarkalla kuulolla. Yksinvaltias nousee istumaan vuoteessaan. Töminä
+lähestyy, se muuttuu yhtenäiseksi kuorolauluksi. Tsaari soittaa.
+Kamariherra astuu sisään.
+
+— Mitä se on, Iivana?
+
+— Ratsukaartinpataljoonat lähtevät etelään päin, Itävallan rajalle.
+
+— Se on totta. Aamuviittani!
+
+Ja sillä aikaa kun hän pistää jalkansa kullalla kirjailtuihin
+persialaisiin tohveleihin, kääritään pehmeä villavaippa hänen
+ympärilleen. Kamariherra vetää syrjään silkkiset ikkunaverhot.
+
+Kumealla töminällä tulevat kaartinpataljoonat ja mahtavassa
+kuorolaulussa kaikuu tsaarin hymni. Aseiden kalske, kavioiden kopse,
+ratsujen tavantakainen hirnunta ja siihen sekaantuva tuhansien ihmisten
+riemulaulu muodostuu helvetilliseksi sekasorroksi. Ja kylmän, lumisen
+kaupungin ja kylmän lumisen valtakunnan mahtava valtias kuuntelee
+kalpeana hymyillen: _Siunattu olkohon_...
+
+Sitten hän kääntyy, oikoo jäseniään, haukottelee pitkään ja sanoo:
+
+— Iivana, suklaatini!
+
+       *       *       *       *       *
+
+Mitä tässä olen kertonut, ei ole tapahtunut. En ole sitä mistään
+lukenutkaan, vaan olen sen uneksinut.
+
+Minua, joka en koskaan ole lekotellut tsaaripalatsien loisteessa,
+minua, joka hovien komeudesta saan vaan sen verran, mitä kadulla
+vierivät ruhtinaalliset vaunut roiskuvat lokaa päälleni: minua
+tarttui kädestä unten oikullinen haltija ja vei kalpean itsevaltiaan
+häikäisevään hoviin.
+
+Ja siellä näin mitä olen kertonut.
+
+Heille se oli iloisessa tanssiyön hyörinässä ratkaistu mitätön
+asia, toisarvoinen vähäpätöisyys... meille se merkitsi vapautemme
+verenvuodatusta, isiemme raastamista vankeuteen, naistemme kärsimyksiä,
+lippujemme polkemista lokaan.
+
+Se oli paha uni. Näin sen Sztrecsnón huipulla, jonka punaiset kukat
+kertovat Szeredain ja hänen seitsemänkymmenenkahden seuralaisensa
+sankarikuolemasta.
+
+
+
+
+Tsherkessiläisen kapteenin kertomukset.
+
+
+Neljä vuotta sitten olin Kiel'in kanavan avajaisissa, jolloin Pohjan-
+ja Itämeri yhdistettiin toisiinsa. Melkein maailman jokaisesta
+maasta oli siellä yksi tai pari sanomalehtimiestä. Edustipa erästä
+Argentinankin lehteä muuan öljynruskea herra, josta myöhemmin saatiin
+kuulla, että hän kotimaassaan jonkun aikaa oli ollut tasavallan
+presidenttinä, kunnes vastustajat verisessä sodassa kokonaan hävittivät
+hänen puolueensa. Nyt kuului hän tietysti vastustajiin ja johti
+Parisista puolueen asioita, samalla kun oli useampien kotimaansa
+lehtien kirjeenvaihtajana.
+
+Hampuri oli kansainvälisten sanomalehtikirjeenvaihtajien
+kokoontumispaikka. En koskaan unohda sitä iltaa, jolloin tutustuimme
+toisiimme. Vieraanvaraisen saksalaisen juhlatoimikunnan presidentti
+ilmoitti pöydällä seisoen että hän toivottaa kaikki läsnäolevat
+kansallisuudet tervetulleiksi. Sitten hän rykäsi, vaihtoi sota-airueen
+äänen puhujan paatokseen ja tervehti meitä. Hän ei vielä ollut
+astunut alas, kun ranskalainen jo seisoi hänen takanaan ja aivan
+kuivasti ilmoitti, että jos Ranskan valtio on päättänyt lähettää
+sotalaivansa juhlatilaisuuteen, hän luulee etteivät hekään tee mitään
+epäisänmaallista tänne saapumalla.
+
+Sitten seurasi italialainen, espanjalainen, ruotsalainen,
+hollantilainen, venäläinen. Englantilaista vain oli hyvin vaikea saada
+alkuun, sillä englantilaiset, jotka eivät osaa sanaakaan saksaa, eivät
+edes aavistaneet, mitä täällä nyt oikeastaan tapahtui. Kun joku sen
+heille heidän äidinkielellään selitti, eivät he silloinkaan osottaneet
+suurta harrastusta ja lopulta Graphic'in piirustaja aivan lyhyesti ja
+kuivasti ilmoitti, että vaikka saksalaiset kaivaisivat kuinka monta
+kanavaa hyvänsä, Englanti kuitenkin aina pysyy maailman ensimmäisenä
+merivaltana. Jonka saksalaiset pitivät hyvänä kokkapuheena ja
+hurrasivat voimakkaasti hänelle.
+
+Eräs innokas marsalkka, joka rikkinäisessä hännystakissa alinomaa
+juoksi edestakaisin, alkoi huutaa:
+
+— Ungarn! Ungarn!
+
+Kun ilmoittauduin ainoana turanilaisena, tarttuivat saksalaiset minuun
+ja asettivat pöydälle.
+
+Tällä hetkellä joku parantumaton veitikka (joka, tiedän sen, aina
+piilee tuolla sydämeni syvyydessä) pani minuun ajatuksen, että
+sanelisin ukkosäänellä: "Hös vértöl pirosult gyásztér sóhajtva
+köszöntlek" (Huokaillen tervehdin sinua, sankariveren punaama
+murheenmaa). Mutta minulla ei ollut rohkeutta sitä tehdä. Sen sijaan
+sanoin saksaksi etten koskaan elämässäni ole puhujana ollut näin
+suotuisassa asemassa, sillä saatan huoletta ilman ajattelematta
+laverrella mitä hyvänsä, ei ainoakaan sielu läsnäolevista ymmärrä sitä.
+Alotan siis.
+
+Tämän jälkeen pidin unkarinkielellä viisi minuuttia kestävän
+tervehdyspuheen ritarilliselle Saksan kansalle. Sitten vasta oli
+minulla tilaisuus iloita, että olin onnistunut tukahuttamaan veitikan
+itsessäni, sillä puheen jälkeen sain tietää, että siellä on vanha
+Danzer, Wienissä sanomalehtimiehenä elävä kansalaisemme, joka ei ollut
+unohtanut unkaria.
+
+Kun astuin alas pöydältä, hyvin täytetyn velvollisuuden nostamat
+hikipisarat otsallani, tarttui minuun vahvarakenteinen, voimakas ja
+tuuheaviiksinen mies ja sanoi ranskaksi:
+
+— Te olette unkarilainen?
+
+— Niin olen.
+
+— Minä olen översti Krilov, venäläinen sotilaskirjeenvaihtaja.
+
+— Iloitsen suuresti.
+
+Me vaihdoimme nimikorttia, puristimme kättä, viiden minuutin päästä
+sampanjoitsimme, kymmenen minuutin kuluttua sinuttelimme toisiamme ja
+sitten hän veti tuolinsa minun viereeni.
+
+— Ehkä sinua kummastuttaa, että minä lähestyin sinua, unkarilaista? —
+alkoi hän.
+
+— Tahtoisin todellakin tietää, ketä minun on kiittäminen tästä
+myötätuntoisuudesta...
+
+— Isääni. Hän näet kenraali Bebutovin komennon alaisena,
+tsherkessiläis-turkkilaisten ratsumiesten kapteenina, soti teitä
+vastaan...
+
+— Ja loukkasi...
+
+— Kuinka hän olisi loukannut? Ensiksikin kuulin häneltä sata kertaa,
+ettei Venäjä koskaan ole tehnyt suurempaa tyhmyyttä ja vääryyttä kuin
+silloin, kun se auttoi Itävaltaa teitä vastaan... Toiseksi te niin
+urhoollisesti puolustitte itseänne venäläistenkin ylivoimaa vastaan,
+että kaikki upseerimme täynnä ihmettelyä palasivat kotiin luotanne...
+Isänikin. Ja hän pani velvollisuudekseni (ukko oli omituinen mies)
+että missä hyvänsä tapaan unkarilaisen, kohtelisin häntä veljenäni,
+ystävänäni ja tekisin kaikki että hän seurassani hyvin viihtyisi.
+
+Luonnollisesti me sen puheen jälkeen tyhjensimme monta lasia Pommeryä
+aikoja sitten kuolleen kapteenin muistolle. Sitte siirryimme Alsterin
+mustan veden viereiselle terrassille ja aloimme juoda kahvia,
+venäläisen tavan mukaan melkoinen määrä paloviinaa sen mukana.
+
+Leveänä lepäsi edessämme vesipeili, jossa Hampurin tuhannet lyhdyt
+loistivat. Oli suloinen ja lämmin Kesäkuun yö. Venäläinen avasi
+liivinsä, katsoi etäisyyteen ja sanoi murisevalla äänellä:
+
+Paljon kertoi hän minulle sotaretkestä. Varsinkin siitä hädästä, johon
+Vácz'issa joutui. Kerronko?
+
+— Heinäkuun 17 päivän tappelusta? Tietysti, tuskin maltan odottaa.
+
+— Tyhjentäkäämme tämä lasi ja sitte kuuntele. Kuvittele, että isäni
+kertoisi sen minulle.
+
+
+
+Unkarilainen.
+
+
+Heinäkuun 14 p:nä — en enää tiedä niissä leirimme oli — sai
+rykmenttimme, 2:nen turkkilais-tsherkessiläinen ratsurykmentti,
+jota kenraali Bebutov itse johti, käskyn piirittää Vácz'ia. Varhain
+aamunkoitteessa lähdimme liikkeelle, jotenkin varomattomasti;
+torvenpuhaltajat soittivat marssia ja miehistö hyräili säveltä.
+Kylissä, joitten läpi ratsastimme, emme nähneet ainoatakaan sielua.
+Portit, ovet, ikkunat olivat suljetut. Myöhemmin kuulimme eräältä
+papilta että me kansan silmissä olimme koirapäisiä tataareja,
+jotka Unkarin kansansaduissa näyttelevät niin suurta osaa. Erään
+slovakkilaisen kylän (Szöd?) läpi kuljimme myös, siellä pappi muutamien
+vanhojen miesten kanssa tuli vastaamme kylän päähän; papilla oli risti
+kädessä, ja kun etujoukkomme lähestyi, kohotti hän sitä. Sitten astui
+hän ensimmäisen upseerin luo ja sanoi:
+
+— Rukoilen teitä, älkää koskeko meidän hurskaaseen kylään. Me olemme
+köyhiä, ette te voi meiltä mitään saada.
+
+Rykmentti seisahtui tänne ja miesten annettiin juoda. Sillä aikaa
+kokoontui yhä useampia miehiä heidän ympärilleen. Vaimoja ja lapsia ei
+näkynyt ainoatakaan. Myöhemmin saimme tietää että heidät oli kätketty
+kirkkoon.
+
+— Missä nuorukaiset ovat? — kysyin papilta, sillä kolmeakymmentä
+nuorempia miehiä en nähnyt.
+
+— Heidät vietiin honvédeiksi, mutta me emme tietysti voineet sille
+mitään.
+
+Lyhyen levähdyksen jälkeen kuljimme eteenpäin. Ennen pitkää oli
+edessämme Vácz'in kaupunki, joka heinäkuunpäivän paahtavassa
+kuumuudessa tarjosi kauniin näköalan. Rauha ja hiljaisuus vallitsi
+kaikkialla. Jokainen, jonka tapasimme pellolla tai viinitarhassa,
+teki ristinmerkin. Mutta oli niitäkin, jotka eivät pitäneet meitä
+koirankaan arvoisina. Muistan yksinkertaisia talonpoikia, jotka
+tienvarrella ojan reunalla loikoillen, eivät räpäyttäneet silmiäänkään,
+kun rykmentti kulki heidän ohitse. He tupakoivat liikkumattomina. Me
+emme heihin tehneet mitään vaikutusta. Kolmea katua myöten yhtaikaa
+marssimme sisään Vácz'iin, siten että ensin sata ratsumiestä nelisti
+kaupungin päähän ja kun tuli ilmi että siellä ei ollut vihollisia,
+kuljimme kaikki sisään. Bebutov kutsutti pormestarin isolle torille ja
+selitti hänelle, ettei kenellekään tapahdu mitään pahaa, jos asukkaat
+käyttäytyvät rauhallisesti. Päinvastaisessa tapauksessa, jos yhdenkään
+ratsumiehen hiuskarvaankaan kajotaan, polttaa hän kaupungin poroksi.
+Pormestari kumarsi.
+
+— Eikö täällä jo ole ollutkin joku tappelu? - kysyi Bebutov.
+
+— On. Armottomasti lyötiin itävaltalaiset. Ettekö Te, herra kenraali,
+tiedä sitä?
+
+Me hymyilimme itseksemme. Seuraksemme annetut itävaltalaiset upseerit
+eivät liioin kerskailleet siitä.
+
+— Täällä kaatui itävaltalainen kenraali Götz, — jatkoi pormestari.
+
+— Huomauttakaa asukkaita, että tappelun sattuessa vetäytykööt
+asuntoihinsa, sillä jos he sekaantuvat siihen, kohtaa kaupunkia kova
+rangaistus.
+
+— Olen rummututtanut sen, herra kenraali. Sitä paitsi on kaupungista
+kaikki asekuntoiset miehet armeijassa, ja aseitakaan meillä ei ole.
+
+Bebutov asettui piispan palatsiin, me majoitimme rykmentin pääkatujen
+varrelle. Hyvissä vuoteissa, oivallisen illallisen ja mainioiden
+viinien nauttimisen jälkeen lepo maistui erinomaiselta. Isäntämme
+olivat hyvin vaiteliaita. Jos joskus saimme heidät jotain puhumaan,
+ilmaisivat he sen toivomuksen, että kolera hävittäisi venäläisen
+armeijan ja pakottaisi sitä tyhjin toimin lähtemään pois maasta.
+
+Seuraavana päivänä, Heinäkuun 15 p:nä, puolipäivän rinnassa laukkaa
+luutnantti Ivanov hurjalla vauhdilla kaupungin läpi, mukanaan sotnia
+tsherkessejä. Hän oli käynyt partioretkellä Nagy-Maros'issa ja siellä
+kohdannut unkarilaisia husaareja. Sitä hän ilmoitti.
+
+Heti paikalla puhallettiin hälytystä. Tuskin oli rykmentti koossa, kun
+kaupungin päästä ja oikealta puolelta, vuorilta, niinkuin lumivyöryke
+syöksee husaarijoukko niskaamme.
+
+Monenlaisten villikansain kanssa olen tapellut Euroopassa ja Aasiassa,
+mutta näin rajua hyökkäystä en vielä ole nähnyt. Torvet räikkyivät,
+hevoset hirnuivat, tuhansittain miehiä karjui "päälle", miekat
+välkkyivät ilmassa ja kaviot kumahtelivat maata vastaan.
+
+Raskaalla mielellä läksimme heitä vastaan. Tsherkessi, maailman paras
+ratsastaja, karautti kauhealla huudolla unkarilaisten eteen.
+
+Tuskin kolme minuuttia kesti tappelu, husaarit tekivät kovan
+hyökkäyksen ja me peräydyimme. Nuo nuorukaiset tappelivat kuin
+paholaiset. Päivänpaahtamat ja laihat olivat he ruumiiltaan,
+laihat olivat heidän hevosensakin, mutta erinomaisen liikkuvaisia.
+Yli-inhimillisellä voimalla ja nopeudella sattuivat heidän
+miekaniskunsa tsherkessiläisraukkojemme turbaanipäähän. Sellaista
+ratsuväkeä en koskaan eläissäni ole nähnyt. Turhaan panimme parastamme:
+rykmenttimme peräytyi ja pakeni pirstautuneena, husaarien takaa-ajamana
+Uj-faluun saakka.
+
+Minä jäin Vácz'iin. Sillä kadulla, joka piispanpalatsista vie isolle
+torille, sain leveän haavan päähäni, syvemmän olkaani ja putosin
+hevosen selästä. Tappelun melske eteni.
+
+Minä olin pyörtynyt, rikkiruhjottu, suurella vaivalla saatoin nousta ja
+miekallani koputtaa lähellä olevaa porttia.
+
+Se aukeni. Eräs vanha herra näyttäytyi.
+
+— Jumalan tähden — sanoin — antakaa minulle vettä juodakseni.
+
+Vanha herra tuli vastauksen asemesta ulos, auttoi minut maasta ja vei
+sisään asuntoonsa. Portin edessä odottivat vanha rouva ja nuori tyttö,
+jotka taas sulkivat portin meidän takanamme.
+
+Sisällä he antoivat vettä, paloviinaa, pesivät kylmällä vedellä sekä
+sitoivat pää- ja olkahaavani ja panivat minut vuoteeseen. Neljäkolmatta
+tuntia makasin mitä kurjimmassa tilassa.
+
+Seuraavana päivänä, jolloin vielä olin hyvin heikko, pyysin univormuani
+ja miekkaani.
+
+— Älkää nyt jättäkö taloa, kaupunki on meidän käsissämme.
+
+— Ja te uskallatte piiloittaa talossanne venäläisen upseerin?
+
+— Minä en piiloita venäläistä upseeria, vaan haavoitetun ihmisen.
+_Ihmisrakkauden lait eivät koskaan ole kumotut_. Ja se ei ole teidän
+vikanne, että soditte meitä vastaan.
+
+Lämpimästi puristin minä hänen kättänsä.
+
+— Te olette kunnon mies.
+
+— Minun sijassani jokainen kunniallinen ihminen tekisi samoin. Ja sitte
+siinä on hiukkasen itsekkäisyyttäkin — sitä en kiellä.
+
+Ahaa, ajattelin minä, tämä pyytää minulta suojelusta ollakseen turvassa
+venäläisiltä.
+
+— No, mitä se on?
+
+— Poikani on honvédien joukossa, sotii kunniakkaasti isänmaansa
+puolesta. Ja minä olen saanut päähäni että heidän ollessa vaikeassa
+asemassa vihollinen on kohteleva häntä aivan niin, kuin minä kohtelen
+vihollista, jos tämä on vaikeassa asemassa.
+
+Uudestaan puristin hänen kättänsä. Itsekseni pyysin anteeksi
+epäilystäni.
+
+Sen päivän minä vielä olin kuumeessa. Seuraavana päivänä, Heinäkuun
+17 p:nä, pamahtelivat kanuunat ja unkarilainen sotajoukko livahti
+urhoollisen taistelun perästä Paskievitsch'in käsistä. Vielä samana
+päivänä sain venäläisen sotalääkärin, joka määräsi minut pysymään kolme
+päivää vuoteessa.
+
+Kahdentenakymmenentenä ilmoittauduin rykmenttiini, yhdentenäkolmatta
+annoin Rüdiger'ille raportin suojelijastani Vácz'issa. Rüdiger antoi
+minulle toimeksi viedä hänelle muistoksi rubiineilla koristettu
+kultakello.
+
+Vanhus otti minut kylmästi vastaan.
+
+— Teitä ei enään mikään vaivaa. Te voitte ratsastaa, käyttää aseita,
+olla palveluksessa, Te olette nyt jo vihollinen. Minulla ei ole mitään
+tekemistä kanssanne. Viekää kello takaisin kenraalillenne.
+
+... Ajatuksiin vaipuneena ratsastin leiriin päin. Erikoista rotua,
+kovaa rotua, viehättävää rotua.
+
+
+
+Venäläinen.
+
+
+Hampurista Kiel'iin ja Kiel’istä Kööpenhaminaan, Tanskan pääkaupunkiin,
+matkustimme "Prins Valdemar" laivassa.
+
+Hämärässä jätimme Kiel'in lahden. Punaisena laski aurinko länteen ja
+peitti kaikki tummalla hohteellaan. Pian olimme Itämerellä ja musta
+laiva kulki nopeasti eteenpäin verilaineita nostavassa punaisessa
+vedessä. Me istuimme kapteenin komentosillalla, äänettöminä, milloin
+katsellen näkyvistä katoovaa mannermaata, milloin aavaa merta. Lopulta
+olimme kokonaan hyrskyävän veden vallassa ja kuuntelimme mastoköysissä
+vinkuvan tuulen soittoa. Tuli pimeä. Emme enään nähneet toistemme
+kasvojakaan. Soitettiin illalliselle. Menimme alas sähköllä valaistuun
+suureen ruokasaliin. Yhteen nurkkaan vetäytyneinä söimme ja joimme ja
+kun sytytimme sikarimme, sanoi Krilov:
+
+— En ole pitkään aikaan puhunut sinulle isästäni. Mutta vielä on jotain
+kerrottavaa.
+
+— Olen pelkkänä korvana.
+
+— Kuuntele sitte tsherkessiläiskapteeni Krilovin tarua.
+
+       *       *       *       *       *
+
+V. 1849 syksyllä alkoivat viimeiset venäläiset sotajoukot marssia
+Unkarista. Meidän rykmenttimme oli yksi viimeisimpiä. Saatat kuvitella
+itsellesi, mitenkä me iloitsimme, kun saimme käskyn: "kotiinpäin mars!"
+Iloisesti laulaen lähdimme pohjoista rajaa kohti. Mutta en kiellä, että
+oli niitä, joita kotiinlähtömme teki vieläkin onnellisemmiksi kuin
+meidät ja ne oli maan asukkaat. Me olimme syöneet heiltä jotensakin
+kaikki ja jätimme heidät kurjuuteen.
+
+Minä johdin jälkijoukkoa. Ratsastin komppaniani kanssa rykmentin
+perästä. Hitaasti saavuimme Karpaateille. Seutu muuttui autioksi.
+Sumuisena syyspäivänä jouduimme pieneen kaupunkiin. Siellä asui
+saksalaisia, talot oli rakennettu vanhanaikaiseen tyyliin. Kun tämä
+monen päivämarssin aikana oli viimeinen kaupunki, päätimme levähtää
+siellä. Pienessä, siistissä, yksikerroksisessa ravintolassa tulimme
+hyvin toimeen; isossa salissa paloi tuli avonaisessa liedessä ja
+väsyttävän ratsastamisen jälkeen lepo tuntui suloiselta.
+
+Suureksi iloksemme tapasimme ravintolassa rykmentin lääkärin, yleisesti
+rakastetun vanhan sotilaan, joka ainaisella hyvällä tuulellaan osasi
+vaikeitten sotaretkien aikana pitää upseerikuntaa hyvällä päällä.
+Tohtori oli eilen jäänyt rykmentistään, sillä hän oli väsynyt ja tahtoi
+nukkua tarpeekseen. Minun ei tarvitse sanoakaan, että ruokapöydälle
+tuotiin Unkarin hienoimpia viinejä ja hyvästi niitä juotiin.
+
+Me istuimme parhaallaan syömässä, kun ovi suurella ryskeellä aukeni ja
+sisään syöksee paitahihasillaan nuori mies. Hänen selkänsä oli ihan
+verinen.
+
+— Hyvät herrat, te olette venäläisiä upseereja. Minä olin unkarilainen
+upseeri, otin osaa kahteenkymmeneenkahteen taisteluun...
+
+Tässä silmänräpäyksessä syöksyi sisään kolme neljä aseellista
+itävaltalaista sotamiestä. Minä nousin ja astuin sotamiesten eteen.
+
+— Mitä tahdotte?
+
+— Tuota miestä tulimme hakemaan.
+
+— Mitä noilla sotamiehillä on teidän kanssa tekemistä? — kysyin
+nuorelta mieheltä.
+
+— Hyvät herrat upseerit, — jatkoi unkarilainen — kaupunkiin on
+saapunut keisarillinen siviilikomisarjus, vangitaksensa pakosalla
+olevia honvédeja. Meitä on täällä neljä honvédia, jotka antauduimme
+Komárom'issa ja siellä saadun suojeluskirjan nojalla ei meitä saa
+mitenkään loukata... Siitä huolimatta keisarillinen komisarjus vangitsi
+meidät ja kun emme tahtoneet antaa pois suojeluskirjaamme...
+
+Ääni sortui nyyhkytyksiin.
+
+— Annatti hän keppiä, — änkytti hän tuskin kuuluvasti.
+
+— Kuulumatonta! Hirmuista! — huudettiin. Minut valtasi raivo. Nuo
+hyeenat, jotka vainuen hiiviskelivät kaatuneen jalopeuran ympärillä,
+herättivät inhoa. Niinkauvan kun jalopeura eli, juoksivat he
+pelkurimaisesti pakoon, ja nyt he pöyhkeilevät. Astuin sotamiesten
+eteen:
+
+— Sanokaa pelkurimaiselle herrallenne, että hän heti päästää vapaaksi
+unkarilaiset vangit, muuten hän joutuu tekemisiin minun, kapteeni
+Krilov'in kanssa.
+
+Sotamiehet poistuivat. Tohtori pesi ja sitoi honvédupseerin haavat.
+
+Parin minuutin kuluttua astui voimakas, roteva herrasmies saliin.
+
+— Haen kapteeni Krilov'ia.
+
+— Tässä on! — vastasin nousematta paikaltani.
+
+— Minä olen keisarillinen siviilikomisarjus Táray ja kiellän teitä
+sekaantumasta asioihini.
+
+Uudestaan valtasi minut raivo. Kavahdin pystyyn.
+
+— Nimestä päättäen olette unkarilainen, — lausuin.
+
+— Niin olen.
+
+— Siis ei ainoastaan armoton ja pelkuri, vaan kavaltajakin.
+
+— Herra kapteeni...
+
+— Sellaisia miehiä tahdotte häväistä, jotka ovat taistelleet isänmaanne
+kunnian tähden ja kunniaksi... konna... konna!
+
+— Minä kutsun sotamieheni! — ulvoi Táray.
+
+— Vahtiluutnantti Vasili, tarttukaa hänen niskaansa... Fedor, puhalluta
+hälytystä! — ärjyin vimmoissani.
+
+Silmänräpäyksen kuluessa oli Táray sidottu. Seuraavassa
+silmänräpäyksessä kuului ravintolan portin edessä suuret kaukasialaiset
+torvemme ja tsherkessit saapuivat nelistävin joukoin, aseiden
+kalistessa ja huutojen kaikuessa ravintolan eteen.
+
+— Herra kapteeni, te leikitte hengellänne, — korisi käheästi Táray.
+
+— Enkö ole satoja kertoja leikkinyt hengelläni teidän kurjain nahkainne
+tähden? Ja te olette nyt kyllin röyhkeitä häväisemään ja polkemaan
+meidän kauttamme voitettuja? Annattaa keppiä urhoollisille sotureille!
+Luutnantti Baratinski, kahdellakymmenellä miehellä viet tuon veijarin
+ja ammut hänet kuolijaaksi!... Vasili!... Viidenkymmenen miehen kanssa
+menet sinä laskemaan honvédit vapaaksi. Joka vastustaa, sen lyöt maahan
+kuten koiran. Yks, kaks!
+
+Huone tyhjeni. Baratinski ja Vasili poistuivat ja raastoivat mukaansa
+Tárayn. Ulkona ratsasti yksi sotnia oikealle, toinen vasemmalle päin.
+Syvä hiljaisuus syntyi. Upseerit katsoivat toisiinsa kalpeina, mutta
+päättäväisinä, minä kävelin kiihoittuneena edestakasin...
+
+Veripaitainen honvédupseeri astui eteeni, asettui sotilasasentoon ja
+sanoi:
+
+— Kiitos, herra kapteeni, minä en pelkää kuolemaa, ainoastaan
+häväistystä vastaan puolustin itseäni. Kiitos!
+
+Ja hän kumarsi ja meni.
+
+Uudestaan hiljaisuus. Kymmenen minuutin perästä tuli Vasili ja ilmoitti
+että honvédit kaikki olivat vapaat ja ne, joilta oli riistetty
+suojeluskirja, olivat saaneet sen takaisin.
+
+Kahdenkymmenen minuutin kuluttua kuului taas kavionkopsetta. Heti sen
+jälkeen astui Baratinski sisään ja tervehti ääneti.
+
+— Onko se tapahtunut? — kysyin.
+
+— On, herra kapteeni.
+
+— Nyt kynä, mustetta, paperia!
+
+Ne annettiin. Minä panin ne rykmentin lääkärin eteen.
+
+— Sinä, tohtoriseni, kirjoita nyt virallinen todistus että
+keisarillinen komisarjus Táray — kuoli koleraan.
+
+— Mielelläni — vastasi lääkäri kylmäverisesti ja kirjoitti.
+
+Todistuksen annoimme pormestarille, sitten nousimme ratsujemme selkään
+ja suuntasimme kulkumme alkavassa hämärässä vuorille.
+
+Kaupungin päässä ratsasti eteemme korpraali ja kolme sotamiestä.
+
+— Kaivoitteko hänet hyvästi maahan? — kysyin.
+
+— Niin, ett'ei häntä viimeisenä tuomiopäivänäkään löydetä, — murisi
+korpraali.
+
+— Hyvä on, pojat, puhaltakaa torvianne, eteenpäin!
+
+Ja kuusimetsä ja pimeys olivat jo aikoja sitten kätkeneet pienen
+joukon, kun alhaalla laaksossa yhä vielä saattoi kuulla torvien
+räminän, terävänä, uhkaavana, pelottavana.
+
+Ehkä kavaltajakin silloin kauhistui jäljettömässä, salaisessa
+haudassaan.
+
+       *       *       *       *       *
+
+Sydämeni värisi niinkuin kuumennettu kattila. Minun oli lämmin. Otin
+pois kaulahuivini ja menin ylös kannelle... Kauvan tuijotin hyrskyvään
+mereen.
+
+Kummalliset ajat! Käsittämättömät ajat! Kun vallananastajat kahlasivat
+veressämme, kun maa jo oli kahleihin kytkettynä, silloin vieras,
+vihollisen sotilas pimeässä kaataa ja kostaa kavaltajan, joka oli
+rikkonut kansaansa vastaan...
+
+
+
+
+Keisari
+
+1849.
+
+
+I.
+
+Oli kuutamoinen Syyskuun ilta. Syksyinen kaste kimalteli kedolla.
+Etäällä Tonavan ja Vág'in uomain yli leijaili harmaa sumu.
+
+Kumealla töminällä eskadroona husaareja kulki Komárom'ista O-Gyallaa
+kohti. Bocskay-husaareja olivat. Syvä hiljaisuus vallitsi riveissä.
+Ratsujen ja ratsastajain päät olivat painuneet alaspäin. Joskus
+kalahtivat jonkun varukset, kun hevonen pelästyen jotakin pimeätä
+pensaikkoa hypähti syrjään.
+
+Etumaisina ratsastivat upseerit. Äänettöminä hekin. Veriset varjot
+seurasivat heitä hiljaisella tiellä. Eilen oli Klapka antanut ampua
+kymmenen nuorta husaaria heidän joukostaan; ne tahtoivat karata,
+sillä — onhan jo kaikki hukassa. Hyviä tovereja olivat ja urhoollisia
+sotilaita, mutta epätoivo sai heidät horjumaan. Kuolivat. Niin piti
+käydä. Komárom'in linnaa ei saa pelkurimaisesti heittää: murentakoot
+rikki viimeisen jalanalan maata Unkarista!
+
+Bocskay-husaarien kolmas eskadroona meni etuvartioksi Puszta-gyallan
+csárdalle. Linnankomentaja oli laskenut heidän sydämelleen että
+olisivat varuillaan. He ovat piiritetyt, väkivalta ja petos uhkaa
+heitä. Ehkä koko maan kohtalo riippuu karnisoonin lujasta käytöksestä.
+
+He lähestyivät Tuszta-gyallan pientä metsää.
+
+— Seis, kuka siellä? — kuului heidän edestään puiden alta.
+
+— Unkari! — vastasi kapteeni Szentgáli.
+
+— Voitte mennä!
+
+Yksi eskadroona Ferdinand-husaareja seisoi siellä etuvartiona; näitä
+tulivat vaihtamaan Bocskayit. Kohta he pienessä metsässä olevan csárdan
+edessä astuivat alas hevosen selästä. Niinkauvan kun vartijoita
+vaihdettiin, puhuivat Szentgáli ja Ferdinand-husaarien päällikkö hiljaa
+keskenään.
+
+— Mitä uutisia linnasta? — kysyi jälkimäinen.
+
+— Sopimuksen hieronta on alkanut.
+
+— Mitä siitä tiedetään?
+
+— Ei mitään.
+
+— Entä mitä kuuluu maasta?
+
+— Maasta — vastasi Szentgáli katkerasti — ei ole maata, ystäväni. Tuo
+husaari tuolla metsän rinteessä vartioitsee tällä hetkellä Unkarin
+rajaa.
+
+Nuo kaksi päivän paahtamaa, myrskyn murjomaa sotilasta katsoivat
+jäykkinä maahan ja pitkään aikaan ei kuulunut ääntä heidän huuliltaan.
+Ferdinand-husaarit kokoontuivat vähitellen ja järjestyivät csárdan
+edessä olevalla avoimella paikalla. Eräs luutnantti antoi kapteenille
+merkin, että voidaan lähteä.
+
+— Eikö sinulla vielä ole mitään sanottavaa? kysyi Szentgáli.
+
+— Sano husaareillesi että pitäkööt sekä silmänsä että korvansa auki.
+Viime yölläkin ammutin yhden vakoojan, joka tahtoi puikahtaa linjamme
+lävitse.
+
+— Millä asioilla hän kulki?
+
+— Kapinallisia julistuksia vei mukanaan Komárom'iin. Tahdotaan saattaa
+karnisooni eripuraisuuteen että sitte antautuisimme heidän armoihinsa.
+Hyvästi!
+
+Ferdinand-husaarit ratsastivat pois. Szentgáli järjesti
+tarkastusupseerit, jotka lakkaamatta kulkivat etuvartijain välillä,
+ja meni sitte muitten kanssa csárdan juomatupaan. Hevoset jätettiin
+riisumatta. Täysiin tamineihin jäivät miehetkin.
+
+Talikynttilän liekki oli kalpea ja paloi hitaasti, vitkaan ja
+katkonaisesti sujui puhekin upseerien kesken. Kaikki olivat sodan
+karaisemia lujia nuorukaisia, jotka jo koko vuoden olivat yhä seisoneet
+sotakannalla. He olivat tottuneet joka päivä katsomaan kuolemaa
+silmiin. Kärsimysten koulussa he olivat kasvaneet yhteen kuin yhdeksi
+perheeksi. Veljinä rakastivat toisiaan, ilot ja surut jakoivat
+keskenään. Yksi heistä oli vielä viime vuonna opettaja ja käytti
+valkeaa munkkikaapua; toinen, Sándor Bardóczy, omisti kaksituhatta
+holdia maata Szabolcs'issa, kolmas ja neljäs olivat vanhoja
+keisarillisia ratsuväen upseereja, ja viidettä, tuota parratonta
+luutnanttia, Kázmér Bodóta, odottivat kotona kaipaavat vanhemmat;
+lakitieteen ylioppilaasta hän oli tullut sotilaaksi. Kapteeni itse oli
+ollut kaartilaisena Wienissä ‒ Unkarin kaartissa.
+
+— Mitä murehditte? — puhui kapteeni äreästi upseereilleen — näin se
+oli tähdissä kirjoitettu... Johan aikoja sitten olemme tietäneet että
+tällainen tulee loppu. Kuka se hullu oli, joka uskoi että me voisimme
+kahden keisarin yhdistyneet sotajoukot voittaa?
+
+Hän katsoi ympärilleen. Ei kukaan vastannut. Hienokasvoinen Bodó, jonka
+ihoa ei aurinko eikä tuuli ollut voinut paahtaa, kääntyi puoliksi
+poispäin, sillä hän tunsi kyynelten nousevan silmiinsä.
+
+— Sinä Bodó — jatkoi kapteeni — kun tulimme, näin että yhä katselit
+linnunrataa taivaalla. Ehkä luulit että Csaba sankarin kaatuneet
+sotilaat uudestaan ilmestyvät unkarilaisia auttamaan? -Siitä on jo
+pitkä aika, ehkäpä se ei ollut tottakaan — lisäsi hän katkeralla
+huokauksella.
+
+Bodó ei kestänyt kauvempaa. Hän nousi ja nojautui ulos avoimesta
+ikkunasta. Eräs nuori husaaripoika, joku debreceniläinen ylioppilas,
+istui kuistilla ja hyräili puoliääneen, vaan kuin itsekseen, pakenevain
+"kuruc'ien" ["kuruc" = Rákóczyn sotilaitten tavallinen nimitys.
+Suoment. muist.] vanhaa surullista laulua:
+
+/p
+    Kézsmárk'issa tuuli puhaltaa,
+    Herran haltuun kallis isänmaa!
+p/
+
+Nyt todellakin Bodón kyyneleet alkoivat vuotaa.
+
+— Noh — puhui opettaja-yliluutnantti — ainakin me kauniisti katoamme
+historian näyttämöltä. Emme mädänneet vähitellen, vaan hukuimme
+veriseen katastroofiin. Loistavasti lopetamme hunnilais-unkarilaisen
+legendan. Attila alotti, me päätämme. Älkää unhottako — puolentoista
+vuosituhannen historian me saatamme loppuun. Historian kirjaan olemme
+ikuisiksi ajoiksi kirjoittaneet Unkarin nimen. Kansa voidaan polkea,
+panna ikeen alle, mutta ei hävittää. Se on elävä ja muistava meitä.
+
+Toinen husaariupseeri kalahutti miekkaansa.
+
+— Ja minä sanon teille, että vielä ei pidä epätoivoon joutua —
+puhui hän intohimoisella äänellä — vielä seisoo Komárom, jossa on
+elatusvaroja yhdeksi vuodeksi ja neljäkymmentätuhatta sotamiestä.
+Venäläinen sotajoukko kulkee jo poispäin, sillä kolera raivoo sen
+keskuudessa, ja itsekseen jääneelle itävaltalaiselle me voimme määrätä
+ehdot. Teemme semmoisen sopimuksen heidän kanssaan, josta koko maalle
+tulee hyötyä.
+
+— Unelmia, haaveiluja! — mutisi kapteeni.
+
+Bardóczy, Szabolcsilainen maanomistaja, jonka mustissa silmissä tuima
+tuli säkenöitsi, alkoi lyödä miekallaan maahan.
+
+— Lapsellista puhetta, ämmämäistä pakinaa, jota te täällä olette
+pitäneet — lausui hän käheällä äänellä, joka vähitellen muuttui
+kirkuvaksi — minä en luovu niistäkään. Se, että Komárom'illa
+pelastaisimme maan, on typeryyttä. Ja mitä puhetta se on, että katoamme
+historian näyttämöltä? Tänne jäämme, vielä ei ole mitään kadotettu,
+pari rohkeaa miestä voi vielä nytkin pelastaa kaikki. Ymmärtäkää minua
+— ei pataljoonia, rykmenttejä, kanuunoita tarvita, tähän... kourallinen
+luja-aikeisia miehiä...
+
+Hänen toverinsa hämmästyivät. Luulivat hänen hullustuneen.
+
+— Olen järjissäni, pojat, uskokaa pois. Mutta tunnustan että eräs
+päähänpisto on minussa kypsynyt. Silloin se heräsi päässäni, kun
+Isaszeg'issa saamani miekanisku pani minut vuoteelle neljäksi viikoksi.
+Sinne saapui tieto liitosta Venäjän kanssa. Silloin ymmärsin että
+meistä tulee loppu... ja keksin mikä meidät voisi pelastaa... Siitä
+saakka se ajatus ei jätä minua. Yöllä se häiritsee untani, päivällä
+se on jäljissäni ja pureskelee minua... Keskellä kanuunain pauketta,
+hyökkäyksissäkään se ei jätä minua...
+
+— Mikä se on, mikä se on? Puhu! — huusivat toverit kiihkoissaan.
+
+Boddkin palasi takaisin ikkunan luota ja asettui kyynäspäät pöytään
+nojaten vastapäätä puhujaa. Heidän päänsä koskettivat melkein toisiaan.
+
+— Mikäkö se on? — ja hänen äänensä aleni tuskin kuuluvaksi kuiskeeksi —
+mennä Wieniin ja vangita keisari omassa palatsissaan.
+
+— Hullu olet! — murisi Szentgáli.
+
+— Mitä ajatteletkaan? — kysyi pappi.
+
+— Tehkäämme niin, tehkäämme niin — rukoili Bodó.
+
+— Se on jo myöhäistä! — sanoi eräs yliluutnantti.
+
+Maanomistaja katseli kotvasen aikaa tovereitaan ja jatkoi sitte:
+
+— Tämä uhkarohkea ajatus on täyttänyt minut kokonaan... itse ajatus...
+ja siihen määrään, ett'en ole voinut sen yksityiskohtia miettiä.
+Minulla ei ole aavistustakaan siitä, mitenkä sen voisi toteuttaa.
+
+Hän pyyhkäisi otsaansa..
+
+— Minuutit kuluvat, tunnit vierivät, ja me emme tee mitään... mutta
+kansan kohtalo riippuu tästä.
+
+Syntyi hiljaisuus. Upseerit tuijottivat kynttilän liekkiin. Kavion
+kopsetta kuului ulkoa. Csárdan edessä muuan luutnantti hyppäsi hevosen
+selästä ja riensi sisään.
+
+— Herra kapteeni, valkeaviittaiset rakuunat lähestyvät metsää kohti.
+
+— Eteenpäin! — huusi Szentgáli ja silmänräpäyksen kuluttua istuivat
+husaarit satulassa.
+
+Etuvartijat komennettiin kiireesti takaisin ja koko eskadroona asettui
+metsän rinteeseen. Kaukaa kuului hevosten töminää. Husaarihevoset
+höristelivät korviaan. Bodó, joka oli kiivennyt erääseen puuhun,
+ilmoitti että rakuunoita saattoi olla korkeintaan kolmekymmentä. Noin
+kolmekymmentä askelta edellä kulkee kaksi heidän miehistään.
+
+— Se luultavasti on sotaposti, sillä hevosten välissä näin rattaatkin —
+arveli Bodó, tultuaan alas puusta.
+
+Szentgáli antoi kiireesti määräyksensä. Husaarit ratsastivat sisemmäksi
+metsään, asettuivat siellä erään avoimen paikan molemmille puolille ja
+sitoivat kaurasäkeillä hevosten suun. Toista osastoa komensi Szentgáli,
+toisen uskoi hän Bardóczylle. Suunnitelma oli se, että itävaltalaisten
+saavuttua avoimelle paikalle, husaarit yhtäkkiä ratsastavat esiin ja,
+piirittäen vihollisen, kehoittavat heitä antautumaan.
+
+Hevosen töminä lähestyi. Nyt saattoi jo eroittaa, että rattaitten
+kolinaakin sekaantui siihen. Äkkiä tuli avoimella paikalla näkyviin
+nuot kaksi etuvartijaa, karpiinit vireillä, hidasta ravia eteenpäin
+kulkien. Heidän annettiin mennä. Nyt ilmestyi joukko. Ensiksi neljä
+upseeria. Heidän kypäriensä kullatulla harjalla leikki kalpea
+kuunpaiste. Upseerit saattoivat olla keskellä avointa paikkaa, kun
+joukon loppuosa tuli ulos metsästä. Silloin kuului Szentgálin pari
+lyhyttä huutoa ja salaman nopeudella piirittivät husaarit saksalaiset.
+
+— Hait! — huusi Szentgáli, — antautukaa!
+
+— Säbel raus! Attak! (Sapelit tupesta! Hyökätkää!) — komensi
+ukkosentapaisella äänellä rakuunain päällikkö.
+
+Tulinen taistelu syntyi. Raskaat rakuunamiekat iskivät kumealla
+kalskeella husaareihin. Husaarien miekat rapisivat kuin raesade
+metallikypäreita vastaan. Bardóczy vetäytyi upseerien kohdalle ja
+ahdisti kovasti yhtä heistä. Silloin laukkasi paikalle nuot kaksi
+edellä kulkevaa rakuunaa. Toinen kääntyi suoraan Bardóczya kohden ja
+laukaisi karpiininsa ihan hänen edessään.
+
+... Häikäisevä välähdys, huumaava paukaus... Bardóczy tunsi viiltävää
+kipua... Mitä hittoa? Tuntuu siltä, kuin hän olisi haavoittunut. Sepä
+tosiaan ikävää. Yhtäkkiä oli kaikki hiljaa hänen ympärillään... näyttää
+siltä, kuin vihollinen olisi paennut... Ja kun hän katsoi taivasta,
+tuikkivat tähdet äärettömässä avaruudessa huimaavassa etäisyydessä...
+kuin olisi koko taivaanlaki laajentunut...
+
+
+II.
+
+Hän astui alas hevosen selästä ja tarkasti haavaansa. Vähäpätöinen
+pieni naarmu käsivarressa. Hyppäsi taas hevosen selkään ja katsoi
+ympärilleen... avoin paikka oli täynnä kaatuneita valkeaviittoja.
+Näyttivät semmoisilta kuin lumi keväällä lumensulamisen aikana.
+Tuossapa jo tuli takaisin Szentgálikin.
+
+— Olemmeko valmiit! — kysyi Bardóczy.
+
+— Olemme.
+
+— Mikä on tulos?
+
+— Kaksitoista tapoimme, loput sekä upseerit otimme vangiksi. Ainoastaan
+yksi luutnantti saa kiittää hyvät arabialaista ratsuaan, että
+pelastui... Mutta tulos on loistava... Tiedätkö mikä on saaliimme?
+
+— Mikä?
+
+— Haynaun koko posti keisarille, kaksitoista unkarilaista lippua ja
+muita voiton merkkejä. Olemme pilanneet hovin ilon. Keisari odotti
+näitä upseereja joukkoineen ylihuomiseksi Wienin linnaan erityiseen
+vastaanottoon.
+
+Bardóczyin silmät välähtivät.
+
+— Mitä puhut?
+
+— Mitä upseereilta kuulin.
+
+Bardóczy ratsasti aivan Szentgálin viereen.
+
+— Ystäväni, nyt on tilaisuus.
+
+— Mihin?
+
+— Keisarin vangitsemiseen. Kohtalo on antanut käsiimme välikappaleen.
+
+— Kuinka?
+
+Bardóczy alkoi kuumeentapaisella kiihkolla supattaa Szentgálin korvaan.
+
+— Toivoton ajatus.
+
+— Toivottomampi on maan asema. Tässä vain hulluus enää auttaa.
+
+— Hyvä, toteuta tuumasi! — sanoi Szentgáli päättävästi. — Minä vastaan
+Klapkalle poissaolostanne.
+
+Bardóczy ryhtyi heti valmistuksiin. Rohkeimmat, tarmokkaimmat husaarit
+puettiin rakuunoiksi. Sekä vangituilta että kaatuneilta riisuttiin
+univormut. Upseereiltakin otettiin vaatteet ja kaikki todistuskirjat.
+Ennen lähtöä sekä upseerien asiakirjat että heidän matkasuunnitelmansa
+ja rattaitten sisällysluettelo tarkoin opittiin ulkoa, jotta kaikki
+hyvin osaisivat näytellä osaansa. Bardóczysta tuli rakuunakapteeni,
+eräästä vanhasta husaari-yliluutnantista, Bodósta ja papista luutnantit.
+
+Szentgáli syleili, suuteli heitä.
+
+— Jumala johdattakoon teitä, hyvät ystävät. Minusta tuntuu ett'emme
+enään koskaan toisiamme tapaa.
+
+— Tämä meidän on tehtävä. Ja älä unohda: viisaat ihmiset ovat jo
+näytelleet osansa loppuun, nyt seuraavat hupsut.
+
+Valkeaviittainen husaarijoukko (ihan yhtä monta kuin rakuunoita oli
+ollut) asettui rattaitten ympärille, joista he eivät olleet ottaneet
+mitään pois, ja lähti liikkeelle. Husaarit vielä nauroivat tätä
+pilantekoa. Heille ei ilmaistu mitenkä vaaralliselle matkalle lähdetään.
+
+Kun saavuttiin metsässä pienelle avoimelle paikalle, korskahti
+säpsähtäen Bardóczyn hevonen. Ratsastajat säikähtyivät kauhusta. Tuossa
+oli puuhun kiinni sidottuna ammuttu vakooja. Ruumis oli eteenpäin
+taipunut, silmät tuijottivat kuopistaan ja kuolemanpelko ja tuska
+olivat vetäneet kasvojen jäntereet siten kokoon, että hän näytti nauraa
+irvistävän. Kuu loi kylmää, kalpeaa valoaan veripaitaiseen ruumiiseen,
+joka ikäänkuin pilkaten olisi laskenut... yksi... kaksi... kolme...
+neljä... viisi... hahaha... Montako noista palaa takaisin?
+
+Ratsastajat käänsivät pois päänsä... Nuoremmat tekivät ristinmerkin.
+
+
+III.
+
+Seuraavana päivänä illalla he kulkivat Lejthajoen yli ja saapuivat
+pieneen kylään lähelle Wieniä. Matka oli kulunut esteettömästi; missä
+upseerit tahtoivat ruveta pakinoihin heidän kanssaan, vastasivat he
+ainoastaan: _Keisarin käsky_ ja heti heidät päästettiin menemään.
+Suurempia karnisooneja he huolellisesti välttivät. Bardóczy johti
+joukkoa erinomaisen järkevästi, taitavasti ja kylmäverisesti.
+
+Saavuttuaan Wienin edustalle Bardóczy kutsui joukon kokoon ja selitti
+heille missä ollaan ja mihin mennään.
+
+Husaarit katsoivat ällistyneinä toisiinsa. Useimmat eivät edes
+ymmärtäneet mistä oli puhe. Upseerit selittivät sen vielä kerran.
+Keisari tuodaan pois Wienistä ja pakoitetaan kutsumaan sotajoukkonsa
+pois meidän maasta ja ainaiseksi jättämään unkarilaiset rauhaan.
+
+Sen he ymmärsivät. Ja nyt katselivat he ympärilleen loistavin silmin.
+Tuo suuri mahdoton tehtävä näytti ikäänkuin ylentäneen heitä.
+
+— Me suoritamme sen. Miksi emme sitä tekisi? Mikä meitä odottaa?
+Korkeintaan kuolemme, — niin huusivat he toinen toistaan kovemmin.
+
+Silloin Bardóczy veti miekkansa tupesta ja ojentaen sen sanoi:
+
+— Jokainen laskekoon miekkansa minun miekkani päälle.
+
+Se tapahtui.
+
+— Jokainen sanokoon perässäni, mitä minä sanon.
+
+Ja verkkaisella mutinalla vannoivat kuolemaan määrätyt skythalaiset:
+
+— Unkarin kunnian kautta vannomme että kuolemaan saakka seisomme
+toistemme vieressä. Joka pakenee, olkoon kirottu, heittäköön hänet ulos
+hautakin ja niinkauan kun yksikään unkarilainen elää tässä maailmassa,
+mainitkoon hänen nimensä sellaisella inholla kuin ruttoa.
+
+Bardóczy suuteli miekkaansa ja pisti sen tuppeen. Muut tekivät samoin.
+He tunsivat itsensä uroiksi, kaikkiin kykeneviksi.
+
+
+IV.
+
+On aamu. Edessämme on keisarikaupunki monine tuhansine taloineen,
+keskellä pyhän Tapanin kirkko ruskean torninsa kanssa. Tuhansittain
+ihmisiä kiiruhtaa työhönsä, ilma on täynnä savua ja tomua. Monet
+sadat kirkonkellot kutsuvat uskovaisia aamumessuun. Bardóczyn joukko
+kulkee välinpitämättömänä kaupungin läpi keisarin linnaa kohden. Kansa
+katselee heitä uteliaana.
+
+Kas tuossa on linna... harmaitten, kuluneitten muurien takana asuu
+mahtava vallanpitäjä... Säihkyvin silmin katselee Bardóczy ylös
+linnaan... Astutaan ulkoportin lävitse... Vartijasta astuu aseisiin,
+soittokunta soittaa keisarihymniä... ensimmäisessä kerroksessa aukenee
+ikkuna ja ystävällisen näköinen kaunis, nuori mies hymyilee alas pihaan
+astuvalle joukolle.
+
+— Keisari! — kuiskaa Bardóczy. Upseerit kalpenevat ja purevat huulensa
+yhteen. Heidän sydämensä sykkii kovasti.
+
+Ylhäällä odotetaan heitä. Menkäämme! He hyppäävät alas hevosen selästä
+ja antavat ohjakset kahdelle husaarille. Sitte he, nuo kaksitoista
+unkarilaista lippua mukanaan, lähtevät astumaan ylös leveitä portaita.
+
+— Mitä nyt? — jupisee Bodó.
+
+— Kuulkaa — kuiskaa Bardóczy — keisari ottaa meidät vastaan yksinään.
+Me ympäröimme heti hänet ja uhkaamme kuolemalla, jos hän ei tee mitä
+käskemme. Heitettyämme tämän rakuunaviitan hänen ylleen tuomme hänet
+alas ja kun hän käskystämme on sanonut hovimestarille, että lähtee
+meidän kanssamme Schönbrunn'iin, ratsastamme sukkelasti pois hänen
+kanssaan.
+
+Kannukset kovasti kilisten kajahtavissa käytävissä he saapuivat
+valtaistuinsalin ovelle. Siinä Bardóczy katsahti taaksensa. Kaikkien
+silmät loistivat niinkuin hänenkin. Hän näki että tässä joukossa ei
+ollut ainoatakaan pelkuria.
+
+He asettuvat vastapäätä valtaistuinta. Suuri kaksoisovi aukenee.
+
+— Keisari! — huutaa kimeä ääni.
+
+Kumartavien kamariherrain tiheän rivin välitse astuu sisään kevein
+askelin keisari ja nousee valtaistuimelle. Hovimestari viittaa
+pitkällä, kultaisella sauvallaan, kamariherrat katoovat. Hovimestarikin
+poistuu. Keisari katsoo heihin lempeästi, ystävällisesti,
+rohkaisevasti. Hänen kauniit siniset silmänsä loistavat ilosta.
+Husaarit eivät liikahda. Jokin taikavoima on lumonnut heidät...
+
+Bardóczy astuu askeleen eteenpäin.
+
+Silloin kuuluu ulkoa sekavaa melua, ovi paukahtaa auki ja nuori
+rakuunaluutnantti syöksähtää sisään.
+
+— Pakoon päässyt luutnantti! — huusi Bodó. Luutnantti juoksee
+valtaistuimen luo. — Majesteetti... petosta... tahdotaan tappaa
+teidät... Apua, apua! Nämä ovat unkarilaisia!
+
+Avoimeksi jääneestä ovesta rientää sisään hovisantarmeja.
+
+— Hyökätkää päälle! — ärjyi Bardóczy.
+
+Ja paljastettu miekka kädessä hyökkäsi hän valtaistuimelle.
+
+Mutta keisari ei enään ollut siellä. Hän oli kadonnut valtaistuimen
+takana olevan salaoven kautta. Kuolettavan iskun otti vastaan
+rakuunaluutnantti. Verisenä luhistui hän maahan.
+
+Sillaikaa olivat husaarit pistäneet kuoliaaksi nuo pari santarmia ja
+sulkeneet ovet.
+
+Ulkoa kuului linnan hätäkellon kajahdus ja hälytystorvien räminä.
+Kokoontuvan sotaväen kumean astunnankin saattoi kuulla.
+
+Husaarit olivat riisuutuneet paitahihasilleen. Kullakin oli kädessä
+miekka ja ladattu karapiini. Salin keskellä muodostivat he piirin.
+Yhdellä silmäyksellä ottivat he jäähyväiset toinen toisiltaan, sitten
+kaikui laulu:
+
+/p
+    "Herra taivaan armias,
+    Siunaa Magyar-kansaa!
+    Taisteluissa voimallas
+    Ollos kalpanansa!"
+p/
+
+— Loistava loppu, pojat! — huusi innoissaan pappi. — Niebelungien
+kuolonkamppaus!
+
+... Sitte, kuin annetusta merkistä, kaikki ovet ja ikkunat yht'äkkiä
+romahtivat sisään ja kauhealla räiskinällä paukkui viisikertainen
+laukaus pientä joukkoa vastaan.
+
+Bardóczy vaipui polvilleen, katsoi ympärilleen. Ammuttuna yhteen kasaan
+makasi koko joukko. Veristen ruumisten päälle sortui hänkin ja meni
+tainnoksiin.
+
+
+V.
+
+Aukaistuaan silmänsä, hän huomasi olevansa sairashuoneessa.
+Orjantappurakruunua kantava Kristuksen kuva riippui seinällä. Hänen
+ympärillään vuoteita. Lempeäkasvoinen nunna kumartui hänen ylitsensä ja
+kysyi ystävällisellä äänellä:
+
+— Tahtooko herra yliluutnantti jotain? Bardóczy katsoi häneen
+hämmästyen.
+
+— No, jäinkö minä elämään?
+
+— Jumalan kiitos, jäitte. Mutta kovin kauan häilyitte elämän ja
+kuoleman vaiheella. Pari kolme viikkoa olette maannut tainnoksissa.
+
+— Ja toverini kaikki kuolivat?
+
+— Mitkä toverit?
+
+— Tiedättehän, ne, jotka olivat linnassa kanssani, kun keisari
+tahdottiin tappaa... kai siitä jotain tiedätte.
+
+— Tappaa keisari? Herra yliluutnantti, pysykää vain levollisena, minä
+panen vähän jäätä päänne päälle.
+
+Bardóczy katseli eteensä kuin unissakävijä.
+
+— Sanokaa, minä pyydän, missä minä olen?
+
+— Komárom'issa sotalasaretissa.
+
+— Komárom'issa? Kuinka olen joutunut tänne?
+
+— Saitte syvän haavan Pusztagyallan tappelussa, kun rakuunoilta
+otettiin Haynaun posti.
+
+Bardóczy pyyhkäisi otsaansa. — Se oli siis haavakuumeen unia! — jupisi
+hän — Mikä jyminä se on, ikkunan alla?
+
+— Unkarilaiset sotajoukot kulkevat ohitse.
+
+— Mihin?
+
+Nunna vaikeni hetkeksi, sitten vastasi hän epäröiden:
+
+— Luulen, tietääkseni... lähtevät pois kaupungista.
+
+Bardóczy hypähti vuoteelta.
+
+— Onko linna heitetty? — huusi hän käheästi.
+
+— On.
+
+Bardóczy juoksi ikkunaan ja kurottautui ulos. Tuolla alhaalla kulkivat
+syvässä hiljaisuudessa aseettomat husaarit palttinarensseli niskassa.
+Pitkin tietä oli asetettu jalkaväkeä. Lasaretin edessä, olevalla
+torilla seisoi rykmentti krenatöörejä, rintama rakennusta kohti.
+Yht'äkkiä nousi lasarettirakennuksen otsikkoon verkkaisesti liehuen
+keisarillinen lippu. Rumpumajuri antoi merkin, soittokunta soitti
+keisarihymniä, rykmentti teki kunniaa.
+
+... Silloin putosi sairashuoneen toisessa kerroksessa olevasta
+ikkunasta ihmisruumis raskaalla jyskeellä kiviselle kadulle, jääden
+siihen verisenä, muodottomana, pää rikki ruhjottuna venymään.
+
+Soittokunta kajahutti edelleen keisarin kunniaa. Mutta toisen kerroksen
+ikkunassa rukoili ääneen eräs nunna.
+
+
+
+
+Zsadony ja Kamasz.
+
+
+Valloitettuaan Budapestin, Windisgratz istuutui kansliaansa ja
+järjesti Unkarin hallinnon. Hän oli juuri säätänyt sen — emme kiellä
+tärkeän asian, kuinka monen kreutzerin leimamerkki oli pantava
+tuomioistuimelle annettavaan hakemukseen, kun Tisza-virran takaa
+syöksyi esiin unkarilainen sotajoukko ja alkoi Szolnok'in luona
+ahdistaa itävaltalaisia. Tämä ikävä seikka saattoi ruhtinaan kääntymään
+hallintoasiain pehmeiltä nurmikoilta sodankäynnin kolealle uralle —
+kuten tiedämme, huonolla menestyksellä.
+
+Szolnok'in ottelu pelästytti itävaltalaisia niin, että veivät
+sotaväkensä pois Cegled'istäkin. Hyvät ceglediläiset, joiden taakkana
+vihollinen oli koko talven ollut, hengittivät taas vapaasti. Pitämättä
+jääneihin sianteurastuskemuihin ryhdyttiin kiireesti; kauan lihotetut
+siat olivatkin jo tukehtua liiallisesta hyvinvoinnista. Koko kaupunki
+oli pelkkää iloa. Kun saksalainen läksi, tuli unkarilainen. Saapuivat
+kansalliskaartilaiset, jotka viime vuonna Schwechat'in likellä,
+Sukoro'n luona, olivat urhoollisesti taistelleet serbejä vastaan ja
+niin osanneet viikatteillaan suorittaa kaikki väärät asiansa, ett'ei
+saksalaisista, kroaateista, serbeistä jäänyt ainoatakaan jälelle.
+
+Ainoastaan maanmittari János Dobos ei ollut tyytyväinen ceglediläisten
+urhotöihin.
+
+— Se on totta että viime vuonna läksimme kolmetuhatta miestä Kossuth'in
+kehotuksesta, mutta suuri osa palasi kotiinkin. Sitte loikoilimme koko
+talven vatsallamme.
+
+— Entäs ne, jotka menivät honvédeiksi! -sanoi joku siihen. — Mitä
+merkitsee nuo kahdeksankymmentä, sata miestä? Olisimme voineet antaa
+kolmesataakin honvédiä. Minä näen täällä kotona kylläkin voimakkaita
+nuoria miehiä, joitten paikka olisi armeijassa.
+
+— Mutta kun saksalainen oli täällä niskoillamme! Emmehän voineet
+liikahtaa.
+
+— Hyvä. Sen myönnän. Mutta liikkukaamme nyt. Nyt on jo niskamme vapaa.
+
+— Liikkukoon herra insinööri! Sitte liikkuu kaupunkikin.
+
+Ja herra Dobos alkoi liikkua. Hän toitotti kokoon ratsastavan
+kansalliskaartin. Hyvin syötettyjen, kiiltävänkarvaisten, harmaitten
+hevosten selässä kokoontui noin kolmesataa nuorukaista raatihuoneen
+edessä olevalle torille ja sen viereisille kaduille.
+
+— Pojat! — puhui Dobos — jos koskaan, niin meidän nyt täytyy saattaa
+saksalaiset satimeen. Nyt on aika jokaisen tehdä tenää. Jos kaikki
+hyökkäämme heitä vastaan, lyömme heidät kuolijaaksi jäätyneillä
+maakokkareillakin, ei siihen aseitakaan tarvita. No, tuletteko kanssani?
+
+— Ennemmin tänään, kuin huomenna. Sillä sitten alkaa kevättyöt —
+vastasi muuan iäkkäämpi talollinen.
+
+— Ei ole mitään kiireellisempää kevättyötä kuin vihollisen pois
+lakaiseminen, hyvät ystävät — vastasi Dobos.
+
+— Sekin on totta — sanoi siihen viisaasti talollinen. —
+
+Sitten ositti Dobos joukon, määräsi alipäälliköt, pani jokaisen
+velvollisuudeksi hankkia hevoselle apetta ja itselleen täysi
+eväskontti, ja iltapäivällä lähdettiin laulaen Alberti-Irsaa päin.
+Etumaisena ratsasti Dobos pääesikunnan kanssa.
+
+— Olisi suuri asia, pojat, jos voisimme anastaa yhden keisarillisen
+lipun... Vaan enemmän minua miellyttäisi, jos saisimme käsiimme jonkun
+kanuunan...
+
+— Lipun asettaisimme kaupunginhuoneen saliin.
+
+— Ja kanuunan sen pihalle.
+
+‒ Juhlapäivinä herättäisimme aina kansan tämän kanuunan laukauksella...
+
+Näin suunnitteli esikunta, kunnes Pilis'in torni alkoi häämöittää.
+Laulajat vaikenivat.
+
+‒ Miksette laula? — kysyi ylipäällikkö.
+
+‒ Entäs jos vihollinen on Pilis'issa?
+
+‒ Se on totta.
+
+Nyt Dobos valitsi neljä miestä, joilla oli paraat hevoset.
+
+‒ Te ratsastatte käyden kylän päähän ja sieltä laskette täyttä
+laukkaa takaisin kylän lävitse. Jos teitä ammutaan, merkitsee se että
+vihollinen on kylässä. Silloin teette kierroksen rautatielle päin ja
+tulette takaisin antamaan raportin.
+
+Yksi valituista nuorista pojista intti vastaan:
+
+Eikö olisi ehkä parempi kysyä tuolta talonpojalta, joka tuolla tulee
+kylästä?
+
+‒ Tee mitä käsken. Minä ymmärrän sen paremmin. Tämä on strategiiaa.
+Kyllä minä tiedän kuinka sotaa käydään.
+
+Vakoilijat lähtivät, mutta joukko seisahtui akaasiapuiden alle. Dobos
+piti pienen esitelmän ratsusotamiehen velvollisuuksista. Hänen mukaansa
+on ratsumiehelle ainoastaan yksi komentosana: "Päälle"! Kun hän sen
+kuulee, vetäköön miekkansa ja syösköön vihollista vastaan. Se on hyvin
+yksinkertaista. Sen jokainen voi ymmärtää.
+
+—— Entä jos vihollinen sanoo: "päälle" ja ryntää meidän kimppuumme? —
+kysyi Istvan Kamasz.
+
+—— Silloin suljet silmäsi, tartut molemmin käsin miekkaasi ja huidot
+ympärillesi kuin paholainen.
+
+Tämäkin on selvää oppia. Joukko oli jo täydellisesti tutustunut
+sotatieteiden salaisuuksiin.
+
+Ennen pitkää palasivat partioretkeläiset ja ilmoittivat ettei
+vihollista oltu nähty eikä kuultu Pilis'issa. Joukko siis painui
+eteenpäin.
+
+He saattoivat ehkä jo olla Vecsés'in lähellä, kun tasangolla
+jakaantuivat kolmeen riviin ja niin ratsastivat verkkaisesti
+eteenpäin. Yht'äkkiä kuuluu kanuunanlaukaus, suhinaa ja seuraavassa
+silmänräpäyksessä nuori Páli Zsadony huutaen: "Nyt tuli loppu!" sortui
+maahan hevosineen.
+
+Ja silloin äkkiä selvisi Dobosille, että ratsusotamiehen elämässä on
+useampiakin komentosanoja. Hän huutaa täyttä kurkkua:
+
+— Hajaantukaa, miehet!
+
+Saattaa olla että hän sillä tarkoitti hajalle menoa kanuunankuulain
+tähden, mutta joukko käsitti sen toisin, ja kääntyen takaisinpäin,
+karautti suitset löysinä sinne mistä oli tullut. Dobos perässä.
+
+Yksi mies jäi paikalle: Istvan Kamasz, Páli Zsadony'in ruokakumppani.
+
+— Et suinkaan sinä kuollut, Páli? — kysyi hän hevosen selästä.
+
+— En kuollut, koska elän, mutta ehkä olen jalaton.
+
+— Jahka katson.
+
+Hän astuu alas hevosen selästä, vetää toverinsa hevosen alta. Pália ei
+tosiaankaan mikään vaivaa, mutta hevonen on oikaissut koipensa. Kuula
+oli repäissyt etulavan puhki.
+
+— Tiedätkö mitä, veikkonen, — sanoi Kamasz — minun hevoseni jaksaa
+kyllä kantaa meidät molemmatkin, kiipee minun taakseni, ja sitte
+paetkaamme.
+
+— Sepä hyvä.
+
+— Mutta kuules, olisi vahinko jättää tuo kaunis, uusi satula hevosesi
+päälle, päästä se solista.
+
+Zsadony päästi.
+
+— Nyt näen, että hevosesi on äsken kengitetty. Eihän jätetä tänne uusia
+kenkiä.
+
+He kiskovat kengät hevosen jaloista, ja tällä tavoin sälytettynä
+Zsadony kiipesi Kamasz'in taakse hevosen selkään ja niin ratsastivat he
+takaisinpäin.
+
+Asetovereitaan he tietysti eivät missään tavanneet, mutta Pilis'issä
+saivat tietää että Dobos oli koonnut osan joukosta ja vienyt sen
+Ecser'iin päin, jossa unkarilainen armeija on leirissä.
+
+Alberti Irsassa he jo kuulivat että Cegled'in ratsastavat
+kansalliskaartilaiset olivat joutuneet kahakkaan kymmenen tuhannen
+saksalaisen kanssa ja urhoollisen ottelun jälkeen, jossa kaatui puolet
+unkarilaisista, olleet pakoitetut peräytymään.
+
+(Se oli kaunista heiltä, ett'ei puolet vihollisista kaatuneet!)
+
+Oli pimeä ilta, kun he saapuivat Cegled'iin. Jättäen satulan ja
+hevosenkengät toverinsa hevosen selkään, Páli Zsadony riensi isänsä
+talolle.
+
+Pitkän koputuksen jälkeen kuuluu laahaavia askeleita ja eräs ääni
+huutaa:
+
+— Kuka se on? Mitä tahdotte?
+
+— Minä se olen, isä, Páli-poikanne.
+
+— Se ei ole mahdollista!
+
+— Miks'ei?
+
+— Siksi että minun poikani kaatui urhoollisesti Vecsés'in tappelussa.
+
+(Kotona siitä jo oli tullut tappelu.)
+
+— En minä kaatunut, isä, sillä olen tässä.
+
+— Mene hiiteen, sinä maankuleksija hirtehinen! Sanoinhan että Páli
+Zsadony todellisena sankarina kuoli isänmaan edestä... hän ei juossut
+pelkurimaisesti pakoon, kuten muut.
+
+Páli kohautti olkapäätään ja jätti itsepäisen vanhuksen, joka oli niin
+ylpeä poikansa sankarikuolemasta. Hän meni suoraan pappilaan, suuren
+kaksitornisen reformeeratun kirkon vieressä. Kunnianarvoisa pastori kai
+saattaa hänelle sanoa mitä hänen tässä vaikeassa asemassa on tehtävä.
+Kun isänsä ei tahdo uskoa, että hän elää.
+
+Palvelija kantaa juuri vettä taloon.
+
+— Näkyypä, tyttöseni, kanslian ikkunasta vielä valoa. Kysy
+kunnianarvoisalta pastorilta, saisinko eräässä tärkeässä asiassa
+puhutella häntä.
+
+Palvelija tulee takaisin.
+
+— Kunnianarvoisa pastori käskee sanoa, että jos asianne koskee kuolevaa
+ihmistä, niin voitte tulla sisään.
+
+Juuri sitä se koskee. Kuolevan, taikka ehkä kuolleen ihmisen asiaa.
+
+Näin sanoen hän astui sisään. Kunnianarvoisa pastori istui kyynäspäät
+kirjoituspöytää vastaan ja luki. Hän ei edes katsonut ylös.
+
+— No, mikä on?
+
+— Olen pahassa pulassa, hyvä herra.
+
+Nyt hän katsoi ylös. Sitten hypähti seisoalle. Silmälasinsakin otti
+pois, paremmin nähdäkseen.
+
+— Ettekö suvaitse tuntea minua? Minä olen Páli Zsadony.
+
+— Tiedän että olet hän, mutta en usko sitä. Sinähän kaaduit Vecsés'in
+tappelussa.
+
+Páli naurahti ja kertoi sitte Vecsés'in tappelun historian. Ainoastaan
+yksi mies siellä kaatui, sekin oli hevonen, hänen kelpo Ráronsa. Sitten
+kertoi, hän kohtauksen isänsä kanssa ja kysyi mitä nyt oli tehtävä?
+
+— Se ei vielä ole mitään päätti kertomuksen pappi — illansuussa
+kävi täällä isäsi ja pyysi että huomenna kello kahdeksan
+jumalanpalveluksessa pitäisin kiitosrukouksen edestäsi ja mainitsisin
+puheessani että olet sankarina kuollut isänmaan eteen. Olen sen jo
+laatinutkin. Vastikään rupesin opettelemaan sitä ulkoa. Hän sytytti
+piippunsa.
+
+— Tiedätkö mitä, poikaseni, jottei se ainakaan menisi kokonaan hukkaan,
+luen sen sinulle. Harvalle ihmiselle tapahtuu se onni, että täysin
+terveenä saa kuulla oman kuolinpuheensa.
+
+Kunnianarvoisa pastori oli osannut kauniisti liioitella Pálin kuolemaa.
+Sadottain kanuunia jyrisi siinä ja kokonaiset kyrassierirykmentit
+tömisivät Vecsés'in kentällä. Sitten seurasi maahan hakkaaminen,
+jonka Páli suoritti kunnes monta tuhatta miestä lannisti hänet. Hänen
+punainen verensä juoksi ja hedelmöitti maan, josta Unkarin vapauden puu
+on nouseva. Kaupunki ja Zsadonyn perhe voivat olla ijäti ylpeät hänestä
+ja muistokivi on pystytettävä nuorelle sankarille, jotta lastemme
+lapset oppivat innostumaan hänestä j.n.e., j.n.e.
+
+Kun kunnianarvoisa pastori lopetti lukemisen, huomasi hän
+hämmästyksekseen, että Páli peittää kasvonsa ja itkee katkerasti.
+
+— Mikä sinua vaivaa?
+
+— Minua harmittaa, että elän... Häpeän, että jäin eloon... Ei, minä en
+saatakaan elää siltä, etten kuollut... olen päättänyt... Vielä tänä
+yönä hirtän itseni.
+
+— Oletko hullu! — torui pappi.
+
+— Kunnianarvoisa pastori... vaikka eläisin sata vuotta, noin kaunista
+ei minusta koskaan sanottaisi... Sellaistahan ihmistä ei vielä ikinä
+ole ollut Cegled'issa!
+
+— Millaista ihmistä?
+
+— Sellaista kuin minä — _olisin voinut olla_. Sellainen kuin olen
+kunnianarvoisan pastorin puheessa. Ei, minun velvollisuuteni on kuolla.
+Hyvästi...
+
+— Seis narri! — huusi pappi, tarttuen häneen — sanon sinulle jotakin
+järkevämpää. Páli seisahtui.
+
+— Mene unkarilaiseen armeijaan, suoraan Damjanics'in luo ja rupea
+honvédiksi hänen sotajoukkoonsa... siellä jaetaan tuhkatiheään
+kuolemaa. Minä en tiedä mitään kotiintulostasi ja huomenna itketään
+sinua niinkuin olisit Vecsés'in tappelussa kaatunut.
+
+— Kiitoksia, kunnianarvoisa pastori, niin teen. Jumala minua siihen
+auttakoon!
+
+... Kun hän meni Kamasz'ien taloon, sanoakseen jäähyväiset toverilleen,
+ähkyi joku ulkona penkillä katkerasti. Se oli Istvan Kamasz. Isä oli
+piessyt häntä kepillä, sentähden että oli paennut kotiin.
+
+Neljännestunnin kuluttua he yhdessä jalkaisin jättivät Cegled'in,
+hakeakseen Damjanics'ia.
+
+       *       *       *       *       *
+
+Eräänä kuumana Elokuun päivänä astui kaksi honvéd-pakolaista vanhan
+Zsadony'in taloon. Ne olivat Zsadony ja Kamasz. He tulivat paeten
+Világos'ista.
+
+Vanha Zsadony lopulta tyytyi siihen että hänen poikansa ei ole
+semmoinen suuri sankari, joka kaatuu heti ensimäisessä tappelussa,
+vaan sellainen, joka vielä ottaa osaa kahteenkymmeneen taisteluun, ja
+sittenkin tulee ehein nahoin kotiin, edelleen työtä tekemään.
+
+Kaupungin yleisökin piti häntä sankarina. Ja miksikä ei? Sellaista
+miestä, jonka kanuunankuulakin jo oli syössyt maahan, mutta jota ei
+sittenkään mikään vaivaa.
+
+
+
+
+Haaveksittu tapaus.
+
+
+I.
+
+Syyskuun seitsemäntenä päivänä 1847 oli eräässä talossa Lontoon
+Regent-Streetin varrella mr. Norton, kuuluisa koneinsinööri, juuri
+istunut ruualle, kun hänelle ilmoitettiin erään vieraan tulo.
+
+— Tulkoon huomenna konttoriini. Palvelustyttö palasi takaisin
+ilmoituksineen.
+
+— Ei voi, sillä hän matkustaa huomenna pois ja on tullut hyvin kaukaa.
+
+— Se on varmaan amerikkalainen, koska on niin tunkeileva. Saata hänet
+sisään.
+
+Voimakas, viidenkymmenen vuoden vaiheilla oleva lujarakenteinen mies
+astui sisään. Jollakin aivan raa'alta kaikuvalla nimellä hän esitti
+itsensä.
+
+— Suokaa anteeksi, hyvä herra, mutta minä tulin hyvin tärkeässä
+asiassa, — alkoi hän selvällä englanninkielellä.
+
+— Lyhyesti, pyydän — vastasi Norton ärtyisenä — sillä minun on kovin
+nälkä.
+
+— Älkää antako häiritä itseänne, suvaitkaa vaan syödä.
+
+— Enpä annakkaan.
+
+Sen sanottuaan Norton viittasi ja liemi tuotiin sisään.
+
+— Paljoko teillä on vuodessa tuloja? — kysyi vieras kuivasti.
+
+Herra Norton laski närkästyneenä lusikkansa kädestään.
+
+— Minä lupaan teille viisi kertaa niin paljon, jos asetutte
+käytettäväkseni.
+
+Nyt jo leipäkin putosi herra Nortonin kädestä.
+
+— Mistä on puhe?
+
+— Asetehtaan perustamisesta ja johtamisesta. Teitä minä tarvitsen. En
+luota täydellisesti itseeni.
+
+— Toimitteko jonkun kapinoivan valtakunnan, ehkä Etelä-Amerikan valtion
+puolesta?
+
+— En, hyvä herra. Olen vaan keksinyt uudenlaisen aseen, enkä tahdo
+myydä sitä millenkään valtiolle, vaan itse valmistaa sen. Vasta sitte
+keskustelen Euroopan kanssa.
+
+— Kuka te oikeastaan olette?
+
+— Tilanhaltija Unkarista. Mutta minä ymmärrän myös vähäisen koneoppia.
+Kotonani sitä jo poikavuosistani saakka harjoittelin ja sitä paitsi
+olen tavallisena työmiehenä työskennellyt yhden vuoden Spithead'in ja
+toisen Toulon'in asetehtaassa.
+
+Norton katseli häntä yhä suuremmalla kummastuksella.
+
+— Sallivatko isänmaanne lait salaista aseiden valmistamista? — kysyi
+hän.
+
+— Missä minä asun, hyvä herra, siellä ei ole lakia. Se paikka on, kuten
+on tapana sanoa, Jumalan selän takana. Siellä minä olen sellainen herra
+kuin Turkin keisari valtakunnassaan... Mutta syökää, minä pyydän,
+liemennehän jäähtyy aivan... Mitä huoli mister Norton liemestä? Pitkin
+askelin käveli hän edestakaisin. Vihdoin hän äkkiä pysähtyi vieraan
+eteen.
+
+— Tiedättekö, paljoko minulla on vuotuisia tuloja? — kysyi hän.
+
+— En.
+
+— Tuhat-tuhatkaksisataa puntaa.
+
+— Hyvä. Minulta saatte viisi- kuusituhatta puntaa vuodessa. Suostutteko?
+
+— Suostun. Mutta pyydän kontrahtia.
+
+— Se on valmiina täällä taskussani. Huomenna voitte vahvistaa
+sen virallisella notariuksella. Sitävarten jätän tänne poikani,
+tarpeellisella valtakirjalla varustettuna.
+
+Mr. Norton'ille tuntemattomalla kielellä huusi hän eteiseen, josta
+solakka nuorukainen astui sisään.
+
+— Poikani, Aladár. Hän on vastikään päässyt Northampton'in
+konekoulusta. Kaikki enemmät ohjeet ovat hänen hallussaan. Suvaittuanne
+allekirjoittaa kontrahdin, hän on valtuutettu heti suorittamaan teille
+ensi vuoden palkan, kuusituhatta puntaa. Olemmeko selvillä?
+
+— Olemme! — vastasi Norton huumautuneena.
+
+— No sitten Herran haltuun ja näkemiin asti, tämä poika jää tänne.
+Minä lähden vielä tänä iltana Parisiin, jossa toinen poikani ja eräs
+ensiluokan kemisti odottavat.
+
+Hän puristi Norton'in kättä, suuteli poikaansa ja kiiruhti pois. Norton
+soitti.
+
+— Viekää liemi ulos lämmitettäväksi. Kymmenen minuutin kuluttua
+tuotiin liemi lämmitettynä takaisin, mutta herra Norton oli silloin jo
+työhuoneessaan.
+
+Sinä päivänä herra Norton varmaankin unohti syömisen.
+
+
+II.
+
+Kun Benjamin Szakács, Gyergyo-Szent-Miklós'in kanssaomistaja, osti
+Borszék'in tunturien keskellä sijaitsevan Balán'in vaskikaivoksen, jota
+ei kymmeneen vuoteen oltu käytetty, nauroi sitä jokainen.
+
+Herkkäverisimmät lohduttivat sillä että hän siitä vielä löytää
+satatuhatta kreutzer'ia, jos löytää. Mutta pankkoseteliä ei.
+
+Szakácz muutti itsekin sinne luopääsemättömien vuorien keskelle,
+Rumenian rajalle. Harvoin hän sieltä tuli alas, ja vähitellen hän vei
+mukanaan koko sukunsa, sitäpaitsi jokaisen työn puutteessa olevan
+ihmisen, joka tahtoi muuttaa Rutneniaan.
+
+Näyttää siltä kuin olisi kaivoksen pohjalla vielä mitä kaivaa. Szakácz
+itsekin teki työtä, joko omassa konepajassaan tai alhaalla kaivoksessa.
+
+Kun hänen vanhin poikansa oli palannut Csik-Somlyón koulusta, piti hän
+häntä luonaan ja opetti hänelle kaikki, mitä hänen oli tapa valmistaa.
+
+Toiset kaksi poikaansa hän, kuten puhuttiin, koulutti ulkomailla;
+kerran hän itsekin katosi, eikä kukaan nähnyt häntä kahteen vuoteen.
+
+Mutta tämä kaikki saattoi olla vaan juorua. Varmaan ei sitä tiennyt
+kukaan tuolla alhaalla Csik'in ja Gyergyószék'in laaksoissa. Jos
+joskus joku metsästäjä eksyi Borszék'iin, näki hän siellä lasiruukin,
+vaskikaivostyömiehiä, tiilitehtaan, Szakacs'ien kauniin talon, mutta
+ylemmäksi lumivuoren keskelle, Bolán'iin ei enää kukaan mennyt...
+Pelottava, aarniometsän peittämä, vaarallinen seutu se oli silloin.
+
+Keväällä 1848 kuljetettiin Maros-laaksossa, Szász-Régen'ista
+Oláh-Toplicaan päin, paljon Szakács'ille Englannista saapuneita
+englantilaisia koneita, kuten sanottiin kaivoskoneita. Sata miestä
+tasoitti tietä koneitten edessä ja kymmenen- kaksitoista puhvelihärkää
+veti yhtä.
+
+Koneita seurasi englantilaisia, jotka samaten katosivat vuorten
+keskeen kuin aikaisemmin székelyit. Suuren liikkeen seurauksena levisi
+kaikkialle tieto, että Szakács'in kaivos on erinomainen ja poraa jo
+vaskea englantilaisilla koneilla.
+
+Mutta tuli myrskyiset, rauhattomat ajat, eikä kukaan välittänyt
+Szakács'in vaskikaivoksesta.
+
+Siebenbürgen'in hiljaisissa laaksoissa vyöryi taistelun pauhina, mutta
+Borszék'in alpeille sodan hurja jumala ei tuonut palavaa soihtuaan.
+
+Benjamin Szakács ilmestyi tuon tuostakin alas Székelyien luo kuumeesta
+palavin silmin ja kasvot kalpeina. Hän kuunteli viestejä ja palasi
+sitten uudestaan vuorilleen. Vasta perästäpäin he muistivat hänen
+siellä täällä lausuneen näinikään:
+
+— Älkää masentuko, kestäkää, lyhyen ajan kuluessa kaikki kääntyy
+hyväksi.
+
+Muualla taas hän sanoi:
+
+— Vielä en ole valmis. Saan niin vähän Aineksia ja saan ne niin
+hitaasti ulkomailta.
+
+Ei kukaan ymmärtänyt sitä.
+
+
+III.
+
+Elokuun 11 p:nä 1849 Unkarin armeijan kenraalit ja esikuntaupseerit
+kokoontuivat ratkaisevaa neuvottelua varten armeijan pääkortteeriin
+Ó-Arad'iin.
+
+Görgey esitti heille Rüdiger'ille kirjoitetun kirjeen, jossa hän
+ilmoittaa heittävänsä aseet Világos'in luona. Sitten hän jätti
+upseerit, jotta he saisivat vapaasti neuvotella suostuvatko ehdotukseen
+vai ei.
+
+Tuskin olivat he alkaneet keskustella, kun kiivas koputus kuului
+ovelta. Ennenkuin kukaan ehti mitään sanoa, aukeni ovi ja sisään astui
+Benjamin Szakács.
+
+Valkeat, karkeasta kankaasta tehdyt housut oli pistetty pitkävartisiin
+saappaisiin. Hän oli puettu lyhyeeseen harmaaseen takkiin, kupeella
+riippui leveä miekka. Näytti Székelyn kansalliskaartilaiselta. Hän
+tervehti sotamiehen tapaan ja sanoi:
+
+— Anteeksi, herrat kenraalit, nimeni on Benjamin Szakács, minä tulen
+sellaisessa asiassa, josta ehkä isänmaan kohtalo riippuu.
+
+Sotilaat katsoivat toisiinsa.
+
+— Puhukaa, — sanoi Erno Kiss.
+
+— Hyvät herrat, suurten ponnistusten perästä olen keksinyt uuden
+pyssyn, joka tekee yhden miehen kykeneväksi seisomaan kahtakymmentä
+nykyisillä pyssyillä varustettua miestä vastaan.
+
+Upseerit katsoivat toisiaan. Tuo on joku hullu raukka.
+
+Szakács'in kasvoille ilmeni surullinen hymy.
+
+— En ole hullu, hyvät herrat.
+
+Sitten huusi hän ovelta. Samanpukuinen székelyi tuli sisään, mutta
+rihmakengissä, olalla pienennäköinen pyssy, kupeella lyhyt pajunetti,
+edessä ja takana aika patruunatasku. Szakács otti pyssyn ja astui se
+kädessä kiihtyneesti yhteentunkevien upseerien keskelle.
+
+— Katsokaa, hyvät herrat, pyssy on takaa ladattava, patruunat pitää
+pistää sisään valmiina, mutta ei yksitellen, vaan kuusi yht'aikaa. Nämä
+minä ammun pois yhdessä minuutissa, sitten panen taas sisään kuusi.
+Sanalla sanoen, sillaikaa kun te ammutte yhden, ammun minä ainakin
+kolmekymmentä.
+
+Ihmettelyn humu kuului upseerijoukosta.
+
+— Ja sen vaikutus, hyvät herrat, on kauhea. Se menee viiden
+ihmisen läpi. Yhden komppanian yhteislaukaus hävittää kokonaisen
+ratsurykmentin. Ratsuryntäystä ei enään ole, pajunettiryntäystä ei
+ole... tämä pelottava, hirveä ase surmaa ryntääjät.
+
+Kuului nyyhkytystä. Leiningen pöytään nojaten itki.
+
+— Näettekö tuota? — sanoi Erno Kiss -se merkitsee sitä, että
+miksette tullut ennen aseinenne; nyt on jo myöhäistä. Tässä on kirje
+Rüdiger'ille!
+
+— En voinut tulla ennenkuin minulla oli paljon aseita ja miljoona
+patruunoita.
+
+— Sittenkin se on myöhäistä! Ennenkuin miehemme oppivat, tungetaan
+meidät pois maasta.
+
+— Ei, herra kenraali, minulla on kaksikymmentätuhatta miestä tällä
+pyssyllä varustettuna.
+
+Silloin hypähti Leiningen pystyyn.
+
+— Missä, missä, missä?
+
+— Kymmenentuhatta täällä kaupungin laidassa, kymmenentuhatta tunnin
+matkan päässä.
+
+— Mutta mistä ne tipahtivat tänne? — huudettiin Szakács'ille joka
+puolelta.
+
+— Siebenbürgen'ista, Gyergyószék'in luopääsemättömien vuorten
+keskeltä. Siellä olen valmistanut nämä pyssyt ja siellä järjestänyt
+vuoden ajan sotajoukkoani. Segesvár'iin jo saavuin myöhään, mutta
+saatan sanoa että olen sen kostanut... Kenraali Luders pakenee maasta
+kuudenkymmenenviiden kasakan kanssa. Sen verran jäi koko hänen
+sotajoukostaan.
+
+— Voititteko venäläiset? — huusi Pöltenberg.
+
+— Voitin, Piskin luona. Yhdeksäntuhatta venäläistä jäi kuolleena
+taistelutantereelle. Meidän tappiomme oli kahdeksankymmentäviisi miestä.
+
+Jonkunlainen mieletön hilpeys valtasi urhoolliset sotilaat, jotka vielä
+vastikään keskustelivat häpeällisestä antautumisesta. He ympäröivät
+Szakács'in, syleilivät ja suutelivat häntä.
+
+Yht'äkkiä näkyi ovessa Görgeyn kalpeat kasvot, uljas vartalo. Joku oli
+ollut häntä hakemassa.
+
+— Mitä on tapahtunut, herrat? Mitä haaveiluja kuulen? Missä keksijä on?
+— kysyi hän terävällä äänellä. — Minä olen — vastasi Szakácz kumartaen.
+
+— Näyttäkää pyssynne! Szakácz selitti sen hänelle.
+
+— Millä rahoilla olette voineet tämän aikaan saada?
+
+— Vaskikaivokseni alta löysin rikkaan kultakaivoksen?
+
+— Ja kuinka? Millä työaseilla?
+
+— Hienoimmilla englantilaisilla työaseilla. Englantilaisef
+laivat toivat ne Mustallemerelle ja sieltä kuljetimme ne salaa
+Siebenbürgen'iin. Niinkauvan kun oli rauhalliset ajat, tuotiin
+valtakunnan läpikin paljon.
+
+— Mainio asia, — sanoi Görgey kylmästi - katsokaamme sotamiehiänne.
+
+He menivät talon edustalle. Ulkona seisoi äänettömänä kymmenen
+Szakács'in sotilasta, pyssy jalalla. Heidän edessään nuorukainen,
+silitellen hevosensa kaulaa.
+
+— Aladár, tuo tänne sotajoukko!
+
+Poika hyppäsi hevosen selkään ja laukkasi pois. Puolen tunnin kuluttua
+lähestyi rumpujen kumeasti päristessä musta joukko. Aaveentapaisesti he
+lähenivät, sillä rihmakengät eivät liioin tömisseet.
+
+— Kahdeksansataa miestä pataljoonassa. Täällä on yhteensä yksitoista
+pataljoonaa, tuhatkaksisataa miestä kanuunain ja patruunavaunujen
+ääressä.
+
+— Onko teillä kanuunoitakin? — kysyi Görgey.
+
+— On, takaaladattavia, pronssista, ja ekrazitpommeja.
+
+— Mitä se on?
+
+— Oma keksintöni, sen räjähdysvoima on viisikymmentä kertaa suurempi
+kuin pyssynruudin.
+
+Görgey ja muut kenraalit katselivat hämmästyneinä Tomzs'in székelyia,
+joka noin kylmästi kertoi nämä asiat.
+
+Musta joukko seisahtui Ó-Arad'in suurelle torille. Keskellä olivat
+kanuunat ja patruunarattaat. Mutta kenraalit menivät sisään huoneeseen
+ja Görgey saneli seuraavan kirjeen kenraali Rüdiger'ille:
+
+/#
+ Herra kenraali!
+
+ Pääesikunnan yksimielisen päätöksen mukaan minulla on kunnia huomenna
+ rynnätä teitä vastaan.
+
+ Kunnioituksella
+
+                                                        _Görqey_
+                                                        kenraali.
+#/
+
+
+IV.
+
+Rdiger'iä ja hänen upseereitaan tämä kirje hämmästytti. Hehän odottivat
+kirjettä, joka ilmoittaisi aseenheiton ajan ja paikan.
+
+I:sen armeijaosaston Görgey lähetti mahdollisesti saapuvia
+itävaltalaisia pidättämään. III:s ja VII:s osasto seisoivat reservinä.
+Soborsin'ista tuotiin Szakács'in toiset kymmenentuhatta miestä ja
+kaksitoista kanuunaa ja Elokuun 12 p:nä aamunkoitteessa mentiin
+Rüdiger'ia vastaan.
+
+Görgey, Szakács ja kenraalit olivat keskellä, ratsain.
+
+Kun Rüdiger'ia aamulla herätettiin, sanoi hän:
+
+— Ne siis kuitenkin hyökkäävät? No, se on kauniimpaa kuin jos
+antautuisivat.
+
+Sitten ratsasti hän joukkonsa luo, joka jo seisoi sotajärjestyksessä.
+Översti Krulev tarkasti suurella kaukoputkella etäällä tuskin näkyviä
+unkarilaisia.
+
+— En ymmärrä. He asettavat kanuunansa. Ketä aikovat noin kaukaa ampua?
+
+Seuraava silmänräpäys antoi vastauksen. Hirmuisella sähinällä tuli
+pommi ja iski Olga-rykmentin keskeen. Koko rykmentti alkoi hajota.
+Viisikymmentä miestä kaatui kuolleina ja haavoittuneina. Vasemmalta
+iski jalkaväkeen viisi kuusi pommia ja teki äärettömiä aukkoja
+rykmenttien lujaan rintamaan.
+
+— Kanuunat esiin! — ärjäsi Rüdiger.
+
+— Näin kaukaa se on mahdotonta, — vastasi eräs tykistönöversti.
+
+— Mikä heille on mahdollista, on meillekin, — karjui kenraali.
+
+Käsky on käsky. Venäläiset kanuunat alkoivat ampua. Kymmenen minuutin
+kuluttua puolet vaikenivat.
+
+— Mitä teette, koirat? — huusi Rüdiger, ratsastaen sinne korskuvalla
+ratsullaan.
+
+— Puolet miehistöstä on kaatunut — vastasi översti, joka verisenä venyi
+kanuunallaan.
+
+— Joudu, Vladimir, kasakat hyökätkööt, lakaiskaa pois ne konnat!
+
+Ajutantti laukkasi pois ja parin silmänräpäyksen kuluttua neljä
+rykmenttiä kasakoita riensi hyökkäykseen helvetillisellä jyrinällä.
+Torvet rämisivät, kasakkain voimakas kuorolaulu kajahteli.
+
+— Jumalan ja tsaarin nimeen! — huusi Rüdiger ja teki ristinmerkin.
+
+— Minä heitän husaarit heidän eteensä -huusi toisella puolen Görgey,
+nähdessään tämän rajuilman kentällä lähestyvän.
+
+— Heitä olisi sääli — vastasi Szakács. Székelyit vetäytyivät enemmän
+yhteen ja seisoivat kolmikertaisessa rivissä. Kun kasakat olivat
+tuhannen askeleen päässä, kuului yksi ainoa korvia särkevä pamaus.
+Kaikki kolme riviä olivat laskeneet laukauksen. Heti senjälkeen seurasi
+toinen yhteislaukaus, kolmas, neljäs, viides, kuudes... kanuunat
+lennättivät kartesseja vuorelta... Ja kuudestatuhannesta kasakasta
+palasi kaksisataa takaisin.
+
+Rüdiger itkien, kiroten, rukoillen ajaa joukkoaan eteenpäin. Rohkeimmat
+pääsivät vain sadan askeleen päähän unkarilaisista, muut syöksyivät
+suin päin takaisin. Veriset ryysyt peittivät koko kentän; se oli
+koko jäännös loistavasta sotajoukosta. Rüdiger'in veivät upseerinsa
+puolihulluna sotatantereelta.
+
+Unkarilaiset kenraalit katselivat kauhulla helvetinkoneitten vaikutusta.
+
+Silloin sanoi Szakács Görgeylle:
+
+— Herra kenraali, nyt voitte laskea husaarit heidän päälleen. Me taas
+menemme Haynauta vastaan.
+
+       *       *       *       *       *
+
+Näin olisi voinut tapahtua, jos joku unkarilainen v. 48 olisi keksinyt
+Mannlicher-kiväärin, Uchácius-kanuunan ja niihin kuuluvan ruudin.
+
+
+
+
+LEGIOONALAINEN.
+
+
+Purevan kylmä tuuli puhalsi. Wienin ylioppilaitten "pääkallo-legioona"
+marssi tasangolla. Almanakka osoitti jo Maaliskuun loppua, mutta se,
+jolla ei ollut aikaa kirjoista sitä katsoa, olisi vannonut että oltiin
+vasta Helmikuussa.
+
+Mutta meidän miehillä ei ollut aikaa almanakasta ajankulkua katsoa. Jo
+Lokakuusta saakka olivat he kulkeneet tappelusta tappeluun.
+
+Ydinkin oli jäätyä heidän luissaan, kun he aamulla Jász'in tasangolla
+verkalleen astua vaapottivat.
+
+Heitä oli kuusisataa älykästä, herrassäätyistä nuorukaista, jotka
+olivat heittäneet pois kaikki kirjansa tarttuaksensa miekkaan.
+Metternich'in kukistajoita, jotka olivat niskoitelleet Windischgrätz'iä
+vastaan ja yhden vuoden kuluessa tehneet Wienissä kaksi vallankumousta.
+
+Kun sitten väkivalta pani keisarikaupungin ikeensä alle, katselivat he
+ympärilleen, missä päin vielä liehui vapauden lippu. Ja he lähtivät
+koko joukko Unkariin.
+
+Saapuneet ylioppilaat järjestettiin legiooniksi ja virtana vuosi heidän
+verensä niin Siebenbürgen'in kuin Unkarin tappelutantereilla.
+
+Heidän joukossaan oli herttuoita, kreivejä, paroneja, jotka olivat
+jättäneet mukavat kastellinsa Itävallassa mennäkseen kuolemaan vieraan
+kansan vapauden edestä. Ja monen ikivanhan saksalaisen perheen
+jälkeinen lepää tuntemattomassa haudassaan jossakin Ala-Unkarissa tai
+Siebenbürgen'in vuoristossa.
+
+Ken heidän joukossaan oli kolmekolmatta-vuotias, hänellä oli jo oikeus
+kutsua legioonalaisia pojikseen. Nuorimpia kutsuttiin kumminkin
+säännöllisesti ukoiksi.
+
+Veljeksiä olivat he kaikki, jotka olivat vannoneet toisilleen
+uskollisuutta elämässä, kuolemassa. Jokainen oli valmis minä hetkenä
+tahansa uhraamaan henkensä asetoverinsa tähden.
+
+Pelkuruuden varjoakin rangaistiin ankarasti. Siinä kohdin nämä iloiset
+pojat eivät ymmärtäneet leikintekoa.
+
+Tuona kylmän kylmänä Maaliskuun päivänä 1849 kulki pääkallo-legioona
+Jászberény'iä kohti. Viisi päivää he yhtämittaa olivat majailleet
+taivasalla ja laulunhaluisimpainkin poikain huulilla jäätyi jo nuotti.
+
+Upseerit kävivät heitä katsomassa rivistä riviin.
+
+— Mikä teille on tullut, pojat, näytätte niin surullisilta kuin
+vietäisiin teidät hirteen.
+
+— Meitä kovasti paleltaa.
+
+— Tuima on tämä Unkarin tuuli.
+
+— Paprikaa täällä on ilmassakin.
+
+— Hei, älkää olko mammanpoikia! Kovempiakin olemme kokeneet Wienissä.
+
+Pojat huokasivat.
+
+— Se on totta, mutta tappelujen välillä siellä mentiin barrikaadeilta
+kahvilaan olutta juomaan ja biljaardia pelaamaan.
+
+Syvät huokaukset kuuluivat riveistä olutta, kahvilaa ja biljaardia
+mainittaissa.
+
+— Kovasti on teitä veltostuttanut tuo kaksiviikkoinen oleskelu
+Debereczen'issä. Mikä sinua vaivaa, Hammer?
+
+Kysymys tehtiin eräälle laihalle, tuskin kuusitoista-vuotiaalle
+keltanokalle, joka kalpeana, hampaat kalisten, vaivaloisesti astui
+eteenpäin ja nyt juuri antoi pyssynsä naapurilleen.
+
+— Voin kovin huonosti. Kylmänväreet ja kuume vaivaavat minua. Tuskin
+pysyn jaloillani.
+
+— Rohkaise itsesi. Kun katselen sinua, en koskaan luulisi sinua
+samaksi, joka pyssynperällä löi kuolijaaksi keisarin kaksi kauneinta
+krenatööriä. Kas tuossa!
+
+Ja hän ojensi hänelle debreczeniläisillä veistoksilla koristetun
+leilin, josta poika joi pari kulausta luumuviiniä.
+
+— Reilaan! — kaikui etupäästä komentosana ja torventoitotus ilmoitti,
+että jokaisen oli asettuminen paikalleen.
+
+Kaukana kohosivat Jàszberény'in tornit.
+
+Rummut pärisivät. Sitten räikähtivät torvet. Hammerkin nosti pyssyn
+olalleen. Kun he sitten saapuivat kaupungin ensimmäisille taloille,
+laskivat he pääkallonkuvalla varustetun lippunsa liehumaan ja
+virittivät legioonan laulun:
+
+/p
+    Wer kommt dort von der Höh'
+    Es ist der Windischgrätz...
+p/
+
+Kaikki kaupungin asukkaat, suuret ja pienet, kiiruhtivat kaduille ja
+tervehtivät kättä puristaen ja syleillen maankuuluja, urhoollisia
+poikia. Suurelle torille asettuivat he neliöön ja päällikkö ilmoitti,
+että jäädään Jászberény'iin epämääräiseksi ajaksi, jonka vuoksi
+majoittukoot.
+
+Parin minuutin kuluttua olivat vieraanvaraiset kaupunkilaiset jakaneet
+ylioppilaat keskenään, ja onneton oli se, jonka osalle ei ketään tullut.
+
+Hammer joutui erään kunnon ryytikauppiaan luo. Päästyään lämmitettyyn
+huoneeseen, hän vaipui sohvalle ja nukkui. Häntä ei uskallettu herättää
+eikä riisua hänen päältään. Varpaillaan astuttiin hänen ympärillään ja
+paraat palat päivällisestä säästettiin hänelle.
+
+Kello neljä hän heräsi ja tuli tuntohonsa. Silloin hän majoittui
+mukavammin, söi vähäisen ja joi paljon vettä. Sitten hän pesi itsensä,
+paikkasi rikkinäistä univormuaan, puhdisti pyssynsä, heitti sen
+olalleen ja astui ulos portista. Vahti oli tullut häntä hakemaan ja vei
+hänet lippua vartioimaan.
+
+Kello kahdeksan hän tuli takaisin. Hänen silmänsä olivat suuret ja
+kiiltävät kuumeesta. Hän hoiperteli.
+
+— Antakaa vettä, vettä! — sopersi hän.
+
+— Menkää levolle, herra sotilas! — kehoitti talon isäntä.
+
+— En voi, sillä on luultavaa, että yöllä lähdetään eteenpäin.
+
+— Mutta minä kyllä sitte herätän.
+
+— En voi, en voi, — mutisi poika.
+
+Illallista syödessään hän meni tainnoksiin. Silloin pani kauppias hänet
+vuoteelle ja kutsutti lääkärin.
+
+Tohtori sanoi että siitä nähtävästi tulee lavantauti.
+
+Yöksi nousi lumimyrsky. Kun se ankarimmin raivosi ja tärisytti
+ikkunoita, kuului rummun pärinää. Legioonalle annettiin lähtömerkki.
+
+Aseiden kalske, juoksevien askelten töminä kuului yössä. Puolen tunnin
+kuluessa oli legioona järjestäytynyt ja lähtenyt Nagy-Kataa kohti
+pilkkosen pimeässä.
+
+Ryytikauppias meni sisään Hammerin luo. Hän makasi suu auki, hengitti
+lyhyesti ja katkonaisesti, silmät olivat syvälle painuneet, kasvot
+tulipunaiset.
+
+— Ja minäkö herättäisin tuon menemään lumimyrskyyn? Enpä toki, sehän
+olisi varma kuolema. Jääköön nukkumaan, raukka.
+
+Ja tuo hyvä mies meni itsekin taas levolle. Hammer nukkui seuraavan
+päivän iltapuoleen asti. Silloin hän kutsui talon isännän luokseen.
+
+— Mitä uutisia? Mitä minulle on tapahtunut? — Te menitte tainnoksiin
+eilen illalla ja minä panin teidät vuoteelle.
+
+— Ja legioona?
+
+— Se lähti yöllä. Sanotaan, että tänään on tappelu jossain.
+
+— Pyhä Jumala! Mitä olette tehnyt minulle? Olen jäänyt pois tappelusta.
+Minä olen kadotettu. En koskaan voi puhdistaa itseäni pelkuruuden
+syytöksestä. Minua luullaan karkuriksi.
+
+Ryytikauppias koetti lohduttaa häntä. Poikaparka vaan ravisti päätään
+ja toisti lakkaamatta:
+
+— Ette tunne legioonaa, ette tunne legioonaa. Kunnia on minulta mennyt!
+
+Tunnin kuluttua ampui hän itsensä pyssyllään. Pöydältä löydettiin
+kirje, joka oli osoitettu hänen Etelä-Tyroolissa asuvalle äidilleen.
+
+Ja kylmästä lumimyrskystä surusanoma kuin musta lintu pyrähti lentoon,
+iskeäksensä äiti raukkaan, joka päivänpaisteisessa, lämpimässä
+seudussa niin monta kertaa oli kääntynyt pohjoista kohden, jossa
+valkeahuippuiset alpit seisoivat... sieltä hän odotti rakkaita tietoja
+ainoalta pojaltaan.
+
+
+
+
+Juutalaispoika.
+
+
+I.
+
+Kaukana alhaalla etelässä oli jo kauvan tapeltu, mutta Kis-Regöc'in
+osalle ei vielä ollut tullut mitään sodasta. Puhuttiin kapakassa,
+puodeissa, kunnantalossa ja torilla, kirkon edessä, että vapaus on
+päässyt valtaan, ei ole enää herraa eikä talonpoikaa, ei alustalaista
+eikä verotyötä. Mutta mitä on, sitä ei vielä tiedetty. Syksyllä sitten
+sekin saatiin tietää. Erään honvéd-pataljoonan jätteet kulkivat kunnan
+läpi. Pataljoonaa oli käsketty tien varrelta, mikäli mahdollista,
+pestaamisella täydentämään itseään.
+
+Upseerit olivat asettuneet isoon ravintolaan ja lähettivät taitavimmat
+miehensä joka suunnalle. Herrasmaisemmin kasvatetut sanelivat ja
+pitivät puheita, siihen kykenevät tanssivat ja lauloivat; kuntalaiset
+joutuivat kiihkoon ja nuorukaiset kiiruhtivat joukottain ravintolaan
+pestautumaan sotilaiksi.
+
+Aaronin poika, Jakab, katseli, kuunteli tätä. Jokin uusi, tuntematon
+tunne alkoi kuohua hänen povessaan. Tuntui kuin olisi joku ääni
+huomauttanut häntä velvollisuudesta, jota tuli täyttää.
+
+Pitkään aikaan hän ei ollut selvillä, mitä tehdä. Vihdoin välähti
+ajatus hänen päässään. Ikäänkuin jonkun työntämänä meni hän suoraa
+päätä pestauskomissioonin eteen.
+
+— Mitä tahdot, poika? — kysyi eräs upseeri.
+
+— Ruveta honvédiksi, — vastasi hän hiljaa.
+
+— Olet juutalainen, eikö niin?
+
+— Olen. Upseerit kuiskailivat keskenään.
+
+— Onko sinulla vanhemmat elossa? — kysyi kapteeni.
+
+— On.
+
+— Voitko jättää heidät tänne? Eivätkö he tarvitse sinua?
+
+Jakabin sydäntä kouristi. Sitten katsoi hän kapteeniin ja kysyi:
+
+— Miksi herra upseeri kysyy sitä juuri minulta? Tähän asti on jokainen
+otettu, joka on ilmoittautunut. Otettiin Pista Gál’kin, leskiäitinsä
+ainoa poika.
+
+Kapteeni vastasi kuivasti:
+
+— Mutta sinä, poikaseni, olet juutalainen, ja miehistölläkin on jotain
+sanomista tähän.
+
+— Minulla on ihan sama velvollisuus tarttua aseisiin kuin muillakin.
+Täällä olen syntynyt, täällä tahdon kuollakin, isänmaa on minunkin,
+ei vaan heidän... En tahdo että minua syytetään siitä, että
+pelkurimaisesti piilin silloin, kun jokainen nuori mies kiiruhti
+sotaan. Vaikkapa vain kuivaa leipää söisin, voitaisiin minua soimata,
+etten sitäkään ansaitsisi, kun istuin kotona silloin kun jokainen läksi
+maata pelastamaan.
+
+Eräs vanha lääkäri nyökäytti syvään päätänsä.
+
+— Hän on oikeassa, hän vaan ei voi lausua ajatustansa hyvin. Heidän
+verensä täytyy vuotaa yhdessä meidän veremme kanssa, heidänkin verensä
+täytyy kastella tätä maata; niin kauvan kuin heillä ei ole oikeutta
+täällä, niin kauvan heillä ei ole isänmaata täällä. Innostus puhuu
+hänestä. Hänet täytyy ottaa.
+
+Honvédlakki painettiin hänen päähänsä ja Jakab meni ulos torille.
+
+Neljännestunnin kuluttua oli tuolla ulkona todellinen kapina. Jakabin
+päästä riistettiin lakki ja hänet sysättiin pois pataljoonasta.
+
+— Juutalainen meidän joukkoomme? Juutalainen sotamieheksi? Mitä uusia
+tapoja se on?
+
+— Me emme seiso hänen vieressään!
+
+— En seiso hänen kanssaan samassa rivissäkään!
+
+— Ajakaa hänet hiiteen!
+
+— Mutta, pojat, — huusi kuistilta vanha lääkäri — miksette tahdo antaa
+hänenkin kuolla isänmaan edestä?
+
+— Meidän isänmaamme edestä olkoon kuolematta, häntä se ei velvoita.
+
+— Te menette tappelemaan, kärsimään, ehkä kaatumaankin ja hänkö vaan
+istuisi kotona uuninnurkassa?
+
+— Jääköön istumaan, siihen hän on omiaan, mitä se meihin kuuluu. Hän ei
+sovi meidän pariimme.
+
+Ja kun Jakab kolmenkymmenen askeleen päässä yhä vielä toivoen odotti,
+alkoivat he heittää häntä kivillä.
+
+Upseerit eivät voineet muuta kuin myöntyä pataljoonan toivomukseen;
+vanha lääkäri tosin huomautti, että Pestissä vähäisen vastustuksen
+jälkeen oli otettu juutalaisia kansalliskaartilaisiksi, mutta upseerit
+toivat sitä vastaan esiin, että Pozsony'issa ei sallittu juutalaisten
+astua kansalliskaartiin.
+
+Merkin annettua asettui järjestykseen ja riviin rekryyttien kautta
+täysilukuiseksi saatu pataljoona, ja torvien räikkyessä lähti se ylös
+vuorten väliin. Torvien räminä ja aseiden kalske kuului kauvan joka
+taholle keltaisessa syyshämärässä... Sitten oli kaikki hiljaa. Vanhat
+miehet saattoivat kotiin itkeviä vaimoja.
+
+Jakab kuunteli erään keon alla maaten sotaväen jymyn etenemistä. Sitten
+hän lähti kotiin. Suuteli äitinsä kättä ja meni puotiin vanhan Aaronin
+luo. Ei kenenkään silmään pistänyt mitenkä kalpea ja surullinen hän
+tänään oli.
+
+
+II.
+
+Sitten ei taas pitkään, pitkään aikaan kuulunut heille mitään sodasta.
+Vainiot joutuivat lumen, alle ja tiet tulivat melkein mahdottomiksi
+kulkea. Ihmiset kulkivat reellä, heidän askeltensa ääni katosi lumeen.
+Koko kylä tuli niin hiljaiseksi kuin kalmisto.
+
+Silloin yht'äkkiä sodan laine syöksyi heidänkin päällensä.
+
+Kuuluisa sotapäällikkö vetäytyi joukkoineen takaisin sen seudun läpi.
+Kolkkona, tuulisena, lumisena iltana saapui kylään kumealla kolinalla
+ja rytinällä suuria mustia vaunuja, joita vartioitsi eskadroona
+husaareja ja pataljoona honvédeja.
+
+He pysähtyivät torille. Kansa tuli lyhtyineen katsomaan, mitä nyt oli
+tulossa.
+
+Majuri kutsutti luoksensa kylätuomarin.
+
+— Meidän täytyy vielä tänä iltana lähteä edemmäksi.
+
+— Se on mahdotonta, hyvä herra, tällaisessa ilmassa. Te menehdytte
+kaikki tuonne vuorten väliin.
+
+— Vaikka menehtyisimmekin, lähteä meidän täytyy. Käsky on käsky. Hanki
+siis meille tuota pikaa opas. Puolen tunnin kuluttua lähdemme, sillä
+vihollinen on jälissämme.
+
+Talonpojat hajaantuivat päätään ravistaen. Honvédit, rivistä ulos
+astumatta, ahmivat silavaa ja leipää ja joivat viinaa päälle. Silloin
+tällöin puistivat he lumen päältään. Muuan vanha talonpoika kysyi
+laihalta honvédilta, joka löi yhteen kantapäitään pakkasessa:
+
+— Miksi ette jää tänne, veikkoni? Ei vihollinen tule perässänne
+tällaisessa Jumalan ilmassa.
+
+— Meidän täytyy olla hyvin varovaisia, vaari, sillä me vartioitsemme
+maan aarretta. Neljä vaunullista kultaa kuletamme me kaivoskaupungeista.
+
+Talonpoika kohotti lakkiaan. Niin paljon rahaa hän ei luullut
+maailmassa löytyvänkään. Sitten hän melkein pelästyneenä astui
+verkalleen eteenpäin.
+
+Aaronin puodin ovelta loisti valoa. Ulkona seisoi Jakab ja katseli
+sotamiehiä.
+
+— Sinäkin voisit ennemmin tarjota meille vähäisen viinaa, — ärjäsi
+hänelle vanha korpraali, - kuin töllistellä siinä suu auki.
+
+— Helppo hänen on olla täällä kotona, meidän kamppaillessa kuoleman
+kanssa jäätyneellä lumella, — puuttui siihen eräs sotamies.
+
+— Hohhoo, milloinkahan olen kotona, — huokasi eräs
+seitsemän-kahdeksantoista vuotias poika, pyyhkien muutamia pakkasesta
+vuotavia kyyneleitä; — tiedän että äiti parkani itkien ajattelee minua
+joka ilta.
+
+Sotamiesten kasvoihin kuvastui suru. Kaikkien mieleen juohtui jätetty
+koti. Ikävöiden kääntyivät he puodista tulvivaan valoon päin... Tuolla
+sisällä mahtaa olla hyvä ja lämmin.
+
+Eräs vääpeli kiiruhti sinne.
+
+— Asentoon! — huusi hän hiljaan, — kohta lähdetään.
+
+— Onko jo opas? — kysyi korpraali.
+
+— On, kylätuomari hankki erään metsänvartijan. Vielä tänä yönä meidän
+täytyy ehtiä Prázsmár'iin.
+
+— Asentoon! — kuului hiljaan joka taholle.
+
+Upseerit ratsastivat pataljoonan eteen, koko joukko lähti liikkeelle ja
+katosi vähitellen lumipyryyn ja yöhön.
+
+
+III.
+
+Uudestaan vallitsi kylässä syvä hiljaisuus. Lähteneitten honvédien
+jäljet peitti tuore lumi. Kotilieden ääreen vetäytyneet ihmiset
+kuuntelivat tuulen ulvontaa ja toivottivat kaikkea hyvää luonnonvoimien
+kanssa taisteleville sotilas raukoille.
+
+Mutta yhtäkkiä koputettiin kylätuomarin portille. Hän meni ulos. Katu
+oli täynnä vieraita sotamiehiä. Portin edessä seisoivat upseerit.
+
+— Oletko sinä kylätuomari? — kysyi muuan pitkä upseeri valkeassa
+viitassa. — Paljoko siitä on aikaa, kun vihollinen tästä kulki?
+
+— En ole nähnyt täällä vihollisia, hyvä herra!
+
+— Tuhat tulimmaista!... honvédeja tarkoitan.
+
+— Honvédeja? Ne kulkivat tästä.
+
+— Koska?
+
+— Anteeksi, en tiedä, minun talossani ei ole kelloa.
+
+— Herra översti, ehkä menisimme kapakkaan. Tämä ilma on pirullinen, —
+sanoi eräs kapteeni.
+
+— Hyvä, tuokaa kylätuomari mukaan. Takaa-ajava joukko oli pataljoona
+Tyroolin jääkärejä ja eskadroona Civallart-ulaaneja. Joukon johtajana
+oli översti, kreivi Hektor Bellegarde.
+
+— No, kylätuomari, — puhutteli hän kapakan isossa juomasalissa vanhusta
+— etkö vieläkään muista?
+
+— Muistan minä, hyvä herra.
+
+— No, vastaa siis!
+
+— Mihin?
+
+— Paljoko siitä voi olla aikaa, kun honvédit jättivät kylän?
+
+— Voi olla kaksi tuntia.
+
+— Saakeli soikoon!... He luikahtavat kynsistämme. Kiertävä joukko ei
+ehdi heidän eteensä. Kuules, kylätuomari, me tarvitsemme hyvää opasta.
+
+— Mistä saada, hyvä herra, kylässä ei ole muita kuin vaimoja ja ukkoja.
+
+— Tuhat tulimmaista, minun täytyy saada! - huusi jalkaansa polkien
+översti.
+
+— Aamuksi voin hankkia, — vastasi levollisesti talonpoika.
+
+— Lempo sinut periköön, minä annatan sinulle keppiä!
+
+— Se käy päinsä, niitä on kylliksi, — vastasi tyvenesti kylätuomari.
+
+Översti käyskenteli pitkin askelin edestakaisin; kylätuomari sillä
+aikaa rauhallisesti täytti piippunsa ja sytytti sen. Äkkiä översti
+pysähtyi hänen eteensä ja ärjäsi:
+
+— Vie minut juutalaisen luo!
+
+— Tehkää hyvin, tulkaa perässäni, — ja sitten hän läksi.
+
+Vain kaksi luutnanttia meni överstin kanssa. Muut jäivät sinne.
+Luutnantitkin jäivät ulos puodin edustalle.
+
+Vanha Aaron kovasti hämmästyi, kun loistava sotilas ilmestyi hänen
+halpaan tupaansa.
+
+— Minä olen kreivi Bellegarde, översti keisarillisessa armeijassa.
+Tulin siksi teidän luoksenne, että te olette järkevä mies, ettekä
+sellainen kuin nuot tyhmät talonpojat. Minä ajan takaa vihollista,
+joka kuljettaa mukanaan sata tuhatta tukaattia valtion varoja. Jos te
+johdatte meidät heidän jäljilleen, saatte tuhannen tukaattia. Oletteko
+ymmärtänyt?
+
+Aaron töllisteli, silmät selkoselällään, kreiviä.
+
+— Tuhannen tukaattia? Suvaitsetteko sanoa, että tuhannen tukaattia...
+Oi hyvä Jumala, kuinka suuri aarre... Ja se tulee minun omakseni...
+Jakab!
+
+Jakab ilmestyi pimeästä nurkasta.
+
+— Tämä on poikani, herra kreivi, Jakab poikani. Hyvin järkevä, rohkea
+poika... Hän tuntee seudun kuin kymmenet sormensa. Suvaitkaa tietää,
+hän kuljettaa puotitavaroita joka taholle tätä seutua. Hän johtaa
+teidät vihollisen jäljille. Prázsmár'iin päin he menivät... Poikani
+löytää sinne silmät ummessakin... Oi Jumalani, herra kreivi suvaitsee
+palvella hänen majesteettiaan keisaria? Pue, Jakab, hyvin päällesi,
+ettet palellu...
+
+— Rahat saa poika, sitten kun hän on täyttänyt tehtävänsä. Tule,
+poikaseni!
+
+Jakab seurasi överstiä horjuvin askelin.
+
+
+IV.
+
+Kun keisarilliset joukot olivat lähteneet kylästä, lakkasi lumipyry.
+Tuuli hajoitti äkkiä pilvet ja kuu tuli esiin, sirottaen kimaltelevaa
+hopeaa satumaiseen lumimaailmaan.
+
+Ensinnä kulki Jakab, hänen jälkeensä översti ja upseerit. Jakab astui
+pää kumarassa eteenpäin. Niinkuin jokin ääretön taakka olisi painanut
+hänen hartioitaan. Sisäinen ääni kuiskasi hänelle lakkaamatta:
+takaisin, takaisin! Olipa kuin silloin tällöin joku olisi sysännyt
+häntä rintaan. Mitä se on? Mikä tunne se on? Mitenkä se on selitettävä?
+Jos översti, kaikkivaltiaan keisarin sotilas, sitä käskee, eikö hän ole
+velvollinen tottelemaan? Varsinkin kun hän on niin hyvä ihminen, että
+köyhälle isä raukalle antaa lahjaksi tuhannen kultarahaa. Niin, hänen
+on velvollisuus tehdä tämä palvelus, velvollisuus... mikä olisi hänen
+velvollisuutensa, ellei tämä?... niin, niin.
+
+Vaan hänen jalkansa tulivat yhä raskaammiksi, hengitys ei tahtonut
+käydä. Nyt he kääntyivät Prázsmár'in tielle... tuolla on honvédien
+yöleiri... poika parat, mitään pahaa aavistamatta he nukkuvat, näkevät
+unta äidistään... ja kuolema jo heiluttaa kalpaansa heidän ylitsensä.
+
+Nyt hän saapuu erään kunnaan kukkulalle ja pysähtyy... Tuolla alhaalla,
+sadan askeleen päässä, Prázsmár'in silta ja sen kivestä hakattu
+Kristuksen kuva, sen toisella puolella kuutamon valossa kylä. Sitten
+katsoo hän takaisin. Pataljoona on jäänyt jälelle noin tuhannen
+askeleen päähän, ulaanit nousevat parhaillaan ylös... Kukkulalla seisoo
+ainoastaan översti upseereineen sekä valiojoukko jääkärejä.
+
+— Mikä kylä tuo on? — kysyy översti osottaen miekallaan.
+
+Juutalaispoika ojentaa itseään, vetää syvästi henkeään, hänestä
+tuntuu kuin olisi vapautunut kaikesta taakasta... hän laskee kätensä
+sydämelleen... ja syöksyy sitten rajulla, yli-inhimisellä karjunnalla
+alas kukkulalta.
+
+— Herätkää, vihollinen on täällä, varoillanne, varoillanne, herätkää,
+herätkää!
+
+Hän lankee, luisuu viisi, kuusi syltä alaspäin, hypähtää ylös, kädet,
+pää verissä, syöksee yhä karjuen eteenpäin.
+
+— Ampukaa se koira! — ärjyy översti. Valiojoukko jääkäripataljoonasta
+ampuu laukauksen kuin yhden pyssyn suusta... Juutalaispoika horjuu,
+hänen äänensä kätkee... hän pyörähtää vielä kerran ympäriinsä, veri
+purskuu suusta... sitten jää hän selin makaamaan ristin alle...
+
+Ja kiveen veistetty Jumalan poika, Vapahtaja, loistaen kuun lempeästä
+hohteesta, näytti lumenpeittämän orjantappurakruunun alta rakkaudella
+hymyilevän tälle pojalle, joka kuoli suuren aatteen eteen... jota hän
+ei edes ymmärtänyt, ainoastaan aavisti ja tunsi...
+
+Översti toitotutti "sturmschritfiä" (väkirynnäkköä) ja tyroolilaiset
+kiipesivät kuin kissat ylös kukkulalle. Mutta hyökkäys tuli liian
+myöhään. Honvédit suojelivat kylää ankaralla kivääritulella, mutta
+husaarit riensivät aarrevaunuineen Prázsmár'in toisella puolella olevan
+Dargón ahtaan solan kautta pois.
+
+Tyroolilaiset peräytyivät. Takimmaisena tuli eräs jääkärikapteeni pää
+siteessä. Astuessaan juutalaispojan ruumiin ohi, potkasi hän sitä ja
+morahti:
+
+— Koira, sinun on syy, ettei hankkeemme onnistunut!
+
+Ruumis kääntyi potkusta ja pää painui alemmaksi. Ehkä peittääkseen
+häpeätään... tai ehkä suudellakseen maata...
+
+
+
+
+Kolmannen pataljoonan ryssä.
+
+
+Oli Kesäkuun 21 päivä 1849. Kuumana paistoi aurinko kesäisille
+vainioille. Komárom'in luona jatkui sota, viimeinen taistelu alkoi.
+Pered'in, Sellyen, Királyrév'in, Vágkirályfalvan, Palóc'in, Kajál'in,
+Galanthan ympärillä kanuunat jyrisivät, pyssyt paukkuivat, pajunetit
+suhisivat.
+
+Sinä päivänä näkivät honvédimme ensimmäisen kerran venäläisiä
+sotilaita. Ne seisoivat kukkuloilla tiheissä riveissä. Suippupäisten
+kypärien kiiltävä metalli loisti kauas kirkkaassa päivän paisteessa.
+Upseerit edessään, hevosen selässä, liikkumattomina kuin pronssiset
+kuvapatsaat. He odottivat merkkiä hyökkäykseen.
+
+Säihkyvin silmin katselivat honvédimme uhkaavaa joukkoa ja
+suonenvedontapaisesti pitelivät he pyssyjään. Tuskin malttoivat odottaa
+hyökätäkseen pohjoisen vihollisen kimppuun, jonka sataantuhanteen
+nouseva joukko silloin jo oli autioksi elänyt, tallannut maan.
+
+Ei kukaan pelännyt heitä.
+
+Kolmas pataljoona, jonka sinisissä lakeissa oli valkea sulka, makasi
+Deákin alapuolella leikkuuta odottavassa äärettömässä vehnäpellossa.
+
+Tämä seisoi lähinnä venäläisiä rykmenttejä.
+
+Yhtäkkiä etuvartijat tuovat venäläisen sotamiehen pataljoonaan. Kädessä
+oli hänellä muutamia läkkiastioita, täynnä vettä, tuntemattomalla
+kielellä riiteli hän honvédien kanssa ja tahtoi kaikin mokomin mennä
+venäläisiä kohden.
+
+Kutsuttiin eräs Guttman niminen galitsialainen honvédi, joka osasi
+venättä ja tämä käski hänen olla meluamatta.
+
+— Kuinka en meluaisi, kun ette salli minun viedä kapteenilleni vettä, —
+vastasi ryssä.
+
+— Mutta sinä olet meidän vankimme, veikkonen, ja meidän käskymme
+alainen.
+
+— Hyvä, hyvä, mutta kapteenini pieksättää minua, jos en vie hänelle
+vettä.
+
+— Hän ei voi pieksättää, sillä me viemme sinut kanssamme.
+
+— Sepä hyvä, — sanoi ryssä ilolla ja antoi viedä itsensä pataljoonan
+kuormavaunujen luo, jossa hän heti riisui takkinsa.
+
+— Miksi se, bratje? — kysyi Guttmann.
+
+— Odotan, että pieksätte minua, — vastasi nöyrästi ryssä.
+
+— Älä pelkää, ei se ole meillä tapana, istu vaan vaunuihin, äläkä
+liikahda.
+
+Ryssä totteli. Rauhallisesti tupakoiden katseli hän taistelua.
+
+Taistelussa me hävisimme, kolmas pataljoona suojusti peräytymistä.
+Oi, moni soturi heitti siellä henkensä ja illan hämärä yhdessä kuolon
+pimeyden kanssa laskeusi heidän ylitseen.
+
+Seuraavana päivänä pidettiin neuvoa mitä tehtäisiin ryssälle.
+
+Huomattiin että ryssä on avulias, hyvä poika, joka on onnellinen, kun
+ei häntä piestä; päätettiin siis tehdä hänestä honvédi.
+
+Heti puettiin hän punanyöriseen univormuun, valkeasulkainen sininen
+lakki painettiin hänen päähänsä, ja Guttmann selitti hänelle, että
+kuormavaunut ovat hänen linnansa, niissä hän on asuva ja niitä
+puolustava. Sitten näytettiin hänelle pataljoonan kullalla ja hopealla
+kirjailtu merenvihreän värinen uusi lippu, joka oli vaunujen kallein
+aarre, ja annettiin hänelle tietää, että sitä hänen on erittäin
+varottava, kuin silmäteräänsä, ja joka sen tahtoisi häneltä ottaa, sen
+ampukoon kuolijaaksi.
+
+Ryssä lupasi tehdä niin.
+
+Joukko lähti sille onnettomalle retkelle, joka päättyi Világos'iin.
+Tuimain taistelujen ja vaarojen kautta kulki se eteenpäin.
+
+Kärsimysten tiellä oli verisiä pysäkkejä. Verisin niistä oli Vác.
+Ahdistettu Görgey koetti hurjalla rohkeudella tunkea venäläisten läpi.
+Se on: ei tunkea läpi, ainoastaan koputtaa seinää, mitenkä paksu se on.
+Ja kun se oli hyvin paksu, päätti hän livahtaa pohjoiseen, Rétság'iin
+päin, venäläisten kuristavasta syleilystä.
+
+Heinäkuun 15 p:nä tapeltiin, 16:na pidettiin toisiaan silmällä, 17:nä
+alkoi peräytyminen.
+
+Sillä välin oli meidän ryssämme tullut saaneeksi kauniin univormun.
+Kolmannen pataljoonan miehet olivat vehnäpellolla tavanneet venäläisen
+ulaanin. He riisuivat häneltä vaatteet ja antoivat ne ryssälle,
+painoivat hänen käteensä keihään ja selittivät hänelle, että nyt
+hänellä on kaksinkertainen velvollisuus uskollisesti vartioida hänelle
+uskottuja aarteita.
+
+Ryssä istui silloin jo niillä vaunuilla, jossa pataljoonan rahastoa ja
+lippua kuljetettiin. Mikä jo oli luottamustoimi.
+
+Ryssä iloitsi suuresti uudesta puvustaan ja teki niin hulluja
+hyppäyksiä että koko pataljoona nauroi niille. Sitten asetti hän
+keihään olalleen ja käveli kovin vakavana, kuin vahtisotamies,
+edestakaisin vaunujen vieressä.
+
+Toisena päivänä, Heinäkuun 17:nä, alkoi Vác'in verinen tanssi.
+Sotajoukon alkaessa peräytyä, Leiningen ja Görgey jäivät pyssy jalalla
+kaupunkiin, aivan karhun kitaan. Se yrittikin niellä heidät, mutta ei
+onnistunut. Lujalla rohkeudella suojelivat he peräytymistä.
+
+Sillä aikaa kasakat Rétság'in tiellä hyökkäsivät peräytyvän kuormaston
+päälle ja alkoivat ryöstää sitä. Meidän ryssämme tarttui tuota pikaa
+keihääseensä ja pisteli, löi ja iski sillä. Sitä tehdessään hän yhä
+haukkui kansalaisiaan, että miksi he ovat niin hävyttömiä, että
+tahtovat viedä häneltä lipun, jonka unkarilaiset herrat olivat hänelle
+uskoneet.
+
+Hän tappeli niin hurjasti, että kasakat eivät todellakaan päässeet
+vaunujen luo. Ja sillä välin syöksyy eskadroona Hunyadi-husaareja kuin
+lumivyöry ryöstävän vihollisen päälle ja hakkaa kasakat maahan.
+
+Illalla levähdettäessä ilmestyy pataljoonaan ryssä, leveä haava päässä,
+joka siitä oli ajettunut, ja kertoo onnellisena, kuinka hän oli
+pelastanut lipun.
+
+Honvédit tietysti syleilivät häntä innokkaasti ja jakoivat hänelle
+paraat palansa sekä antoivat hänelle kahdenkertaisen annoksen
+paloviinaa.
+
+       *       *       *       *       *
+
+Olemme Világos'in luona. Elokuun 12 p:nä, yöllä. Kolmas pataljoona
+seisoo neliössä nuotiotulen ympärillä. Lipunkantaja kantaa ympäri
+ruudinsavusta ruskettunutta, kuulien repimää lippua; jokainen suutelee
+sitä ja sankarit, jotka olivat olleet neljässäkymmenessäkahdessa
+tappelussa — itkevät. Sitten rummut pärisevät, pataljoona tekee
+kunniaa, lipunkantaja astuu tulen ääreen ja laskee lipun liekkien
+keskelle, jottei se joutuisi vihollisen käsiin.
+
+Mennyttä on Unkarin maine, isänmaan pyhä tunnusmerkki tuhaksi muuttunut.
+
+Sitten otettiin esiin varalippu, uudenuutukainen vihreä silkkilippu,
+jota ryssä uskollisesti oli varjellut — sen saavat huomenna venäläiset.
+
+— Mitä nyt? — kysyy pataljoonan ryssä - viettekö minulta lipun?
+
+— Viemme, poika hyvä, sota on loppunut, sinua ei enää tarvita, mene
+takaisin ryssäksi.
+
+Ryssä katseli huolestuneena ympärilleen. Hän näki kyyneleisiä miehiä.
+Hänenkin silmiinsä nousi kyynel.
+
+— Täytyykö minun jättää teidät?
+
+— Täytyy. Kaikki on lopussa.
+
+Poika istui vaunuilleen ja tuijotti koko yön jäykkänä eteensä. Ei
+mennyt asia hänen päähänsä.
+
+Seuraavana päivänä, kun tämä urhoollinen sotajoukko seisoi
+sotajärjestyksessä ja aloitti aseenheiton, kun venäläiset sotarivit
+tulivat lähelle ja melkein ympäröivät meidän rivimme — ymmärsi hän
+aseman.
+
+Hän riisui ulaaniunivormunsa, haki esiin ja puki päälleen vanhat
+jalkaväkiryysynsä. Sitten hän surullisella silmäyksellä katseli,
+katseli pitkään kolmatta pataljoonaa — ja alkoi hitaasti astuskella
+venäläistä joukkoa kohden. Hän pysähtyi pysähtymistään, katseli
+katselemistaan takaisin, niin vaikea oli ero, ja vihdoin hän katosi
+iestäjäin sekaan.
+
+Ehkä hän näki jälleen rakkaan lippunsa Moskovan Kremlissä?
+
+
+
+
+Gyönk'in kansalliskaartilaiset.
+
+
+Gyönk'in svaabilaiset [svaabilaiset = saksalaiset. Suoment. muist.]
+kansalliskaartilaiset suorittivat tehtävänsä niin onnellisesti että
+he jalkaisin menivät sotaan ja ratsain palasivat sieltä. Mutta vasta
+myöhään heidät siihen saatiin. Etelässä asuvat svaabilaiset olivat
+jo kauvan aikaa olleet verisessä sodassa serbialaisten kanssa, kun
+he vielä rauhallisesti viljelivät maatansa tuolla alhaalla Tolnan
+komitaatissa, leikkasivat ja kokosivat viljaa. Ja jos joku heille
+sanoi että isänmaa on vaarassa, nouskoot hekin sitä puolustamaan,
+vastasivat he siihen: Kai isänmaa tulee meitä hakemaan, jos se meitä
+niin välttämättömästi tarvitsee.
+
+Vasta silloin alkoivat he katsoa asiaa vakavalta kannalta, kun Drávan
+vieressä olevasta unkarilaisesta leiristä husaari Berci Kovács tuli
+kotiin, käsivarsi poikki-ammuttuna, ja ilmoitti että parin päivän
+päästä lukematon kroatilaisjoukko ryntää maahan, tunkee kaikkialle,
+ryöstää ja hävittää kaikki.
+
+Berci Kovács maalasi kauheilla väreillä granitshaarit ja saraseenit.
+Kuinka he syöksyvät eteenpäin, karjuen, pitkissä punaisissa viitoissa;
+heidän leivänleikkuuveitsensä ovat niin isot kuin miekat ja pyssynsä
+ovat yhtä pitkät ja paukkuvat yhtä kovin kuin kanuunat.
+
+Elatustarpeita he eivät kuljeta mukanaan, sillä he elävät
+ryöstämisellä. Joka heiltä jotakin kieltää, sen he paikalla ampuvat,
+ja se voi olla siitä mielissään, sillä toisia he paahtavat hiljaisella
+tulella. Korventavat niinkuin sian. Ehkä vielä muokkaavat silavaksikin.
+
+On luonnollista, että tämä kertomus sai kylmät väreet karmimaan
+selkäpiitä. Monet sääret vapisivat housuissa. Ja moni ajatteli kuinka
+hän saattaa tohvelit jalassa juosta.
+
+Mitä on tehtävä?
+
+Vaimot ja lapset sekä arvokkaimmat tavarat piilotettiin viinivuorille,
+mutta mitä sitten?
+
+Unkarin hallitukselta tuli käsky että ruoka- ja juomatavarat ovat
+kätkettävät vihollisilta, tiet tukittavat, sillat purettavat, sitä
+paitsi jokainen asekuntoinen mies, ensimmäinen tappoase mikä käteen
+osuu mukanaan, kiiruhtakoon Pákozd'iin ja Ozoraan.
+
+Isänmaa tuli heitä hakemaan! Täytyy lähteä sotaan! Kateellisina
+katsoivat he Berci Kovács'ia, joka jo oli saanut osansa. Kuka tietää,
+mikä heitä odottaa? Ehkä korventaminen? Hyvät svaabilaiset, pää syvälle
+painuneena hartiain väliin, astuskelivat edestakaisin kylässä ja
+odottelivat mitä oli tuleva.
+
+Vanha Paczolay veti sillä välin kansallislipun talonsa harjalle ja
+antoi torvenpuhaltajien kulkea pari kertaa kylän läpi. Soittajat
+puhalsivat Rakóczy-marssia ja veivät sen suuren joukon, joka oli
+kokoontunut heidän jälkeensä, Paczolayn pihalle.
+
+— Hyvät ystävät, kansalaiset! — puhui Paczolay kuistilta, — tunnin
+kuluttua olkoot kaikki valmiit. Takokaa viikatteenne suoriksi, hiokaa
+kirveenne, puhdistakaa pyssynne, kellä sellainen on, ja saapukaa tänne
+pihalleni.
+
+Joukossa kuului mutinaa.
+
+— Jättäisimmekö kylän? — huudettiin.
+
+— Jokainen kylä ei voi erikseen puolustaa itseään, — huusi Paczolay —
+mutta jos seisomme yhdessä, ruhjomme viholliset mäsäksi.
+
+Hanesz Stosz, jota pidettiin järkevimpänä miehenä, sillä hän uskalsi
+puuttua puheisiin herrojenkin kanssa, sanoi:
+
+— Entä jos vihollinen tulee tänne, sillaikaa kun me olemme poissa kotoa?
+
+— Tietysti me vanhat jäämme kotiin ja me suoritamme kyllä asian heidän
+kanssaan; teitä emme lainkaan tarvitse.
+
+— Kuka sitten meitä johtaa? — kysyttiin. Silloin astui esiin Vilmos
+Csapó, Szeder'in tilanomistaja.
+
+— Minä, ystäväni. Älkää peljätkö, minä johdan teitä niin sievästi,
+ettei hiuskarvakaan päässänne vahingoitu.
+
+— Hyvä on, arvoisa herra, — sanoo Salamon Grosz, joka oli kuuluisa
+tappelija — mutta minä tahtoisin tukistaa viholliselta muutamia
+hiuskarvoja.
+
+— Tuo on poikaa, oppikaa hänestä, — huusi Paczolay — kunnia ja maine
+odottaa teitä. Te pelastatte isänmaan, jopa kunnankin, kun ette vain
+pelkää.
+
+Sitten otti hän lakin päästään, ja joukko, sen nähtyään, teki samoin.
+Paczolay jatkoi liikutetulla äänellä:
+
+— Mutta jos joku joukostanne kaatuu, kuolee, sitä odottaa ikuinen
+kunnia, sillä hän kuoli isänmaan edestä. Hänen lapsensa, vieläpä
+lapsenlapsensakin, voivat olla hänestä ijäti ylpeitä. Kuolla isänmaan
+edestä, se on suurin kunnia maailmassa.
+
+Kelpo svaabilaiset hajaantuivat eläköön-huutojen kaikuessa
+varustautuakseen aseisiin.
+
+Tunnin kuluttua lähti kaksisataa Gyonk'in miestä Vilmos Csapón
+johtamina Ozoraan päin. Soittokunta seurasi heitä kylän rajalle, mutta
+sieltä se varovasti kääntyi takaisin.
+
+       *       *       *       *       *
+
+Viikon kuluttua hurja ilohuuto herättää vanhan Paszolayn
+päivällisunestaan. Silmiään hieroen hän kiiruhtaa kuistille. No Herran
+poika! Gyänk'in kansalliskaartihan tuolta ratsain karauttaa hänen
+pihalleen. Etumaisena Hanesz Stosz, pitkä rakuunamiekka kupeellaan ja
+leveä kansallisvärinen nauha hatussaan.
+
+— Mitä uutisia, pojat? — huusi Paczolay.
+
+— Sota on loppunut, arvoisa herra, — vastasi Hanesz — me voitimme
+vihollisen.
+
+— Kuinka?
+
+— Noin kymmenentuhatta serbialaista heitti aseensa Ozoran luona, loput
+pakenivat.
+
+Ja tekin otitte osaa siihen? — Mekö? — huusi Hanesz. — Enemmän kuin
+muut. Satakahdeksankymmentä hevosta olemme tuoneet kotiin.
+
+— Tule sisään, Hanesz, juomaan lasi viiniä, te muut menkää kotiinne.
+
+Ratsastajat läksivät kovalla huudolla pois pihasta. Hanesz taas
+astui alas satulasta, sitoi hevosen kuistinpylvääseen ja meni sisään
+Paczolayn luo.
+
+— No mitä on tapahtunut? Kuinka se tapahtui? Missä ensiksikin Csapó on?
+
+— Herra Csapó rupesi honvédiksi... Niin se oli, tietäkää, että kun
+saavuimme Ozoraan, olivat serbialaiset jo alkaneet aseenheittonsa.
+Sitten honvédit uskoivat meille Jeesus-Maaria-husaarien hevoset
+vartioitaviksi. Me istuimme sitten niiden selkään ja toimme hevoset
+kotiin.
+
+— Te ette siis olleetkaan tappelussa? Hanesz tuli totiseksi.
+
+— Olimme kyllä, arvoisa herra.
+
+— Ehkä on kuolleitakin?
+
+— On, arvoisa herra. Neljä meidän miestä kaatui isänmaan edestä.
+
+— Todellakin? Ketkä?
+
+— Klein, Szimmeth, Bauer ja Trammer.
+
+Paczolay oli hetken ääneti. Syvä hiljaisuus vallitsi huoneessa.
+
+— Jokainen oli perheenisä; — huokasi hän surullisena — no kuinka se
+tapahtui, Hanesz?
+
+— Niin se tapahtui, että palatessamme pysähdyimme Pogrányin kapakan
+luona jakaaksemme hevoset... Jakaessamme syntyi riita, rupesimme
+tappelemaan ja loppu oli että neljä miestä kuoli.
+
+Vanhus kuulteli hämmästyen.
+
+— Hirtehinen, korjaa luusi taikka annan sulle keppiä! No seis, huomenna
+tulee tänne tuomari ja hirttää...
+
+Vaan Hanesz ei enää kuullut sitä... hän riensi ulos hyppäsi hevosen
+selkään ja laukkasi pois.
+
+Siitä saakka sanotaan Tolnassa, että Gyönk'issä neljä kuoli isänmaan
+edestä, ja nekin löivät itse itsensä kuolijaaksi.
+
+
+
+
+János sankari.
+
+
+Jókai kertoo mestarillisesti eräässä kauneimmista romaaneistaan,
+kuinka Unkarin husaarit v. 1848 ulkomailta karkasivat kotiin isänmaata
+puolustamaan.
+
+Sattuma teki että eräs semmoinen husaari vanhoilla päivillään joutui
+tekemisiin minun kanssani ja minä saatoin uudelleen kuulla tuon
+ihmeellisen tarun yksinkertaisen, sivistymättömän palvelija-vanhuksen
+suusta.
+
+János Jaczkó on hänen nimensä ja tuli hän noin kymmenen vuotta
+sitten palvelijaksi toimituspaikkaamme. Me kutsuimme häntä János
+sedäksi, hän meitä _nassaga'ksi_, joka unkariksi on _nagysága_
+(Teidän armonne). János oli näet oikeastaan slovakki eikä ollut
+tähän päivään saakka voinut oppia unkaria. [János setä puhuu kaiken
+aikaa slovakin-voittoista unkaria, joka juuri on tämän kertomuksen
+päähupaisuutena, mutta jota tietysti ei käy suomenkielelle kääntäminen.
+Siitä syystä onkin arv. tekijä ehdottanut kertomuksen jätettäväksi
+suomentamatta, jota en kumminkaan ole hennonnut tehdä, jottei kokoelma
+suomenkielisessä asussaan jäisi vaillinaiseksi. _Suoment. muist._]
+
+János setä oli ollut kolmetoista vuotta husaarina ja
+kolmekymmentä vuotta palvellut maaherranvirastossa sekä myöhemmin
+sisäasiainministeristössä. Häntä oli aina komennettu, hän ei koskaan
+komentanut ketään. Tämän pitkän ajan kuluessa hänestä oli kehittynyt
+niin täydellinen palvelija, ettei hän tehnyt mitään käskemättä,
+mutta toiselta puolen taas hän teki sen, mitä käskettiin, sokeasti,
+ajattelematta, kysymättä ja selitystä pyytämättä. Kaikessa hän
+noudatti sotilaallista täsmällisyyttä, ei sanonut vastaan, ei pyytänyt
+selvitystä ja työtoverinsa hän luokitti sotilasarvojen mukaan.
+
+Toimituksesta erittäin hänellä oli se ajatus, että jokainen
+aputoimittaja on alkanut uransa palvelijana, s.o. sotamiehenä. Että hän
+itse ei ylennyt, siihen hän katsoi syyksi sen, että vasta vanhoilla
+päivillään oli astunut toimitukseemme. Kahta nuorta palvelustoveriaan
+hän alati kehoitti pitämään vaan siitä huolta, että heidän käsialansa
+tulisi kauniiksi. Silloin heidän ei muka enää tarvitse tuoda sikaria
+upseeriherroille, vaan he saavat uuden kirjoituspöydän ja kenraali
+puhuttelee heitä herraksi.
+
+Hänen luonteensa kuvaukseksi kerron erään tapauksen, joka paremmin kuin
+mikään muu todistaa hänen täydellistä palvelijaluontoaan.
+
+Eräänä päivänä sanoin minä hänelle suurimmalla kylmäverisyydellä:
+
+— János, mihin panitte _buenosairesini_?
+
+János'illa ei ole aavistustakaan siitä, mikä tuo Buenos-Ayres on, mutta
+sitä hän ei millään muotoa kysyisi. Sotamies ei voi tehdä itseään
+vikapääksi sellaiseen kuuliaisuusrikokseen. Hämmästyneenä katsoo hän
+minua silmiin, lyö yhteen kantapäänsä ja vastaa:
+
+— Reilassa on, Teidän armonne, pyydän nöyrimmästi.
+
+— Mutta mihin sen panitte?
+
+— Hyvään paikkaan panin, Teidän armonne.
+
+Sillä János tuumii näin: Jos herra kapteeni kysyy minulta, mihin panin
+bumosaimosin... hitto vieköön sen... niin hän varmaan on antanut
+minulle aimosin... mitä pirua se lienee... mutta minun vanha pääni on
+sen unohtanut.
+
+Ei hänen päähänsä hetkeksikään uskalla juolahtaa se ajatus, että ehkä
+minä en olekaan antanut hänelle buenosairesiani. Mutta sitä hän ei voi
+edes uneksiakaan, että tuo Buenos-Ayres, jota hän luulee veitseksi,
+lyijykynäksi, kirjaksi tai saksiksi, ei ole muuta kuin Etelä-Amerikan
+kaupunki ja koko asia vaan leikintekoa.
+
+Tuolla vastauksellaan, että "hyvään paikkaan panin, Teidän armonne",
+János (kuten hän kasvoistani lukee) toistaiseksi karkotti myrskyn.
+Levottomana menee hän palvelijain huoneeseen, luetellen järjestään
+mielessään kaikki, mitä hän viidenkymmenen vuoden aikana on joltakin
+saanut, toivoen siten pääsevänsä selville, onko hän joskus ennenkin
+saanut bumosaimosia.
+
+Turhaan! Hän ei keksi mitään. Vain yksi asia on hänestä hirmuisen
+varma, se että minä olen uskonut hänen huostaansa bumosaimosini. Sitä
+ei voi epäillä, se on pyhää. Nyt hän vielä jättää sen sikseen, mutta
+kello kahdeksan Hänen armonsa menee kotiin, silloin hän uudestaan
+pyytää... mikä Herran ihmeessä se olikaan... nyt hän jo on sen kokonaan
+unohtanut.
+
+Vanhuksen epätoivo nousee korkeimmilleen. Hän kääntyy Móric'iin,
+toiseen palvelijaan, ja kysyy häneltä mitä herrat tänään ovat hänen
+huostaansa uskoneet; hänessä herää toivo, että ehkä muilla herroillakin
+on bu... mikä peijakas, antoivat sen ehkä Móric'ille, ja tätä tietä
+hänkin pääsee sen perille, miksi ensiksikin kutsutaan tuota kalua ja
+toiseksi, mikä tuo kalu oikeastaan on?
+
+Móric'ista ei voi saada mitään tolkkua ja János antautuu kokonaan
+kohtalonsa alaiseksi. Yksi vuosi arestia, raudoissa tai linnaa, se
+rangaistus odottaa häntä.
+
+Nähdessäni hänen kiihoittuneena käyskentelevän ympärilläni ja etsivän
+suosiotani, tiedän että sillä oli vain se tarkoitus, että minä rupeisin
+välittäjäksi rangaistuksen huojentamiseksi. Lopulta minun käy häntä
+sääliksi ja minä sanon hänelle:
+
+— János, nyt juohtuu mieleeni että luultavasti annoin Buenos-Ayresini
+Móric'ille.
+
+Vanhus tointui äkkiä. Se on toista se, jos Hänen armonsa sen myöntää.
+
+— Minäkin sitä arvelin, Teidän armonne, mutta en tahtonut sanoa.
+Ajattelin että Teidän armonne itse sen paremmin tietää.
+
+— Mutta en kumminkaan ole varma siitä, János setä.
+
+János seisoi edessäni jäykkäryhtisenä ja vaikeni äkkiä, kuultuaan
+epäilykseni. Hän ei tiennyt mitä olen päättävä, eikä siten tiennyt
+mistä hänen oli kiinni pidettävä.
+
+— Käskekää Móric tänne.
+
+János rientää ulos ja sanoo Móric'ille:
+
+— Älä viisastele. Hänen armonsa on antanut sinulle bumosaimosin, älä
+siis kiellä. Ymmärrätkö? Minulta saat britannilaisen sikarin. Voit
+mennä sisään!
+
+Móric oli elävä todistus siitä, että jos ihminen käyttää jotakin
+ruumiin osaansa ylenmäärin, se voimakkaasti kehittyy muitten
+kustannuksella. Móric'illa on hirveän suuret jalat, sentähden että hän
+juoksentelee paljon, sitä vastoin hänen päänsä on sangen pieni, sillä
+hän ajattelee vähän. Kun János'in yllämainittu lause tarkoitti Móric'in
+päätä, ei Móric ymmärtänyt sitä. Hän töllisti hämmästyneenä János'iin,
+sitten syöksi hän sisään minun luokseni. Hänen vaistonsa kehoitti häntä
+puolustamaan itseään.
+
+— Pyydän nöyrimmästi, te suvaitsitte antaa János'ille tuon historian,
+vielä aamupäivällä näin sen hänellä.
+
+— Hyvä on, hyvä, se on jo täällä laatikossani. Ei puutu mitään.
+
+Móric tallustaa tyytyväisenä tiehensä ja sanoo János'ille:
+
+— János setä, asia on jo reilassa. Siellä se on armollisen herran
+laatikossa.
+
+János nyt äkkiä rohkaistuu.
+
+— Tietysti se on. Kuinka ei olisi? Mitä minulle on uskottu, se ei voi
+kadota sinulle; te nuoret vaan olette aaseja, ette tiedä missä päänne
+on.
+
+Hän hiipii minunkin luokseni, sillä tekosyyllä, että täyttää
+mustetolpponi. Rohkeus alkoi kasvaa.
+
+— Se on siis Teillä?
+
+— On.
+
+— Tiesinhän sen. Minun käsistäni ei koskaan mitään ole kadonnut. Itse
+panin sen laatikkoon, sieltähän Teidän armonne täytyi se löytää.
+
+Minua alkoi asia jo epäilyttää ja minä lukitsin puheenalaisen laatikon.
+Siten ei János koskaan saanut tietää, mikä tuo Buenos-Ayres on.
+
+Tämän jälkeen kerron, mitenkä hänestä puhkesi ulos se salaisuus, että
+hänkin oli menneen sankarikauden vaatimattomia urhoja.
+
+Honvédien muistopatsasta Budassa paljastettaessa János setä, joka
+mielellään on sellaisissa tilaisuuksissa läsnä, seisoi vieressäni ja
+piti sateenvarjoa ylitseni. On mainittava, vieläpä János'in arvon
+takia mainittava, että aurinko paistoi kuumasti. Sateessa hänen ei
+koskaan ole tapa aukaista sateenvarjoa, sitä hän pitää hemmotteluna,
+teeskentelynä. Aurinkoa vastaan avaaminen, se ei ole teeskentelyä.
+Miksi? _Siksi, että on yhdentekevää, lämmittääkö aurinko ihmistä vai
+ei. Siis voin häpeättä avata sateenvarjon._ (Näyte János Jaczkón
+jälkeenjäävistä viisaista lauseista.)
+
+Kun verho oli pudonnut alas patsaalta, katseli János tätä ja sanoi:
+
+— Ikävä ett'en minä ole siinä.
+
+— Missä, János setä?
+
+— Patsaassa. Se harmittaa minua.
+
+— Ei pidä koskaan, János, mahdottomia surra.
+
+— Se olisi ollut mahdollista, mutta ei ollut mahdollista. — Puhukaa
+selvemmin.
+
+— Sen vaan sanon, ett'en suotta tänne tullut. On minullakin yhteyttä
+sen kanssa, pikkuisen.
+
+Juhlan jälkeen kehotin ystävällisesti Jánosia seuraamaan minua olutta
+juomaan.
+
+— Siinä ei ole mieltä, — vastasi János.
+
+— Mitenkä ei?
+
+— Se ei kuulu palvelukseen.
+
+— No, ottakaa siis keppini ja tuokaa se perässäni.
+
+— Se on toista.
+
+Ja János otti kädestäni kepin ja toi sen jälessäni olutanniskeluun.
+
+Hän asettui tuolini viereen, jotta yleisö näkisi, että minä olen
+upseeri, hän sotamies. Kun hän oli tyhjentänyt lasillisen olutta, aloin
+minä rohkaista hänen mieltään.
+
+— No János setä, mitä yhteyttä teillä on honvédpatsaan kanssa?
+Vastatkaa. Kertokaa kaikki.
+
+— Ei käy päinsä, Teidän armonne, ei käy päinsä. Ei ole aikaa
+päivällisen takia.
+
+Tuumailin, mitenkä voisi saattaa Jánosin tuntemattoman historian
+yhteyteen palveluksen kanssa. Sillä hän kertoisi sen heti, jos hänen
+täytyisi tehdä se viran puolesta.
+
+Toinenkaan olutlasi ei tehnyt vanhusta puheliaammaksi, päin vastoin,
+kun alettiin soittaa päivällisille, János kysyi:
+
+— Saanko mennä, Teidän armonne?
+
+— Kyllä. Minä puolestani en teitä ensinkään tarvitse.
+
+Missä hyvänsä, millä puolueettomalla alueella tahansa János
+sattui yhteen jonkun aputoimittajamme kanssa, heti hän asettui
+palvelussuhteesen häneen nähden. Vapaana kansalaisena hän istui
+raitiovaunussa, mutta jos siihen astui joku aputoimittajamme, hän
+heti muuttui palvelijaksi. Olutanniskelussakin hän kohta asettui
+käskettäväkseni eikä uskaltanut liikahtaa ennenkuin hänet virallisesti
+laskin menemään.
+
+Toimituspaikassa sain sitten tietää Jánosin entisyyden historian. Hän
+itse kertoi sen.
+
+Mainitsin jo, että hän kolmetoista vuotta oli ollut husaarina.
+Vapaussodan alkaessa hän oli Galitsiassa sotamiehenä 10:nessä
+husaarirykmentissä, Cserkon kaupungissa.
+
+Sotamiesten kesken kesti yhtämittaista supatusta. Öisin haasteltiin
+talleissa isänmaan asioista, kirjeitä luettiin julki ja husaarien
+levottomuus oli suuri.
+
+Salaliiton järjestäjä oli Panker korpraali. Hän kutsui eräänä iltana
+sotilaat kokoon hämäräin tallilamppujen ääreen ja puhui näin:
+
+— Soturit, on tullut käsky Kossuthilta. Täytyy mennä kotia, sillä
+kotona on suuri hätä; serbit ottavat vangiksi veljemme, vanhempamme,
+käärivät heidät olkiin ja polttavat. Me emme voi jäädä tänne,
+vieraaseen maahan, kun kotona on niin suuri hätä.
+
+Päätettiin karata ja päiväkin oli jo määrätty. Eskadroona husaareja oli
+majoitettu kylään, toinen puoli kasarmiin, toinen taloihin kaikkialle.
+Viime hetkellä kumminkin eräs Jakab niminen husaari antoi ilmi koko
+hankkeen kapteeni Auer'ille, joka heti lähetti kuriirin Tarnopoliin
+antamaan tiedon kenraalille sekä pyytämään ratsu- ja jalkaväkeä avuksi
+kapinaan-yllyttäjiä vastaan.
+
+Kun kenraali saapui, muassaan osasto ratsumiehiä ja rattaille
+sijoitettua jalkaväkeä, istui jo toinen puoli husaarieskadroonaa
+satulassa, se puoli nimittäin, joka oli majoitettu taloihin.
+
+Panker oli juuri käynyt kaupungissa kahviloista etsimässä kahta Bodnár
+nimistä husaarikadettia, jotka niinikään olivat aikoneet karata.
+Silloin hän huomaa kenraalin tulon. Hän juoksee kasarmiin (joka
+oikeastaan oli paljaita talleja) tuota pikaa jouduttaakseen vielä
+jälellä olevia miehiä, mutta se oli jo myöhäistä. Jalkaväki pajunetit
+kivääreissä oli saartanut tallin.
+
+— Pari husaaria, — kertoo János setä — oli tallissa istunut satulaan.
+He ajoivat ulos varahevoset, nämät juoksivat jalkaväkeä vastaan,
+murtautuivat sen lävitse ja aukosta niitten jälkeen karauttivat
+muutamat husaarit. Panker jäi talliin. Kenraali astuu sinne pistooli
+kädessä, ampuu Pankeria, osaa kasvoihin, muut vangitaan. Minä vakuutan,
+Teidän armonne, että niin oli laita.
+
+       *       *       *       *       *
+
+— János! — huudetaan viereisestä huoneesta, — lasi vettä.
+
+Jánosin kieli pysähtyy, hänen ruumiinsa luhistuu kokoon, kätensä
+vaipuvat alas: vangittu jalopeura kuulee kahleittensa kalisevan.
+
+Viedessään veden sisään hän on nöyrä ja alistuvainen. Sieltä palattuaan
+hän taas toipuu.
+
+       *       *       *       *       *
+
+Satulassa istuvaa osastoa otti korpraali Lehoczky johtaakseen.
+Nähdessään kenraalin saapuvan, mutta ei Pankerin, hän osastonsa kanssa,
+jossa oli noin neljäkymmentä miestä, karautti tiehensä.
+
+He laukkasivat suoraan Brezsán'in kaupunkiin päin. (Kaupunkien nimistä
+János vastatkoon.) Kun talot jo etäällä häämöttivät, tulee heitä
+vastaan vaunut, joista astuu ulos muuan puolalainen kreivi.
+
+— Seisahtukaa, husaarit, Brezsán'in kaupungissa on jo teitä vastaan
+hälytetty ja teitä odottaa kaksi eskadroonaa kevyttä hevosväkeä. Joen
+siltakin on hajoitettu, ett'ette voisi päästä sen yli.
+
+(Tähän János pistää väliin: Kaikki puolalaiset pitivät meidän
+puoltamme.)
+
+Pojat seisahtuivat hämmästyneinä kreivin sanoista.
+
+— Vaan ratsastakaa tuonne päin niityn poikki, kolmensadan askeleen
+päästä sillasta on joen kapein kohta, siitä voitte mennä sen yli.
+Jott'ette matkalla kärsisi puutetta, on tässä kaksi sataa floriinia.
+
+Kreivi jatkoi matkaansa. Lehoczky komentaa ja husaarit, kiertäen
+kaupungin, rientävät joelle, joka saattoi olla niin iso kuin Bodrog.
+
+Korkealle rannalle pysähtyy korpraali Lehoczky kokoontuneen miehistön
+eteen.
+
+— Soturit, ell'emme kahlaa tämän joen poikki, otetaan meidät kiinni ja
+ammutaan. Jälessäni, älkää pelätkö!
+
+Näin sanoen hän korkealta, jyrkältä rannalta kaluineen, koluineen
+syöksähti veteen.
+
+Kun hän tuli ylös veden alta, tulivat ensin hevosen neljä jalkaa
+näkyviin, sitten Lehoczky tuli takaa.
+
+       *       *       *       *       *
+
+Jánosin silmät säihkyivät, hän itsekin hypähti... mutta yht'äkkiä hän
+vaikeni ja hänen kasvoilleen ilmestyi tuskallinen piirre. Joku hirveä
+sielun tuska mahtoi raivota hänen povessaan. Minä seurasin hänen
+silmiensä suuntaa... hän katsoi lamppuuni, joka savusi kauheasti.
+
+— Anteeksi, Teidän armonne! Ensin virka, sitten tulee huvitus.
+
+Näin sanoen hän astui lampun luo ja ruuvasi sen alas. Velvollisuuden
+tunto voitti hänessä sankariaikoja muistelevan uroon.
+
+       *       *       *       *       *
+
+Lehoczky pääsi onnellisesti joen yli. Kapuillessaan toista rantaa ylös,
+hän veti miekkansa ja hakkasi rannan puhtaaksi puista. Sitten husaarit
+yksi toisensa jälkeen syöksyivät veteen.
+
+Viimeiseksi jäi Pányi, torvensoittaja, ja Dobrik husaarin vaimo, joka
+istui erään varahevosen selässä ja piti toisella käsivarrellaan pientä
+lastaan. Torvensoittaja syöksyi veteen, mutta hevonen taittoi jalkansa
+ja upposi. Silloin Dobrikin urhea vaimo hyppäsi hänen jälkeensä,
+tarttui toisella kädellään Pányiin ja veti hänet ylös, niin että hän
+sai kiinni hevosen häntään. Niin hekin suurella vaivalla onnellisesti
+pääsivät rantaan.
+
+Pányi istui Dobrikin vaimon taa hevosen selkään ja he lähtivät
+matkalle. On huomattava että hevosväki näki Brezsánin sillanpäästä
+tämän uhkarohkean ylimenon, mutta vasta silloin alkoivat he hajotettua
+siltaa uudestaan laittaa, kun Dobrikin vaimo jo oli päässyt yli. Siten
+he myöhästyivät takaa-ajosta.
+
+He olivat kulkeneet kappaleen matkaa, kun Pányi sanoi:
+
+— Herra korpraali, tämä vaimo on pelastanut henkeni, minä en voi olla
+hänelle rasitukseksi. Jättäkää minut tähän, puikahdan metsään; löydän
+kotia itsekin.
+
+Sen sanottuaan hän hyppäsi alas hevosen selästä ja katosi metsään.
+
+Pari tuntia ajettiin vielä täyttä neliä ja sitten Lehoczky korpraali
+määräsi levähdystä väsyneille miehille ja hevosille. Heidän levätessä
+saavutti heidät eskadroona kevyttä hevosväkeä.
+
+Komentava ratsumestari järjesti miehensä ja kehotti husaareja
+antautumaan.
+
+— Tulkaa ja vangitkaa! — huusi takaisin korpraali Lehoczky.
+
+Miehet järjestyivät hyökkäykseen ja Lehoczkyn käskystä lensivät
+yht'äkkiä miekat tupestaan.
+
+— Soturit, vannokaa, että viimeiseen veripisaraan asti puolustatte
+itseänne.
+
+— Vannomme! — kuului yhdestä suusta. Hevosväen ratsumestari komensi
+miehilleen "käännös vasempaan!" ja jätti siihen husaarit. Nämä
+karauttivat Unkariin päin.
+
+Rajalla tapasivat he Pányin, joka jo kaukaa puhalsi heille hyökkäystä.
+Joukko saapui Ungvárin luona Unkariin.
+
+       *       *       *       *       *
+
+Tämä oli János sankarin kertomus. Kun hän oli lopettanut, kysyin:
+
+— No, mitä tapahtui teille?
+
+— Jäin talliin Pankerin kanssa.
+
+— Ja mitä sitten tuli?
+
+— Muutamat meistä saivat viisikymmentä, toiset sata kepinlyöntiä.
+
+— Montako te saitte?
+
+— Sata sain, — mutta vaan viiteenkymmeneen luin.
+
+Sen sanottuaan hän meni ulos, sillä soitettiin. Kymmenen minuutin
+kuluttua hän tuli takaisin:
+
+— Teidän armonne älköön pahastuko. Ei ollut viittäkymmentäkään
+kepinlyöntiä.
+
+— No kuinka monta sitten?
+
+— En enää muista. Sillä milloin läiskäytettiin, milloin ei.
+
+— Mitenkä, János?
+
+Petosta oli toimituksessa. Piiskuri oli peittänyt selkämme
+hevosloimella; herra upseeri, joka komensi, katsoi ulos ikkunasta.
+Kaikki säälivät meitä... Niin se oli, Teidän armonne. Sen verta
+vain minulla on osaa Budan patsaassa... Köyhälle miehelle sekin on
+tarpeeksi. Ettekö suvaitse sikaria, Teidän armonne?
+
+— Kiitos, János, en, mutta ottakaa, tässä yksi floriini.
+
+János sankari.
+
+— En voi, Teidän armonne, kiitän suosiollisesta kuuntelemisesta...
+Anteeksi, Teidän armonne, ei käy päinsä, älkää suuttuko, se ei sovi...
+
+       *       *       *       *       *
+
+Ulkona palvelijain huoneessa, kun nuoret kerran pilkkasivat János
+setää, joutui hän raivoon ja tunnusti vielä enemmän.
+
+— Lievän kepittämisen takia upseeri alennettiin virastaan... me kaikki
+saimme uudestaan juosta kujaa... selkäni oli ihan verissä... Kaksi
+viikkoa olin vuoteen omana, sitten tuli linnaa. Niin se oli, tietäkää
+se, penikat...
+
+Kelpo vanhus pelkäsi, että jos hän kertoo tämän siellä sisällä, me
+pidämme sitä kerskailemisena. Hän ei tahtonut olla meitä parempi.
+
+
+
+
+Preszákan varjot.
+
+
+I.
+
+Vuorisen seudun peitti pimeä ilta. Taivas oli synkkä, ilma kostea,
+maa lokainen. Kylmä Lokakuun tuuli puhalsi lumen peittämiltä
+vuorenhuipuilta. Huojuvien puiden kuivat lehdet ratisivat hiljaa.
+Suutansa maiskuttaen kiirehtivät rihmakenkäiset olennot kapakkaa kohti.
+Joskus pysähtyi joku mies ja kuunteli. Tuntui ikäänkuin kylän päästä,
+Ompoly-joen viereiseltä suurelta pellolta, suuri, tuskallinen huokaus
+olisi noussut kylään päin. Tällä pellolla makasi kuusi sataa Zalathnan
+unkarilaista, jotka Dobra tribuunin joukkiot olivat edellisenä yönä
+tappaneet.
+
+Preszákan kapakan juomasalissa istui joukko valakkilaisia viinilasien
+ääressä. Nurkassa palava tuli heitti heihin veripunaisen hohteen.
+Yksitellen saapuivat miehet ja asettuivat äänettöminä istumaan pitkälle
+penkille. Ei kukaan puhunut.
+
+Jokainen oli vaipunut omiin ajatuksiinsa. Joskus salaa tutki
+naapuriaan, ikäänkuin hakien verenjälkiä hänen käsistään.
+
+Yht'äkkiä avasi joku oven ja Bora tribuuni astui sisään. Toinen silmä
+oli sidottu verisellä liinalla. Hän oli käheä ja raivoisa.
+
+— Hyviin käsiin minut jätittekin, — huusi hän -huoleti olisivat
+saattaneet tappaa minut. Antakaa viinaa.
+
+Hän sai sitä.
+
+— Mikä sinua vaivaa, tribuuni? — kysyi Tódor Stánila, kylätuomari.
+
+— Kun tuo unkarilainen koira tapettaessaan oli puhkaissut silmäni,
+vietiin minut lähimpään taloon. Siellä hoidettiin minua eilinen yö ja
+koko päivä. Illalla kuitenkin kaikki pakenivat. Sanottiin että kuolleet
+koputtavat ikkunoita, tärisyttävät seiniä ja lausuvat kirouksia kylän
+yli...
+
+Talonpojat katsoivat kauhistuneina toisiinsa. Bora jatkoi:
+
+— Sinä, kylätuomari, kokoo aseelliset, menkää ulos ja lyökää
+kuolijaaksi ne haavoittuneet, jotka vielä ovat hengissä.
+
+Kylätuomari kalpeni.
+
+— En tee sitä, tribuuni, on jo tarpeeksi vuotanut verta.
+
+— Emme mekään sitä tee — sanoivat preszákalaiset — anna jäädä sikseen,
+tribuuni, kylmä heistä muutenkin lopun tekee.
+
+— Sinä Valea, — puhui Bora rotevalle, nuorelle miehelle — joko
+sinustakin tuli lampaansydän?
+
+— Peruuta käskysi, tribuuni, — vastasi puhuteltu ja katseli peloissaan
+ympärilleen — tapoin erään vaimon ja hänen kolme pientä lastaan, vaikka
+hän niin kauniisti, ristissä käsin rukoili. Ja nyt kaikuu korvissani
+alinomaa heidän voivutuksensa. Kun sinä puhut, kun itse puhun, aina
+kuulen heidän itkunsa... Ruohon, puiden huojuntakin on kuin heidän
+haikea valituksensa... Se on hirveätä!
+
+Tribuuni puisteli itseään, ikäänkuin tahtoisi ravistaa jotain
+olkapäiltään. Sitten tyhjensi hän viinalasin ja tilasi raa'alla äänellä
+uuden.
+
+Kapakan isäntä asetti sen hänen eteensä, tyhjensi itsekin puolen lasia
+ja puhui sitten hiljaan:
+
+— Hämärässä tulin sisään puutarhasta. Kolme kertaa pysähdyin ja katsoin
+taakseni, sillä kuulin askeleita takanani. Vaan ei siellä ollut ketään.
+Jos katsoin valoisaan kohtaan, näin mustia varjoja; jos taas pimeään
+tuijotin, näin valkeita haamuja liikkuvan edessäni. Tahdoin sanoa
+"ylistetty olkoon Jeesus Kristus", mutta en muistanut sitä.
+
+Tylsänä katseli hän eteensä. Lasi tutisi hänen kädessään.
+
+— En muistanut sitä... en muistanut — sopersi hän.
+
+Syvä hiljaisuus vallitsi huoneessa.
+
+— Näettekö tuota punaista pilvenhattaraa taivaalla? — kysyi eräs vanha
+paimen — se on juuri kylän yläpuolella. Ehkä se on verta, joka aina
+tulee siinä pysymään. Syntiin vajosimme me ihmiset, Jumala olkoon
+meille armollinen.
+
+Muutamat tekivät ristinmerkin.
+
+— Totisesti tribuuni, meidän rauhamme on lopussa.
+
+— Arkoja koiria te olette, — huusi Bora ja löi kovasti pöytään
+— mitä te täällä vaikeroitsette kuin vanhat vaimot? Juokaamme,
+säkkipillinsoittaja astukoon esiin, tanssikaa!
+
+Samassa Valea kavahti pystyyn ja silmänsä tuijottivat oveen päin.
+
+— Ettekö kuule? Voi, ihmiset, ettekö kuule?
+
+— Mitä, mitä?
+
+— Lapsen itkua.
+
+Syntyi kuolon hiljaisuus. Ovelta kuului lapsen itkua ja rukoilevia
+sanoja. Takkupäiset, hurjat vuoriasukkaat katsoivat säikähtyneinä
+toisiinsa. Lopulta hypähti tribuuni pystyyn ja paiskasi oven auki.
+
+Kahdeksanvuotias, kultahapsinen, herrasväkeen kuuluva, mutta
+rikkirevityissä vaatteissa oleva pieni tyttö astui sisään. Hän oli ihan
+likainen ja verinen ja vapisi vilusta. Hän meni suoraa päätä vanhan
+paimenen luo ja sanoi itkien:
+
+— Tehkää hyvin, setä, sanokaa isälle ja äidille että jo nousisivat ylös
+ja menisimme kotiin, minua niin paleltaa.
+
+— Missä vanhempasi ovat? kysyi paimen.
+
+— Ulkona pellolla, pahat sedät tekivät heille pahaa ja löivät heitä
+kovasti yöllä... he panivat maata kedolle ja minäkin nukuin heidän
+viereensä... mutta nyt he eivät puhu mitään eivätkä tahdo nousta...
+Vaan täälläpä onkin lämmin... Ja pieni vapiseva tyttö vetäytyi valkean
+ääreen.
+
+— Vieköön piru sikiön! — karjahti päihtynyt tribuuni ja laukasi
+pistoolinsa pientä tyttöä kohti. Vaan Valea oli nopeampiliikkeinen
+ja työkkäsi pistoolin niin, että luoti lensi seinään. Tribuuni tästä
+suuttuneena löi Valeaa pistoolilla päähän niin, että veri purskahti
+esiin. Mutta Valea vastasi sellaisella nyrkiniskulla että tribuuni
+pyörtyi ja jäi lattialle makaamaan. Kaksi miestä nosti hänet sanaakaan
+sanomatta ja kantoi ylös heinäparvelle.
+
+Valea otti pienen tytön syliinsä, vei takimmaiseen huoneeseen ja uskoi
+hänet ravintolanemännän huostaan. Sitten meni hän kaivolle, kaatoi
+päähänsä kaksi ämpärillistä vettä, otti sitten pyssynsä ja istuutui
+portin eteen.
+
+Kapakasta alkoivat ihmiset hajaantua. Mutta vitkaan, horjuvin askelin.
+Jokainen pelkäsi pimeää, varjoja, huokauksia.
+
+Ensimmäisenä poistui kylätuomari Tódor Stanila.
+
+Tuskin oli hän mennyt, kun Valea näki hänen juosten palaavan takaisin.
+Sillä välin kuului katkonaisia huutoja hänen kurkustaan. Taloista
+juoksi ulos levotonta kansaa ja tunkeutui kylätuomarin ympärille. Ei
+kukaan vielä nukkunut kylässä.
+
+Juomasali, vieläpä pihakin tuli yht'äkkiä täyteen miehiä, naisia.
+Ne, jotka olivat sisällä, näkivät että voimakas, vahvarakenteinen
+kylätuomari vapisi ja pyyhki paidanhihallaan otsaltaan kylmää hikeä.
+
+— Missä pappimme on? Kuka on nähnyt hänet? — kysyi hän änkyttäen.
+
+— Hän meni pois Dobran kanssa.
+
+— Hyvä Jumala, mitä minusta tulee! — huusi hän ja peitti kasvonsa.
+
+Joka taholta pyydettiin häntä kertomaan, mitä oli tapahtunut.
+
+Kylätuomari veti syvään henkeä, joi lasin vettä, antoi sitte katseensa
+kulkea ympäri huonetta ja puhui:
+
+— Minä läksin kotiin, mennäkseni levolle... Kun aioin heittäytyä
+vuoteelleni, näin verisen haamun makaavan siinä...
+
+— Pyhä Jumala, — huudahtivat talonpojat.
+
+— Minä olen hukassa, olen murhaaja, poissa on taivaallinen autuuteni,
+poissa rauhani täällä maan päällä... Tuokaa pappi, pappi...
+
+— Menkäämme kaikki Metesd’in papin luo, -sanoi Valea — hän on hyvä
+ihminen, pyhä mies, hän on rukoileva meidän puolestamme.
+
+Suosionsuhinalla joukko hyväksyi ehdotuksen. Silmänräpäyksen kuluessa
+hankittiin kirkonpalvelija, joka aukaisi kirkon. Sieltä tuotiin
+ulos pyhällä kuvalla varustettu lippu, vahakynttilät sytytettiin ja
+kirkollisen alttarirukouksen kaikuessa koko kylä lähti Metesd'ia kohti.
+
+Ensimmäisenä kulki paljain päin Tódor Stánila, hänen jälessään vaimot
+ja lapset, sitten miehet, aseissa... melkein kaikissa näkyi eilisen
+verityön jälkiä. Taimpana kulki Valea, sylissään pieni, vaaleaverinen
+tyttö, joka, pää tuiman miehen olkapäähän nojaten, nukkui makeasti.
+
+Aaveen tapainen kulkue katosi metsätielle. Siellä puhalsi tuuli
+kylmemmin ja jäinen sade alkoi valua virtanaan. Valea pysähtyi,
+riisui päältään turkkinsa, kääri siihen pienen tytön, ja kantoi hänet
+siten eteenpäin... Rankka sade valui hänen paljaalle rinnalleen
+ja kaulalleen, ja hänen karhea, ryysyinen liinapaitansa tuli
+likomäräksi... Ja Valean otsassa paisuivat suonet, niin tarkasti hän
+kuunteli, kuuluisiko enää lapsenitkua.
+
+
+II.
+
+Preszákan verilöylystä pimeän yön suojassa paenneet Zalathnalaiset
+juoksivat Metesd'iin päin. Ja helvetistä irtipäässeitten perkeleitten
+jälkeen odotti heitä siellä taivaasta alasastunut enkeli. Se oli János
+Ursz, kreikkalais-katolinen sielunpaimen. Kylmästä kangistuneet,
+kidutetut, piinatut, suurimmaksi osaksi haavoittuneet unkarilaiset
+otti hän taloonsa, antoi heille ruokaa, pesi heidän haavansa, sitoi
+ne, ja lopuksi lähetti heidät luotettavain uskolaisten suojelemina ja
+johtamina Gyula-Fehérvár'iin. Yleisen hävityksen aikana hän oli yksi
+niitä rehellisiä miehiä, jotka eivät kadottaneet sielunsa tasapainoa.
+Hänen sydämessään asui ainoastaan ihmisrakkaus ja armeliaisuus. En
+kerro satuja, vaan kirjoitan historiaa. Etsikää vaan ja te löydätte
+hänen nimensäkin — hän on sen jälkeen kauvan ollut ylhäällä taivaassa
+ja varmaan Jumalan valtaistuimen edessä rukoillut kurjain, sokaistujen
+veriheimolaistensa puolesta.
+
+Verenvuodatuksen kauhean yön jälkeen tuli taas päivä — harmaa, pilvinen
+päivä, ja sitten uudestaan yö. János Ursz luki hoikan kynttilän
+valossa pyhimysten elämästä. Hänen asuntonsa toisessa huoneessa
+oli sairaita, haavoittuneita tahi kuolevia pakolaisia, varsinkin
+vaimoja ja lapsia. Tuon tuostakin kuului papin huoneeseen tuskallinen
+huokaus, vaikea valitus tai hiljainen itku. Silloin hän meni sinne ja
+tiedusteli lempeällä, lohduttavalla äänellä, kuka kärsi, mikä häntä
+vaivasi ja mitä oli tarvis. Sitten hän meni ulos latoon ja talliin.
+Siellä makasivat oljilla miehet. Useimmat tuijottivat eteensä tylsällä
+katseella, toiset alkavassa haavakuumeessa sopersivat käsittämättömiä
+lauseita ja hajanaisia sanoja. Pappi antoi heille järjestään vettä.
+Moni ei liikahtanut, ei vaikeroinnut. Pappi polvistui heidän viereensä,
+kuunteli hengitystä ja tunnusteli sydäntä.
+
+— Kuollut, — mutisi hän — ikuinen valo loistakoon hänelle!
+
+Sitten hän teki ristinmerkin, nosti ruumiin palvelijan kanssa ja kantoi
+sen ulos. Ulkona pirskoitti hän sen pyhällä vedellä, luki sen ylitse
+"Isä meidän" rukouksen ja hautasi sen sitten talonpoikain avulla.
+
+Eilisyöstä asti hän oli haudannut neljä miestä ja kaksi lasta. Hänen
+talonsa oli tyhjä kuin ryöstetty. Ei ollut leipäpalastakaan, ei
+hedelmän siruakaan. Kaikki hän oli jakanut nälkäisten kesken. Ei
+löytynyt lakanaa, ei paitaa, ei nenäliinaa; kaikki oli revitty rikki
+kärsivien haavain sitomiseksi. Hänellä ei ollut muita vaatteita kuin
+mitä päällään oli; kaikki hän oli antanut vilusta väriseville.
+
+Oli jo myöhäinen ilta, kun Preszákan pyhiinvaeltajain surullinen
+alttarirukous kaikui kylässä. János Ursz oli nukkunut kyynärpäät pöytää
+vastaan ja pää käsissä. Hän kohotti päätään ja kuunteli. Valittava,
+surullinen laulu kuului yhä voimakkaampana yössä. Tuleeko vielä uusia
+vainottuja? János Ursz'in kasvoille vieri kyynel.
+
+Hän meni kuistille ja odotti. Silloin näki hän katuvaisen joukon,
+keltaisen, läikehtivän vahakynttilän valossa lähestyvän, kääntyvän
+pappilan pihalle ja laskeutuvan polville lokaan.
+
+— Miksi te tulitte luokseni, Jumalan palvelijan luo, veljeni? — kysyi
+pappi.
+
+— Oikein sanoit, hyvä herra, — vastasi kylätuomari — Jumalan palvelijan
+luo me tulimme. Me olemme Preszákan onnettomia. Meidän on kätemme
+veriset, omatuntomme verinen. Meillä ei ole rauhaa kotona. Tapettujen
+varjot kulkevat taloissamme, kuiskaavat korviimme... Oi, armollinen
+herra, päästä meitä vaivaisia syntisiä kauheasta synnistämme.
+
+János Ursz levitti käsivartensa:
+
+— Armo on Jumalan kädessä; minä, hänen palvelijansa, rukoilen hänen
+loppumatonta laupiuttaan teidän syntisille sieluillenne...
+
+Silloin aukeni asunnon ovi ja valossa näkyi korkeavartaloinen
+herrasnainen. Hän oli vielä nuori, mutta hiuksensa olivat harmaat. Ei
+vanhuudesta, vaan kärsimyksistä. Kasvoissa ilmeni ääretön suru. Kun
+hän kohotti silmänsä taivasta kohden, näytti siltä kuin sielu jo olisi
+jättänyt tämän kurjan, viheliäisen maan...
+
+Nojautuen pappiin hän puhui:
+
+— Ihmiset! Preszákassa tapoitte mieheni ja kaksi lastani... Yksin
+pakenin tänne... Yksin olen, ei minulla ole ketään maailmassa...
+Tuskassani käännyin Jumalan puoleen ja Hän osotti minulle
+ainoan poikansa, Vapahtajamme, joka ristinpuussa antoi anteeksi
+vihollisilleen. Sitten korotti hän äänensä:
+
+— Minä annan teille anteeksi, sillä te ette tiedä, mitä olette tehneet.
+Herra Jumala armahtakoon teitä!
+
+— Amen! Rukoilkaamme! — lopetti pappi ja vitkaan sopisten joukko luki
+rukouksen papin sanain mukaan. Sen jälkeen pirskoitti hän heitä pyhällä
+vedellä ja jokainen teki ristimerkin.
+
+Tunnin kuluttua Ursz'in luokse piiloutuneet unkarilaiset lähtivät
+aseellisten preszákalaisten suojeluksen alaisina Gyula-Fehérvár'iin
+päin. Takimmaisena, talonpoikaisrattaiden oljilla, lämpimän turkin
+alla, nukkui pieni vaaleaverinen tyttö; hänen vieressään astuskeli,
+pyssy olalla, Valea... Ja Valea nosti katseensa ylös taivaaseen ja
+tyyni rauha laskeutui hänen sydämeensä... lapsen itkua ei enään
+kuulunut hänen korviinsa.
+
+
+
+
+Kaksi tapausta
+
+
+I.
+
+Paukkuvassa pakkasessa oli Vizaknan tappelu. Toisella puolen Bern
+kahdentuhannen miehen kanssa. Toisella puolen kenraali Puchner
+kahdeksantuhannen vakinaisen sotamiehen ja useampien tuhansien
+kapinoitsevien saksilaisten ja valakkilaisten kanssa.
+
+Kello yhdeksän seuduissa tuli kaupunkiin horjuvin askelin ja pyssyynsä
+nojaten Bárdy, neljännen honvédpataljoonan varusmestari.
+
+Vartaloltaan hän oli todellinen jättiläinen. Hänen pajunettinsa
+ja pyssynperänsä olivat yhtä veriset. Näkyi että hän ryntäyksissä
+oli säädyllisesti myötävaikuttanut. Mutta kartessin sirpale oli
+haavoittanut häntä reiteen ja hänen oli pakko jättää tappelu.
+
+Ensimmäisen tiilikattoisen talon luona tuntee hän voimansa loppuvan,
+edemmäs hän ei voi mennä.
+
+Katsahtaessaan taaksensa hän näki lumessa pitkän juovan vuodattamaansa
+verta.
+
+Hän koputti pyssyllään porttia. Portti aukeni ja Bárdy näki siinä pari
+pelästynyttä valakkilaista miestä ja naista.
+
+— Viekää minut vuoteeseen, peskää haavani, sillä minä pyörryn.
+
+He riensivät häntä tottelemaan, sillä kaupunki oli unkarilaisten
+käsissä ja valakkilaiset eivät vielä tienneet, kuka tämänpäiväisessä
+tappelussa tulee voittajaksi.
+
+Takimmaisessa pihahuoneessa, johon he hänet panivat maata, makasi jo
+joku toisessa vuoteessa.
+
+— Kuka se on? — kysyi Bárdy. Talonisäntä, Balistye niminen
+köydenpunoja, vastasi vapisevalla äänellä:
+
+— Suokaa anteeksi, herra honvéd, eräs haavoitettu itävaltalainen
+upseeri, jolta solisluu on ammuttu poikki.
+
+— Minä en siitä välitä, mutta jos kenraali Bem saa sen tietää, ammuttaa
+hän teidät. Pyssyni!
+
+Se annettiin hänelle, hän veti hanan vireeseen, ojensi pyssyn upseeria
+vastaan ja sanoi saksaksi:
+
+— Mikä teidän arvonne on?
+
+— Olen kapteeni Bianehi-rykmentissä.
+
+— Herra kapteeni, minä julistan teidät täten vangikseni. Jos tahdotte
+poistua huoneesta, ammun teidät kuolijaaksi.
+
+— Se on oikein, — vastasi kylmästi kapteeni ja kääntyi vuoteellaan.
+
+Bárdy söi vadillisen kuumaa lientä, joi lasin paloviinaa, sitten hän,
+asetettuaan pyssyn viereensä, vaipui syvään horrosuneen.
+
+Kun hän heräsi, jaksoi hän aivan hyvästi, niin että heti nousi
+vuoteeltaan.
+
+— Älkää liikkuko! — huusi hänelle raaka ääni. Kapteeni istui
+vuoteellaan ja tähtäsi häntä kohti pistoolinsa. Bárdy ojensi kätensä
+tarttuakseen pyssyynsä. Ase oli poissa. Alakuloisena laski hän kätensä
+alas.
+
+— Mikä teidän arvonne on? — kysyi kapteeni.
+
+— Olen varusmestari.
+
+— Varusmestari, minä julistan teidät täten vangikseni. Jos tahdotte
+poistua huoneesta, ammun teidät kuolijaaksi.
+
+Bárdy naurahti.
+
+— Minäkö vanki? Unkarilaisen sotajoukon keskellä?
+
+Silloin kapteeni naurahti.
+
+— Te ette näy tietävän, että Bem hävisi tappelussa ja sotajoukkonsa
+peräytyy suurella tappiolla Szász-Sebes'iin päin.
+
+— Mahdotonta.
+
+— Niin on laita.
+
+Bárdy alkoi kiireimmän kautta pukeutua.
+
+— Mitä te teette?
+
+— Näettehän sen. Tahdon mennä sotajoukon jälkeen. Kunniani minua siihen
+velvoittaa.
+
+— Unohdatte, että olette vankini.
+
+— Estäkää siis minua menemästä. Upseeri laski alas pistoolinsa.
+
+— Mitä te olitte, ennenkuin tulitte honvédiksi?
+
+— Lakitieteen ylioppilas Pestissä.
+
+— Elävätkö vanhempanne?
+
+— Elävät.
+
+— Onko teillä veljiä?
+
+— Kaksi vanhempaa veljeäni palvelee Görgeyn armeijassa.
+
+Kapteeni huokasi surullisesta.
+
+— Ja minun nuorempi veljeni palvelee Wienin legioonassa, teidän
+lippunne alla. Hän on vanhempiemme silmäterä, ylpeys. Jos hän nimittäin
+vielä elää, eikä ole kaatunut taikka paleltunut kuolijaaksi tässä
+kauheassa pakkasessa.
+
+Bárdy painoi alas päänsä ja sanoi hitaasti:
+
+— Mikä onni, että minä olin huono poika ja huono oppilas. Siksi
+synnyin, että tappelisin.
+
+— Vanhemmille se on yhdentekevää, heille te olette yhtä kallis
+kuin muutkin pojat... Älkää menkö, nuori ystäväni, tuolla ulkona
+valakkilaiset lyövät teidät kuolijaaksi.
+
+— Minä pakenen puutarhan kautta pellolle... haavani on mitätön, minun
+täytyy mennä.
+
+— Tiedättekö mitä, — sanoi kapteeni — pukeutukaa ainakin minun
+viittaani ja lakkiini, sitokaa vyöllenne miekkani, ottakaa pistoolini,
+istukaa hevoseni selkään ja siten paetkaa.
+
+Bárdy teki kiireesti niin.
+
+— Ja nyt nimenne, herra kapteeni, — sanoi hän, kun oli muuttunut
+itävaltalaiseksi.
+
+— Gottfried Stramm. — Minä olen Bárdy, Herran haltuun!
+
+He jättivät hyvästi toisilleen, Bárdy riensi pois, talutti ulos
+kapteenin hevosen ja, hypäten portin edessä sen selkään, lähti
+hiljaista ravia Toporcsaan päin.
+
+Keisarillisilla oli enään vain haavoittuneet Vizaknassa, kapinoivat
+valakkilaiset sitä vastoin tulvasivat kaupunkiin. Parin palavan
+unkarilaisen talon liekit kohosivat korkealle alkavassa hämärässä.
+Valakkilaiset keihäsmiehet ammensivat lakilla paloviinaa kadulla
+sisäänlyödyistä tynnyreistä. Monet lauloivat ja keihäitään hurjasti
+heiluttaen tanssivat kovaksi jäätyneellä lumella. Toiset juopuneet
+miehet huvittelivat itseään sillä, että pistelivät kaatuneitten
+honvédien ruumiita. Erään portin aitaukseen (ehkä siellä asui
+tribuuni?) oli pistetty honvédlakkisia päitä. Bárdyn vapisi joka jäsen
+kauhusta ja raivosta. Sata kertaa tarttui hän satulannastassa oleviin
+pistooleihin, ampuakseen jonkun julkean heittiön, mutta mieleensä
+juohtui, että vielä voi tulla tarvis ladattuja aseita. Valakkilaiset
+muuten, nähdessään hänen univormunsa, tervehtivät häntä ja antoivat
+hänelle tietä.
+
+Toporcsan hän tapasi liekeissä. Pakenevat unkarilaiset olivat sen
+sytyttäneet tuleen. Katu oli täynnä voitonriemuisia valakkilaisia.
+Honvédruumiita venyi kaikkialla. Ne olivat kaikki olleet haavoittuneita
+ja väsyneitä sotilaita, jotka olivat jääneet sotajoukon jälkeen, ja
+täällä heidät satakertainen ylivoima oli lyönyt kuolijaaksi. Kun
+Bárdy saapui kylän keskelle, näkyi sen yläpäästä lähestyvän useaan
+sataan nouseva kirkuva joukko. Ne oli valakkilaisia keihäsmiehiä,
+jotka kulettivat vankinaan noin kahtakymmentä honvédia ja yhtä monta
+Wienin legioonalaista — kaikki kahdenkymmenen ikävuoden alla olevia
+parrattomia poikia. Bárdy pysähtyi keskelle tietä.
+
+— Hait! — huusi hän ukkosäänellä. Joukko seisahtui.
+
+— Osaako kukaan teistä saksaa? — kysyi hän.
+
+— Minä osaan, — vastasi eräs pooppa, jonka kupeella oli miekka.
+
+— Mihin viette vangit?
+
+— Ammuttaviksi.
+
+— Pooppa, kuinka uskallat sanoa sellaista, täytyyhän sinun tietää
+ett'ei sotavankeja saa loukata.
+
+— Eräs majuri Bianchi-rykmentistä antoi minulle sen käskyn.
+
+— Valehtelet, pooppa. Minä keisarin nimessä kiellän teitä loukkaamasta
+sotavankeja. Joka uskaltaa mutista, sen ammun kuolijaaksi.
+
+Näin sanoen hän otti esiin molemmat pistoolinsa.
+
+— Sinä tulet ensimmäiseksi, pooppa, — sanoi Bárdy ja kutkutteli
+pistoolilla pappia.
+
+— Hyvä on, herra upseeri, mutta mitä tehdään vangeille? — vastasi
+nöyrästi pooppa, jonka itsepintaisuutta häntä vastaan tähdätty pistooli
+nähtävästi masensi.
+
+— Ne minä saatan Vizaknaan, ylikenraalin eteen.
+
+— Mutta mekin menemme sinne, herra upseeri.
+
+— Niinkö? Vastakkaiseen suuntaan sotatantereelta? Sen mielellänne
+teette, sen tiedän. Ei, pooppaseni, minä tarvitsen vain neljäkymmentä
+aseellista miestä, muut menkööt pakenevan Bem'in jälkeen... muuten
+minä yliluutnantinsanallani vakuutan, että ylikenraali ammuttaa teidät
+kaikkityyni.
+
+Pooppa ilmoitti uskolaisilleen upseerin tahdon. Jos tuossa
+vertajanoovassa joukkiossa olisi ollut yksi ainoa rohkea mies,
+olisi Bárdy ollut hukassa. Mutta sitä ei ollut. Hirmutöittensä
+takia heillä oli paha omatunto ja se teki heidät pelkureiksi. He
+valitsivat nuot neljäkymmentä aseellista saattomiestä ja pooppa asettui
+heidän etunenäänsä. Sillä aikaa Bárdy myötätuntoisuudella tarkasti
+untuvaposkisia poikia, jotka uhkamielisellä äänettömyydellä olivat
+kuunnelleet kohtausta. Äkkiä juolahti aatos hänen päähänsä.
+
+— Oletteko Wienin legioonan jäseniä? — kysyi hän.
+
+— Olemme.
+
+— Tiedättekö jotain Stramm nimisestä legioonalaisesta?
+
+— Tässä olen, — vastasi eräs ääni ja sievä, voimakas, tummaverinen
+poika astui esiin joukosta.
+
+Pooppa häristi korviaan kuunnellakseen mitä oli tuleva.
+
+— Onko Gottfried Stramm, virkaveljeni, kapteeni Bianchi-rykmentissä,
+teidän veljenne?
+
+— Vanhempi veljeni.
+
+— Tietäkää että hän makaa pahasti haavoittuneena Vizaknassa ja
+houreissaan yhtämittaa kutsuu ja muistelee teitä.
+
+Nuori sotamies painoi alas päänsä, ehkä salataksensa liikutustaan.
+
+— Pooppa, — jatkoi Bárdy — anna tämän nuoren herran alle hevonen,
+loistavan palkinnon saat kapteeni Strammilta siitä, että olet auttanut
+häntä saamaan takaisin kapinoitsevien joukkoon viekotellun veljensä.
+
+Stramm kohotti päätään.
+
+— Herra yliluutnantti, suvaitkaa tietää että minua ei ole kukaan
+viekotellut, enkä istu hevosen selkään, kun toverini käyvät jalkaisin.
+
+Bárdy olisi tahtonut syleillä tuota kelpo poikaa.
+
+— Älkää viisastelko, siten kuljemme joutuisammin ja te näette pikemmin
+veli raukkanne.
+
+Pooppa, joka oli muuttunut hyvin palvelushaluiseksi mieheksi, hankki
+pian hevosen. Sitten pieni joukko kääntyi takaisin, Vizaknaan päin.
+He olivat kulkeneet tuskin sata askelta, kun Bárdy viittasi viereensä
+jälessä ratsastavan pojan ja muutamin sanoin ilmaisi itsensä hänelle.
+Mutta sitä hän ei ilmaissut, että veljellä oli vain pieni haava. Hän
+pelkäsi ettei tuo lujasieluinen poika silloin jättäisikään tovereitaan.
+
+— Mitä vangeilla tehdään? — kysyi Stramm.
+
+— Tuumani on jo valmis. Ottakaa toinen pistoolini ja ampukaa, jos
+mahdollista, pooppa, mutta sitten vasta, kun minä huudan: _Husaarit_!
+Nyt menkää taakse.
+
+Stramm jäi Bárdysta. Vielä kulkivat he sata askelta. Silloin Bárdy
+pysähdytti joukon.
+
+— Kuulen kavion kopsetta, — sanoi hän poopalle — jääkää tähän, minä
+menen tiedustelemaan.
+
+Näin sanoen ratsasti hän eteenpäin. Hetkisen kuluttua laukkasi hän
+takaisin.
+
+— Husaarit, unkarilaiset! Paetkaa! Laukaus kuului ja pooppa suistui
+lumeen.
+
+Stramm oli suorittanut tehtävänsä. Valakkilaiset juoksivat mielettöminä
+metsään. Bárdy seisahtui hiljaa nauraen unkarilaisen joukon eteen ja
+sanoi unkariksi:
+
+— Ja nyt pojat, kootkaa valakkilaisten poisheittämät aseet, painukaa
+tänne vasemmalle, erääsen autioksi jätettyyn myllyyn, ja odottakaa
+siellä. Minä olen varusmestari Bárdy neljännestä pataljoonasta ja minun
+täytyy vielä toimittaa Stramm Vizaknaan.
+
+Ällistyneet pojat tuskin tointuivat hämmästyksestään, Bárdy laukkasi
+pois legioonalaisen kanssa.
+
+Vizaknaan asetetut vahdit tekivät hänelle kauniisti kunniaa, mutta hän
+ratsasti suoraan nuoranpunoja Balistyen asuntoon, ja saattaa käsittää
+Stramm kapteenin iloa, kun häntä yöllä herätetään ja hänen edessään
+seisoo eheänä, terveenä nuorempi veljensä.
+
+— Huomenna vien sinut, paha poika, takaisin Wieniin, minulla on
+kuukausi vapautta haavani takia.
+
+Viiden minuutin kuluttua Bárdy sanoi veljeksille jäähyväiset ja
+laukkasi myllylle. Siellä asettui hän poikien johtajaksi ja vei heidät
+vuorten ja metsien kautta Bem'in leiriin.
+
+Vanha Bem teki hänet heti yliluutnantiksi.
+
+
+II.
+
+Olivette, kolmimastoinen, englantilainen kauppalaiva, oli Galatz'issa
+laskenut ankkuriin ja bulgarilaiset jätkät kantoivat siihen
+ahkerasti lastia. Humphrey, kapteeni, istui likaisen sataman ainoan
+kahvilan liinateltan alla ja katseli, kuinka työ sujui. Yht'äkkiä
+yksikolmatta-vuotias, voimakas nuori mies seisoo hänen edessään ja
+tervehtimättä kysyy häneltä:
+
+— Oletteko te Olivetten kapteeni?
+
+— Olen.
+
+— Viettekö minut Konstantinopoliin?
+
+— Vien, jahka vaan maksatte.
+
+— Olkaa huoletta. Missä piletti?
+
+Kapteeni vihelsi kerran. Muuan matruusi tuli sinne.
+
+— Tuo laivasta tälle herralle piletti Konstantinopoliin.
+
+Saatuansa ja maksettuansa piletin vieras kysyi:
+
+— Koska lähdemme?
+
+— Kun on saatu lastatuksi.
+
+— Koska se on?
+
+— Sen tahtoisin itsekin tietää.
+
+— Tietäkää, kapteeni, että minulle on parempi mitä pikemmin pääsemme
+matkaan.
+
+— Miksi? Oletteko pannut huonoja puita tuleen?
+
+— Olen pakeneva unkarilainen upseeri, jonka jos itävaltalaiset saisivat
+kiinni, ampuisivat kuolijaaksi.
+
+— Ette suinkaan täällä pelkää itävaltalaisia?
+
+— Huomatkaa ett'ei minun yleensä ole tapana pelätä. Yhden vuoden
+kuluessa olen ottanut osaa noin kahteenkymmeneenviiteen tappeluun.
+Mutta tietäkää että Galatz on täynnä itävaltalaisia vakoilijoita, enkä
+minä tahtoisi joutua kiinni.
+
+— Se tosiaankin olisi teille ikävää, — vastasi levollisesti Humphrey
+ja kopisti tuhan lyhyestä puupiipustaan — ehdotan että menette laivaan
+asumaan, ettekä liiku sieltä minnekään.
+
+— Jahkapa ajattelen asiaa, — vastasi nuorukainen ja nostaen hattuaan
+jätti englantilaisen.
+
+Humphrey maistellen kahviaan katseli edelleen lastausta. Hän
+ajatteli, joutuneeko hän johonkin kansainväliseen selkkaukseen, kun
+ottaa laivaansa unkarilaisen pakolaisen. Sen hän jo oli kuullut,
+että Venäjän ja Itävallan yhdistyneet sotajoukot olivat kukistaneet
+Unkarin vallankumouksen, osa päälliköistä oli paennut Turkin alueelle
+ja Itävalta vaati sulttanilta niitten ulosantamista. Mitä se häneen
+koskee? Hän on velvollinen ottamaan jokaisen matkustajaksi, joka maksaa
+taksan.
+
+Illalla, Olivetteen palatessaan, nuori unkarilainen oli ensimmäinen,
+johon hänen silmänsä kiintyi.
+
+— Kapteeni, minä olen honvédyliluutnantti Bárdy. Kuten näette, olen
+seurannut neuvoanne ja muuttanut tänne.
+
+— Siinä teitte viisaasti. Mitä vielä tahdotte?
+
+— Osaatteko jotain peliä? Korttia tai shakkia?
+
+— Osaan, mutta iltaisin minun on tapana nukkua.
+
+Näin sanoen kääntyi hän pois ja jätti siihen Bárdyn.
+
+Seuraavana päivänä aamulla Bárdy, telttakatoksen alla tupakoiden,
+katseli satamaa. Galatz oli viheliäinen pieni kaupunki, likainen, ilman
+kivikatuja ja öljylampuilla valaistu. Vain Tonavan rannalla seisoi pari
+kaksikerroksista rakennusta.
+
+Erään vihreillä ikkunanverhoilla varustetun yksikerroksisen portin yli
+näkyi keltaisella pohjalla kaksipäinen musta kotka. Siinä talossa asui
+Itävallan konsuli.
+
+Bárdyn käsi puristui hiljaa nyrkkiin, kun hän näki tuon linnun.
+
+Sitten hän huomasi, että juuri kotkan yläpuolella, ensimmäisessä
+kerroksessa, verho vedetään ylös eräästä ikkunasta ja kullatussa
+häkissä oleva papukaija pistetään siitä ulos.
+
+Papukaija keinutteli itseään hetkisen aikaa hiljaa, sitten se alkoi
+äänekkäästi, niin että koko satama saattoi kuulla, huutaa:
+
+"Unkarilainen roisto, unkarilainen roisto, kuss!"
+
+Bárdy kavahti pystyyn. Veri syöksyi hänen päähänsä. Hän kiiruhti alas
+kannelta, rientääksensä rannalle ja saattaaksensa tuon tyhmän linnun
+vaikenemaan.
+
+Mennessään kapteenin kajuutan ohi, hän näki että seinä oli täynnä
+kauniita pyssyjä. Hän tahtoi mennä sisään, mutta kajuutta oli lukittu.
+
+— Hyvä. Odotetaan — jupisi hän. Elokuun päivä paistoikin jo kovin
+kuumana ja lintu otettiin heti sisään.
+
+Iltapuoleen nousi edullinen tuuli; kapteeni kokosi matkustajat laivaan,
+jotta jos lastaus saadaan suoritetuksi, voitaisiin vielä yön kuluessa
+lähteä matkalle.
+
+Silloin astui sillalle hänen luokseen Rudolf Bárdy.
+
+— Herra kapteeni, minä onnittelen teitä pyssy kokoelmaanne. Minäkin
+osaan aseita arvostella, mutta noin kaunista kokoelmaa en ole vielä
+nähnyt.
+
+— Ettehän vielä ole sitä nähnytkään. (Samassa vedettiin verho taas ylös
+ja papukaija ilmestyi konsulin ikkunaan.)
+
+— Minä näin lasioven läpi.
+
+("Unkarilainen roisto, unkarilainen roisto!" kaikui lakkaamatta
+papukaijan kirkuva ääni satamassa. Bárdy vavahti ja puri huultaan.)
+
+— Ei se riitä. Tulkaa, niin näytän sen teille erikohdittain.
+
+Ja he menivät alas kapteenin kajuuttaan. Humphrey antautui pitkiin,
+tarkkoihin selityksiin. Bárdy otti käteensä uusirakenteisen
+englantilaisen karpiinin.
+
+— Onko se ladattu? — kysyi hän välinpitämättömästi.
+
+— On.
+
+— Sitten koetan sitä.
+
+Näin sanoen hän jätti hämmästyneen kapteenin siihen ja juoksi kannelle.
+Papukaijan häkin vieressä nojautui konsuli kyynäspäihinsä.
+
+— Sitä parempi, jos sinä! — huusi Bárdy ja ampui konsulia.
+
+Papukaijan hän ampui kuolijaaksi.
+
+Saattaa ajatella, millainen juoksu ja melu satamassa nousi. Ei kukaan
+tiennyt mitä oikeastaan oli tapahtunut. Kauheassa sekamelskassa
+Olivette kiireesti nosti ankkurin ja laski täysin purjein Mustaamerta
+kohti.
+
+Tunnin kuluttua, kun kapteeni oli varma siitä, ett'ei häntä ajeta
+takaa, puhui hän Bárdyn hyttiin:
+
+— Tuommoisia tyhmiä kepposia älkää minun laivassani tehkö.
+
+Hän saattoi huoleti puhua.
+
+Bárdy nukkui hyvästi pienen seikkailunsa jälkeen. Kun hän heräsi,
+olivat he aavalla merellä.
+
+Sitten hän astuskeli ympäri laivalla ja urkki matkustajien joukossa
+olevia itävaltalaisia.
+
+Yhdeltä hän heitti hatun, toiselta kaukoputken mereen; jos he tulivat
+häntä vastaan, työnsi hän heidät syrjään, otti heidän viininsä ja joi
+sen heidän edestään. Yhtä itävaltalaista, joka uskalsi nuhdella häntä,
+löi hän. Silloin vainotut menivät lähetystönä kapteenin luo ja pyysivät
+tuon vaarallisen miehen sidottavaksi.
+
+Kapteeni Humphrey kutsutti Bárdyn komentosillalle.
+
+— Nuori ystäväni, — sanoi hän tavallisella tyvenyydellään — oletteko
+perehtynyt Englannin eläintieteeseen?
+
+— En.
+
+— Ette siis tunne yhdeksänhäntäistä kissaa?
+
+— En.
+
+— Minä en söisikään että siihen tutustuisitte.
+
+— Mitä tahdotte tällä sanoa?
+
+— Sitä vaan, että jos vielä kuulen pienintäkään valitusta teitä
+vastaan, sidotan teidät mastoon ja annatan yhdeksänpäisestä
+matruusipatukasta, s.o. yhdeksänhäntäisestä kissasta, teille selkään
+viisikolmatta.
+
+— Tiedä, sinä englantilainen koira, ettei unkarilaiselle
+aatelismiehelle sovi puhua noin — huusi Bárdy ja löi kapteenia korvalle.
+
+Kaksi perämiestä riensi heti sinne ja otti hänet kiinni.
+
+— Heittäkää hänet mereen! — karjui kapteeni käheästi, kasvot verissä.
+
+Loiskis ja kuumaverinen skythalainen ui tuolla Mustanmeren aalloissa.
+Olivette kiiti nuolennopeudella eteenpäin ja jätti ajattelemattoman
+nuorukaisen oman onnensa nojaan.
+
+Kokonaista kahdeksan tuntia hän uiskenteli vedessä, kunnes vihdoin
+eräs Odessasta tuleva hollantilainen laiva hänet pelasti ja vei
+Konstantinopoliin.
+
+Bárdyn seuraavista seikkailuista meillä ei ole tietoa, ainoastaan jutun
+loppukohtauksen tunnemme.
+
+Konstantinopolissa hän astui amerikkalaiseen laivaan ja purjehti uuteen
+maanosaan. Kahden vuoden kuluttua, siis noin 1851, hän eräänä päivänä
+kävelee New-Yorkin kadulla, kun huomaa kapteeni Humphreyn, joka katsoo
+ulos eräästä ikkunasta toisessa kerroksessa.
+
+Äkillisessä mielenkuohauksessaan hän heti teki päätöksensä. Hän rientää
+ylös taloon ja astuu siihen huoneeseen, jonka ikkunasta kapteeni katsoi
+ulos.
+
+— Sinäkö se olet, Jim! — kysyy Humphrey taaksensa katsomatta.
+
+Seuraavassa silmänräpäyksessä hän tuntee, kuinka häneen tartutaan
+rautakourin ja nostetaan ikkunalle.
+
+— Minä se olen, minä, jonka sinä heitätit Mustaanmereen, koira. Putoo
+itsekin! — huusi eräs ääni.
+
+Ja Bárdy heitti kapteenin alas kadulle. Hän musertui kuolijaaksi.
+
+New-Yorkin valamiesoikeus julisti Bárdyn yksimielisesti vapaaksi.
+Unkarin kansa nautti siihen aikaan suurinta suosiota vapaiden kansojen
+joukossa.
+
+       *       *       *       *       *
+
+Tätä Bárdya pidettiin vapaussodassa sankarina, maanpakolaisuudessa
+riitapukarina. Hänen hyvät ominaisuutensa kävivät muuttuneissa
+olosuhteissa huonoiksi.
+
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK 74889 ***
